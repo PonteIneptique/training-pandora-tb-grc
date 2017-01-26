@@ -10,7 +10,18 @@ transform-xml:
 		done \
 	done
 
+perseids:
+	@for dir in ./perseids-proxies/*; do \
+		dir_cat=$$(basename $$dir);\
+		mkdir -p input/$$dir_cat/texts;\
+		for treebank in $$(find $$dir -name '*.xml'); do \
+			tb=$$(basename $(notdir $$treebank));\
+			echo Copying $$treebank in input/$$dir_cat/texts/$$tb;\
+			cp $$treebank ./input/$$dir_cat/texts/$$tb;\
+		done \
+	done
+
 split:
 	python3 dispatcher.py
 
-data: transform-xml split
+data: perseids transform-xml split

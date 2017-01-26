@@ -17,10 +17,12 @@ sudo apt-get install python3 libsaxonhe-java
 - **transition** contains simple transformation of treebank to tab formats
 - **output** contains split data set for pandora (merged indifferently of source)
 - **data** contains split data set for pandora (keeping the names)
+- **perseids-proxies** contains cloned repositories of Perseids Proxy generated resources
 
 # Order of build
 
 ```shell
 make transform-xml
 make split
+make data
 ```
