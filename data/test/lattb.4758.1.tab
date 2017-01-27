@@ -1,7 +1,14 @@
-1	Scis	scio	scio	VB	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	_	_	_	_	_	_
-2	iter	iter	iter	NN	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	_	_	_	_	_	_
-3	ex	ex	ex	PREP	PREP			_	_	_	_	_	_
-4	animo	animus	animus	NN	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	_	_	_	_	_	_
-5	sublatum	tollo	tollo	VB	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=NEUTER|case=ACCUSATIVE	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=NEUTER|case=ACCUSATIVE	_	_	_	_	_	_
-6	triste	tristis	tristis	ADJ	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	_	_	_	_	_	_
-7	puellae	puella	puella	NN	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	number=SINGULAR|gender=FEMININE|case=GENITIVE	_	_	_	_	_	_
+1	Omnibus	omnis	ADJ	number=PLURAL|gender=MASCULINE|case=ABLATIVE	
+2	ille	ille	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+3	dies	dies	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+4	nobis	nos	PRON	number=PLURAL|gender=MASCULINE|case=ABLATIVE	
+5	natalis	natalis	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+6	agatur	ago	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=PASSIVE	
+7	qui	qui	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+8	ne	ne	ADV	_	
+9	-c	que	CONJ	_	
+10	opinanti	opinor	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=DATIVE	
+11	nunc	nunc	ADV	_	
+12	tibi	tu	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+13	forte	fors	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+14	venit	venio	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	

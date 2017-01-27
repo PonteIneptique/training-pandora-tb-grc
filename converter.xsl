@@ -19,13 +19,16 @@
             <xsl:when test="starts-with($pos, 'v')"><xsl:text>VB</xsl:text></xsl:when>
             <xsl:when test="starts-with($pos, 'm')"><xsl:text>NRL</xsl:text></xsl:when>
             <xsl:when test="starts-with($pos, 'u')"><xsl:text>PUNCT</xsl:text></xsl:when>
-            <xsl:when test="starts-with($pos, 'x')"><xsl:text>irreg</xsl:text></xsl:when>
+            <xsl:when test="starts-with($pos, 'x')"><xsl:text>IRREG</xsl:text></xsl:when>
         </xsl:choose>
         <xsl:text>	</xsl:text>
     </xsl:template>
     <xsl:template name="CAT">
         <xsl:param name="pos" />
-        <xsl:value-of select="string-join($pos//value/text(), '|')" />
+        <xsl:choose>
+            <xsl:when test="count($pos//value) > 0"><xsl:value-of select="string-join($pos//value/text(), '|')" /></xsl:when>
+            <xsl:otherwise><xsl:text>_</xsl:text></xsl:otherwise>
+        </xsl:choose>
         <xsl:text>	</xsl:text>
     </xsl:template>
     <xsl:template name="CAT_NODE">
@@ -98,11 +101,6 @@
                 <xsl:text>	</xsl:text>
                 <xsl:value-of select="./replace(replace(@lemma, '[^a-zA-Z]', ''), '^1', '')"/>
                 <xsl:text>	</xsl:text>
-                <xsl:value-of select="./replace(replace(@lemma, '[^a-zA-Z]', ''), '^1', '')"/>
-                <xsl:text>	</xsl:text>
-                <xsl:call-template name="POS">
-                    <xsl:with-param name="pos" select="@postag"></xsl:with-param>
-                </xsl:call-template>
                 <xsl:call-template name="POS">
                     <xsl:with-param name="pos" select="@postag"></xsl:with-param>
                 </xsl:call-template>
@@ -113,14 +111,6 @@
                         </xsl:call-template>
                     </xsl:with-param>
                 </xsl:call-template>
-                <xsl:call-template name="CAT">
-                    <xsl:with-param name="pos">
-                        <xsl:call-template name="CAT_NODE">
-                            <xsl:with-param name="pos" select="@postag" />
-                        </xsl:call-template>
-                    </xsl:with-param>
-                </xsl:call-template>
-                <xsl:text>_	_	_	_	_	_</xsl:text>
                 <xsl:variable name="counter" select="$counter + 1 "/>
                 <xsl:text>
 </xsl:text>

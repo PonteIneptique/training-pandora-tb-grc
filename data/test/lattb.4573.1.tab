@@ -1,21 +1,21 @@
-1	Instant	insto	insto	VB	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	_	_	_	_	_	_
-2	ardentes	ardeo	ardeo	VB	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	number=PLURAL|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	_	_	_	_	_	_
-3	Tyrii	Tyrius	Tyrius	ADJ	ADJ	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	_	_	_	_	_	_
-4	pars	pars	pars	NN	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	_	_	_	_	_	_
-5	ducere	duco	duco	VB	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	tense=PR|mood=INFINITIVE|voice=ACTIVE	_	_	_	_	_	_
-6	muros	murus	murus	NN	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	_	_	_	_	_	_
-7	moliri	molior	molior	VB	VB	tense=PR|mood=INFINITIVE|voice=PASSIVE	tense=PR|mood=INFINITIVE|voice=PASSIVE	_	_	_	_	_	_
-8	-que	que	que	CONJ	CONJ	_	_	_	_	_	_	_	_
-9	arcem	arx	arx	NN	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	_	_	_	_	_	_
-10	et	et	et	CONJ	CONJ	_	_	_	_	_	_	_	_
-11	manibus	manus	manus	NN	NN	number=PLURAL|gender=FEMININE|case=ABLATIVE	number=PLURAL|gender=FEMININE|case=ABLATIVE	_	_	_	_	_	_
-12	subvolvere	subvolvo	subvolvo	VB	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	tense=PR|mood=INFINITIVE|voice=ACTIVE	_	_	_	_	_	_
-13	saxa	saxum	saxum	NN	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	_	_	_	_	_	_
-14	pars	pars	pars	NN	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	_	_	_	_	_	_
-15	optare	opto	opto	VB	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	tense=PR|mood=INFINITIVE|voice=ACTIVE	_	_	_	_	_	_
-16	locum	locus	locus	NN	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	_	_	_	_	_	_
-17	tecto	tectum	tectum	NN	NN	number=SINGULAR|gender=NEUTER|case=DATIVE	number=SINGULAR|gender=NEUTER|case=DATIVE	_	_	_	_	_	_
-18	et	et	et	CONJ	CONJ	_	_	_	_	_	_	_	_
-19	concludere	concludo	concludo	VB	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	tense=PR|mood=INFINITIVE|voice=ACTIVE	_	_	_	_	_	_
-20	sulco	sulcus	sulcus	NN	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	_	_	_	_	_	_
-21	(instant)							_	_	_	_	_	_
+1	Instant	insto	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+2	ardentes	ardeo	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
+3	Tyrii	Tyrius	ADJ	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+4	pars	pars	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+5	ducere	duco	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+6	muros	murus	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+7	moliri	molior	VB	tense=PR|mood=INFINITIVE|voice=PASSIVE	
+8	-que	que	CONJ	_	
+9	arcem	arx	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+10	et	et	CONJ	_	
+11	manibus	manus	NN	number=PLURAL|gender=FEMININE|case=ABLATIVE	
+12	subvolvere	subvolvo	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+13	saxa	saxum	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+14	pars	pars	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+15	optare	opto	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+16	locum	locus	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+17	tecto	tectum	NN	number=SINGULAR|gender=NEUTER|case=DATIVE	
+18	et	et	CONJ	_	
+19	concludere	concludo	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+20	sulco	sulcus	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+21	(instant)			_	

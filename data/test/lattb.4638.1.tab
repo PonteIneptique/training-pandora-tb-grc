@@ -1,11 +1,7 @@
-1	sed	sed	sed	CONJ	CONJ	_	_	_	_	_	_	_	_
-2	contra	contra	contra	ADV	ADV			_	_	_	_	_	_
-3	accipies	accipio	accipio	VB	VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	_	_	_	_	_	_
-4	meros	merus	merus	ADJ	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	_	_	_	_	_	_
-5	amores	amor	amor	NN	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	_	_	_	_	_	_
-6	seu	sive	sive	CONJ	CONJ	_	_	_	_	_	_	_	_
-7	quid	quis	quis	NN	NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	_	_	_	_	_	_
-8	suavius	suavis	suavis	ADJ	ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE|degree=COMPARATIVE	number=SINGULAR|gender=NEUTER|case=NOMINATIVE|degree=COMPARATIVE	_	_	_	_	_	_
-9	elegantius	elegans	elegans	ADJ	ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE|degree=COMPARATIVE	number=SINGULAR|gender=NEUTER|case=NOMINATIVE|degree=COMPARATIVE	_	_	_	_	_	_
-10	-ve	ve	ve	CONJ	CONJ	_	_	_	_	_	_	_	_
-11	est	sum	sum	VB	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	_	_	_	_	_	_
+1	nam	nam	CONJ	_	
+2	tui	tuus	ADJ	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+3	Catulli	Catullus	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+4	plenus	plenus	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+5	sacculus	sacculus	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+6	est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+7	aranearum	aranea	NN	number=PLURAL|gender=FEMININE|case=GENITIVE	

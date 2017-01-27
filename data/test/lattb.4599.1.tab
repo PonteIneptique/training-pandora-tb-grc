@@ -1,11 +1,10 @@
-1	at	at	at	CONJ	CONJ	_	_	_	_	_	_	_	_
-2	vobis	tu	tu	PRON	PRON	number=PLURAL|gender=FEMININE|case=DATIVE	number=PLURAL|gender=FEMININE|case=DATIVE	_	_	_	_	_	_
-3	male	malus	malus	ADV	ADV	degree=POSITIVE	degree=POSITIVE	_	_	_	_	_	_
-4	sit	sum	sum	VB	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	_	_	_	_	_	_
-5	malae	malus	malus	ADJ	ADJ	number=PLURAL|gender=FEMININE|case=VOCATIVE	number=PLURAL|gender=FEMININE|case=VOCATIVE	_	_	_	_	_	_
-6	tenebrae	tenebra	tenebra	NN	NN	number=PLURAL|gender=FEMININE|case=VOCATIVE	number=PLURAL|gender=FEMININE|case=VOCATIVE	_	_	_	_	_	_
-7	Orci	Orcus	Orcus	NN	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	number=SINGULAR|gender=MASCULINE|case=GENITIVE	_	_	_	_	_	_
-8	quae	qui	qui	NN	NN	number=PLURAL|gender=FEMININE|case=NOMINATIVE	number=PLURAL|gender=FEMININE|case=NOMINATIVE	_	_	_	_	_	_
-9	omnia	omnis	omnis	ADJ	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	_	_	_	_	_	_
-10	bella	bellus	bellus	ADJ	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	_	_	_	_	_	_
-11	devoratis	devoro	devoro	VB	VB	person=PERSON_2|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	person=PERSON_2|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	_	_	_	_	_	_
+1	Lugete	lugeo	VB	person=PERSON_2|number=PLURAL|tense=PR|mood=IMPERATIVE|voice=ACTIVE	
+2	o	o	EXCL	_	
+3	Veneres	Venus	NN	number=PLURAL|gender=FEMININE|case=VOCATIVE	
+4	Cupidines	cupido	NN	number=PLURAL|gender=FEMININE|case=VOCATIVE	
+5	-que	que	CONJ	_	
+6	et	et	CONJ	_	
+7	quantum	quantus	ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+8	est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+9	hominum	homo	NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+10	venustiorum	venustus	ADJ	number=PLURAL|case=GENITIVE|degree=COMPARATIVE	

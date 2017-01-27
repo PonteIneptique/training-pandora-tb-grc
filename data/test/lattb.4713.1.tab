@@ -1,12 +1,11 @@
-1	Invisus	invideo	invideo	VB	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	_	_	_	_	_	_
-2	natalis	natalis	natalis	ADJ	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	_	_	_	_	_	_
-3	adest	adsum	adsum	VB	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	_	_	_	_	_	_
-4	qui	qui	qui	NN	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	_	_	_	_	_	_
-5	rure	rus	rus	NN	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	number=SINGULAR|gender=NEUTER|case=ABLATIVE	_	_	_	_	_	_
-6	molesto	molestus	molestus	ADJ	ADJ	number=SINGULAR|gender=NEUTER|case=ABLATIVE	number=SINGULAR|gender=NEUTER|case=ABLATIVE	_	_	_	_	_	_
-7	et	et	et	CONJ	CONJ	_	_	_	_	_	_	_	_
-8	sine	sine	sine	PREP	PREP			_	_	_	_	_	_
-9	Cerintho	cerinthus	cerinthus	NN	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	_	_	_	_	_	_
-10	tristis	tristis	tristis	ADJ	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	_	_	_	_	_	_
-11	agendus	ago	ago	VB	VB	number=SINGULAR|mood=GERUNDIVE|gender=MASCULINE|case=NOMINATIVE	number=SINGULAR|mood=GERUNDIVE|gender=MASCULINE|case=NOMINATIVE	_	_	_	_	_	_
-12	erit	sum	sum	VB	VB	person=PERSON_3|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	person=PERSON_3|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	_	_	_	_	_	_
+1	Iam	jam	ADV	_	
+2	nimium	nimius	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+3	Messalla	Messalla	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+4	mei	ego	PRON	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+5	studiose	studiosus	ADJ	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+6	quiescas	quiesco	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
+7	non	non	ADV	_	
+8	tempestivae	tempestivus	ADJ	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
+9	saeve	saevus	ADJ	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+10	propinque	propinquus	ADJ	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+11	viae	via	NN	number=PLURAL|gender=FEMININE|case=NOMINATIVE	

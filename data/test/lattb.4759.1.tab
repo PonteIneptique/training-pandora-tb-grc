@@ -1,14 +1,15 @@
-1	Solliciti	sollicitus	sollicitus	ADJ	ADJ	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	_	_	_	_	_	_
-2	sunt	sum	sum	VB	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	_	_	_	_	_	_
-3	pro	pro	pro	PREP	PREP			_	_	_	_	_	_
-4	nobis	nos	nos	PRON	PRON	number=PLURAL|gender=FEMININE|case=ABLATIVE	number=PLURAL|gender=FEMININE|case=ABLATIVE	_	_	_	_	_	_
-5	quibus	qui	qui	NN	NN	number=PLURAL|gender=MASCULINE|case=DATIVE	number=PLURAL|gender=MASCULINE|case=DATIVE	_	_	_	_	_	_
-6	illa	ille	ille	PRON	PRON	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	_	_	_	_	_	_
-7	dolori	dolor	dolor	NN	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	number=SINGULAR|gender=MASCULINE|case=DATIVE	_	_	_	_	_	_
-8	est	sum	sum	VB	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	_	_	_	_	_	_
-9	ne	ne	ne	ADV	ADV			_	_	_	_	_	_
-10	cedam	cedo	cedo	VB	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	person=PERSON_1|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	_	_	_	_	_	_
-11	ignoto	ignosco	ignosco	VB	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=DATIVE	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=DATIVE	_	_	_	_	_	_
-12	maxima	magnus	magnus	ADJ	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE|degree=SUPERLATIVE	number=SINGULAR|gender=FEMININE|case=NOMINATIVE|degree=SUPERLATIVE	_	_	_	_	_	_
-13	causa	causa	causa	NN	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	_	_	_	_	_	_
-14	toro	torus	torus	NN	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	number=SINGULAR|gender=MASCULINE|case=DATIVE	_	_	_	_	_	_
+1	Gratum	gratus	ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+2	est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+3	securus	securus	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+4	multum	multus	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+5	quod	qui	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+6	iam	jam	ADV	_	
+7	tibi	tu	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+8	de	de	PREP	_	
+9	me	ego	PRON	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+10	permittis	permitto	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+11	subito	subito	ADV	_	
+12	ne	ne	ADV	_	
+13	male	malus	ADV	degree=POSITIVE	
+14	inepta	ineptus	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+15	cadam	cado	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	

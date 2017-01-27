@@ -1,13 +1,39 @@
-1	Siste	sisto	sisto	VB	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE|voice=ACTIVE	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE|voice=ACTIVE	_	_	_	_	_	_
-2	gradum	gradus	gradus	NN	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	_	_	_	_	_	_
-3	te	tu	tu	PRON	PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	_	_	_	_	_	_
-4	-que	que	que	CONJ	CONJ	_	_	_	_	_	_	_	_
-5	aspectu	aspectus	aspectus	NN	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	_	_	_	_	_	_
-6	ne	ne	ne	ADV	ADV			_	_	_	_	_	_
-7	subtrahe	subtraho	subtraho	VB	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE|voice=ACTIVE	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE|voice=ACTIVE	_	_	_	_	_	_
-8	nostro	noster	noster	ADJ	ADJ	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	_	_	_	_	_	_
-1	Funeris	funus	funus	NN	NN	number=SINGULAR|gender=NEUTER|case=GENITIVE	number=SINGULAR|gender=NEUTER|case=GENITIVE	_	_	_	_	_	_
-2	heu	heu	heu	EXCL	EXCL			_	_	_	_	_	_
-3	tibi	tu	tu	PRON	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	number=SINGULAR|gender=MASCULINE|case=DATIVE	_	_	_	_	_	_
-4	causa	causa	causa	NN	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	_	_	_	_	_	_
-5	fui	sum	sum	VB	VB	person=PERSON_1|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	person=PERSON_1|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	_	_	_	_	_	_
+1	Extremum	extremus	ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+2	fato	fatum	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+3	quod	qui	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+4	te	tu	PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+5	adloquor	alloquor	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=PASSIVE	
+6	hoc	hic	PRON	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+7	est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+1	quam	qui	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+2	Troius	Troius	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+3	heros	heros	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+4	ut	ut	CONJ	_	
+5	primum	primus	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+6	iuxta	juxta	ADV	_	
+7	stetit	sto	VB	person=PERSON_3|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+8	adgnovit	agnosco	VB	person=PERSON_3|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+9	-que	que	CONJ	_	
+10	per	per	PREP	_	
+11	umbras	umbra	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+12	obscuram	obscurus	ADJ	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+13	qualem	qualis	ADJ	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+14	primo	primus	ADJ	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+15	qui	qui	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+16	surgere	surgo	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+17	mense	mensis	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+18	aut	aut	CONJ	_	
+19	videt	video	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+20	aut	aut	CONJ	_	
+21	vidisse	video	VB	tense=PERF|mood=INFINITIVE|voice=ACTIVE	
+22	putat	puto	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+23	per	per	PREP	_	
+24	nubila	nubilum	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+25	lunam	luna	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+26	demisit	demitto	VB	person=PERSON_3|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+27	lacrimas	lacrima	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+28	dulci	dulcis	ADJ	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+29	-que	que	CONJ	_	
+30	adfatus	affor	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
+31	amore	amor	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+32	est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	

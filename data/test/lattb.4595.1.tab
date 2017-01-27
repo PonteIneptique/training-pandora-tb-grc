@@ -1,2 +1,17 @@
-1	Corneli	Cornelius	Cornelius	NN	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	_	_	_	_	_	_
-2	tibi	tu	tu	PRON	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	number=SINGULAR|gender=MASCULINE|case=DATIVE	_	_	_	_	_	_
+1	qua	qui	PRON	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+2	-re	res	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+3	habe	habeo	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE|voice=ACTIVE	
+4	tibi	tu	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+5	quidquid	quisquis	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+6	hoc	hic	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+7	libelli	libellus	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+8	qualecumque	qualiscumque	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE|degree=POSITIVE	
+9	quod	qui	NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+10	o	o	EXCL	_	
+11	patrona	patrona	NN	number=SINGULAR|gender=FEMININE|case=VOCATIVE	
+12	virgo	virgo	NN	number=SINGULAR|gender=FEMININE|case=VOCATIVE	
+13	plus	multus	ADV	degree=COMPARATIVE	
+14	uno	unus	ADJ	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+15	maneat	maneo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
+16	perenne	perennis	ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+17	saeclo	saeculum	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	

@@ -1,28 +1,42 @@
-1	ego	ego	ego	PRON	PRON	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	_	_	_	_	_	_
-2	non	non	non	ADV	ADV			_	_	_	_	_	_
-3	aliter	aliter	aliter	ADV	ADV			_	_	_	_	_	_
-4	tristes	tristis	tristis	ADJ	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	_	_	_	_	_	_
-5	evincere	evinco	evinco	VB	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	tense=PR|mood=INFINITIVE|voice=ACTIVE	_	_	_	_	_	_
-6	morbos	morbus	morbus	NN	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	_	_	_	_	_	_
-7	optarim	opto	opto	VB	VB	person=PERSON_1|number=SINGULAR|tense=PERF|mood=SUBJUNCTIVE|voice=ACTIVE	person=PERSON_1|number=SINGULAR|tense=PERF|mood=SUBJUNCTIVE|voice=ACTIVE	_	_	_	_	_	_
-8	quam	quam	quam	ADV	ADV			_	_	_	_	_	_
-9	te	tu	tu	PRON	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	_	_	_	_	_	_
-10	si	si	si	CONJ	CONJ	_	_	_	_	_	_	_	_
-11	quoque	quoque	quoque	ADV	ADV			_	_	_	_	_	_
-12	velle	volo	volo	VB	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	tense=PR|mood=INFINITIVE|voice=ACTIVE	_	_	_	_	_	_
-13	putem	puto	puto	VB	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	person=PERSON_1|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	_	_	_	_	_	_
-1	At	at	at	CONJ	CONJ	_	_	_	_	_	_	_	_
-2	mihi	ego	ego	PRON	PRON	number=SINGULAR|gender=FEMININE|case=DATIVE	number=SINGULAR|gender=FEMININE|case=DATIVE	_	_	_	_	_	_
-3	quid	quis	quis	NN	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	_	_	_	_	_	_
-4	prosit	prosum	prosum	VB	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	_	_	_	_	_	_
-5	morbos	morbus	morbus	NN	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	_	_	_	_	_	_
-6	evincere	evinco	evinco	VB	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	tense=PR|mood=INFINITIVE|voice=ACTIVE	_	_	_	_	_	_
-7	si	si	si	CONJ	CONJ	_	_	_	_	_	_	_	_
-8	tu	tu	tu	PRON	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	_	_	_	_	_	_
-9	nostra	noster	noster	ADJ	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	_	_	_	_	_	_
-10	potes	possum	possum	VB	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	_	_	_	_	_	_
-11	lento	lentus	lentus	ADJ	ADJ	number=SINGULAR|gender=NEUTER|case=ABLATIVE	number=SINGULAR|gender=NEUTER|case=ABLATIVE	_	_	_	_	_	_
-12	pectore	pectus	pectus	NN	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	number=SINGULAR|gender=NEUTER|case=ABLATIVE	_	_	_	_	_	_
-13	ferre	fero	fero	VB	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	tense=PR|mood=INFINITIVE|voice=ACTIVE	_	_	_	_	_	_
-14	mala	malus	malus	ADJ	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	_	_	_	_	_	_
-1	A	a	a	EXCL	EXCL			_	_	_	_	_	_
+1	ego	ego	PRON	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+2	non	non	ADV	_	
+3	aliter	aliter	ADV	_	
+4	tristes	tristis	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+5	evincere	evinco	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+6	morbos	morbus	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+7	optarim	opto	VB	person=PERSON_1|number=SINGULAR|tense=PERF|mood=SUBJUNCTIVE|voice=ACTIVE	
+8	quam	quam	ADV	_	
+9	te	tu	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+10	si	si	CONJ	_	
+11	quoque	quoque	ADV	_	
+12	velle	volo	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+13	putem	puto	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
+1	Est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+2	-ne	ne	ADV	_	
+3	tibi	tu	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+4	Cerinthe	Cerinthus	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+5	tuae	tuus	ADJ	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+6	pia	pius	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+7	cura	cura	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+8	puellae	puella	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+9	quod	qui	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+10	mea	meus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+11	nunc	nunc	ADV	_	
+12	vexat	vexo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+13	corpora	corpus	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+14	fessa	fessus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+15	calor	calor	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+1	At	at	CONJ	_	
+2	mihi	ego	PRON	number=SINGULAR|gender=FEMININE|case=DATIVE	
+3	quid	quis	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+4	prosit	prosum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
+5	morbos	morbus	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+6	evincere	evinco	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+7	si	si	CONJ	_	
+8	tu	tu	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+9	nostra	noster	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+10	potes	possum	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+11	lento	lentus	ADJ	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+12	pectore	pectus	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+13	ferre	fero	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+14	mala	malus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	

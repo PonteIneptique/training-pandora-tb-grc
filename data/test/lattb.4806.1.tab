@@ -1,17 +1,17 @@
-1	qua	qui	qui	PRON	PRON	number=SINGULAR|gender=FEMININE|case=ABLATIVE	number=SINGULAR|gender=FEMININE|case=ABLATIVE	_	_	_	_	_	_
-2	-re	res	res	NN	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	number=SINGULAR|gender=FEMININE|case=ABLATIVE	_	_	_	_	_	_
-3	habe	habeo	habeo	VB	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE|voice=ACTIVE	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE|voice=ACTIVE	_	_	_	_	_	_
-4	tibi	tu	tu	PRON	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	number=SINGULAR|gender=MASCULINE|case=DATIVE	_	_	_	_	_	_
-5	quidquid	quisquis	quisquis	PRON	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	_	_	_	_	_	_
-6	hoc	hic	hic	PRON	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	_	_	_	_	_	_
-7	libelli	libellus	libellus	NN	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	number=SINGULAR|gender=MASCULINE|case=GENITIVE	_	_	_	_	_	_
-8	qualecumque	qualiscumque	qualiscumque	ADJ	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE|degree=POSITIVE	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE|degree=POSITIVE	_	_	_	_	_	_
-9	quod	qui	qui	NN	NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	_	_	_	_	_	_
-10	o	o	o	EXCL	EXCL			_	_	_	_	_	_
-11	patrona	patrona	patrona	NN	NN	number=SINGULAR|gender=FEMININE|case=VOCATIVE	number=SINGULAR|gender=FEMININE|case=VOCATIVE	_	_	_	_	_	_
-12	virgo	virgo	virgo	NN	NN	number=SINGULAR|gender=FEMININE|case=VOCATIVE	number=SINGULAR|gender=FEMININE|case=VOCATIVE	_	_	_	_	_	_
-13	plus	multus	multus	ADV	ADV	degree=COMPARATIVE	degree=COMPARATIVE	_	_	_	_	_	_
-14	uno	unus	unus	ADJ	ADJ	number=SINGULAR|gender=NEUTER|case=ABLATIVE	number=SINGULAR|gender=NEUTER|case=ABLATIVE	_	_	_	_	_	_
-15	maneat	maneo	maneo	VB	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	_	_	_	_	_	_
-16	perenne	perennis	perennis	ADJ	ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	_	_	_	_	_	_
-17	saeclo	saeculum	saeculum	NN	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	number=SINGULAR|gender=NEUTER|case=ABLATIVE	_	_	_	_	_	_
+1	qua	qui	PRON	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+2	-re	res	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+3	habe	habeo	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE|voice=ACTIVE	
+4	tibi	tu	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+5	quidquid	quisquis	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+6	hoc	hic	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+7	libelli	libellus	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+8	qualecumque	qualiscumque	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE|degree=POSITIVE	
+9	quod	qui	NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+10	o	o	EXCL	_	
+11	patrona	patrona	NN	number=SINGULAR|gender=FEMININE|case=VOCATIVE	
+12	virgo	virgo	NN	number=SINGULAR|gender=FEMININE|case=VOCATIVE	
+13	plus	multus	ADV	degree=COMPARATIVE	
+14	uno	unus	ADJ	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+15	maneat	maneo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
+16	perenne	perennis	ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+17	saeclo	saeculum	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
