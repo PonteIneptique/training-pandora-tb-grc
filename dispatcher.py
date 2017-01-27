@@ -1,6 +1,7 @@
 from os import listdir, makedirs
 from os.path import isfile, join
 import random
+import re
 
 sources = [join(".", "transition", dir) for dir in listdir(join(".", "transition"))]
 ratio = 0.9
@@ -25,6 +26,8 @@ except FileExistsError as E:
 except Exception as E:
     raise E
 
+remint = re.compile("(\d+\t)")
+
 for source_folder in sources:
     for filepath in listdir(join(source_folder)):
         print("Converting "+join(source_folder, filepath))
@@ -34,7 +37,7 @@ for source_folder in sources:
             for line in file.readlines():
                 if line.startswith("1\t"):
                     sentences.append([])
-                sentences[-1].append(line)
+                sentences[-1].append(remint.sub("", line))
 
         # Randomization
         random.shuffle(sentences)

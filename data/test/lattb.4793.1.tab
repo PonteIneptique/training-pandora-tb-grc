@@ -1,37 +1,60 @@
-1	Nocte	nox	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
-2	volat	volo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-3	caeli	caelum	NN	number=SINGULAR|gender=NEUTER|case=GENITIVE	
-4	medio	medius	ADJ	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
-5	terrae	terra	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-6	-que	que	CONJ	_	
-7	per	per	PREP	_	
-8	umbram	umbra	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-9	stridens	strido	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|gender=FEMININE|case=NOMINATIVE	
-10	ne	ne	ADV	_	
-11	-c	que	CONJ	_	
-12	dulci	dulcis	ADJ	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
-13	declinat	declino	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-14	lumina	lumen	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-15	somno	somnus	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
-1	Extemplo	extemplo	ADV	_	
-2	Libyae	Libya	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-3	magnas	magnus	ADJ	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-4	it	eo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-5	Fama	fama	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-6	per	per	PREP	_	
-7	urbes	urbs	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-1	“			_	
-2	Iuppiter	Iuppiter	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-3	omnipotens	omnipotens	ADJ	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-4	cui	qui	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-5	nunc	nunc	ADV	_	
-6	Maurusia	Maurusius	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-7	pictis	pingo	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=ABLATIVE	
-8	gens	gens	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-9	epulata	epulor	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=FEMININE|case=NOMINATIVE	
-10	toris	torus	NN	number=PLURAL|gender=MASCULINE|case=ABLATIVE	
-11	Lenaeum	Lenaeus	ADJ	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-12	libat	libo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-13	honorem	honor	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-14	aspicis	aspicio	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-15	haec	hic	PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+Protinus	protinus	ADV	_	
+ad	ad	PREP	_	
+regem	rex	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+cursus	cursus	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+detorquet	detorqueo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+Iarban	Iarba	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+incendit	incendo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+-que	que	CONJ	_	
+animum	animus	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+dictis	dico	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=NEUTER|case=ABLATIVE	
+atque	atque	CONJ	_	
+aggerat	aggero	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+iras	ira	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+Hic	hic	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Hammone	Ammon	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+satus	sero	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
+rapta	rapio	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=FEMININE|case=ABLATIVE	
+Garamantide	Garamantis	ADJ	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+Nympha	nympha	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+templa	templum	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+Iovi	Iuppiter	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+centum	centum	NRL	_	
+latis	latus	ADJ	number=PLURAL|gender=NEUTER|case=ABLATIVE	
+immania	immanis	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+regnis	regnum	NN	number=PLURAL|gender=NEUTER|case=ABLATIVE	
+centum	centum	NRL	_	
+aras	ara	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+posuit	pono	VB	person=PERSON_3|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+vigilem	vigil	ADJ	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+-que	que	CONJ	_	
+sacraverat	sacro	VB	person=PERSON_3|number=SINGULAR|tense=PLUSQUAMPERFECT|mood=INDICATIVE|voice=ACTIVE	
+ignem	ignis	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+excubias	excubiae	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+divom	deus	NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+aeternas	aeternus	ADJ	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+pecudum	pecus	NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+-que	que	CONJ	_	
+cruore	cruor	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+pingue	pinguis	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+solum	solum	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+et	et	CONJ	_	
+variis	varius	ADJ	number=PLURAL|gender=NEUTER|case=ABLATIVE	
+florentia	floreo	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|gender=NEUTER|case=ACCUSATIVE	
+limina	limen	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+sertis	sertum	NN	number=PLURAL|gender=NEUTER|case=ABLATIVE	
+“			_	
+Iuppiter	Iuppiter	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+omnipotens	omnipotens	ADJ	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+cui	qui	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+nunc	nunc	ADV	_	
+Maurusia	Maurusius	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+pictis	pingo	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=ABLATIVE	
+gens	gens	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+epulata	epulor	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=FEMININE|case=NOMINATIVE	
+toris	torus	NN	number=PLURAL|gender=MASCULINE|case=ABLATIVE	
+Lenaeum	Lenaeus	ADJ	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+libat	libo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+honorem	honor	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+aspicis	aspicio	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+haec	hic	PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	

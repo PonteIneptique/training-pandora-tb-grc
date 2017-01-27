@@ -1,72 +1,57 @@
-1	Cenabis	ceno	VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-2	bene	bene	ADV	_	
-3	mi	meus	ADJ	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-4	Fabulle	Fabullus	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-5	apud	apud	PREP	_	
-6	me	ego	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-7	paucis	paucus	ADJ	number=PLURAL|gender=MASCULINE|case=ABLATIVE	
-8	si	si	CONJ	_	
-9	tibi	tu	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-10	di	deus	NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-11	favent	faveo	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-12	diebus	dies	NN	number=PLURAL|gender=MASCULINE|case=ABLATIVE	
-13	si	si	CONJ	_	
-14	te	tu	PRON	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
-15	-cum	cum	PREP	_	
-16	attuleris	affero	VB	person=PERSON_2|number=SINGULAR|tense=FUTUREPERFECT|mood=INDICATIVE|voice=ACTIVE	
-17	bonam	bonus	ADJ	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-18	atque	atque	CONJ	_	
-19	magnam	magnus	ADJ	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-20	cenam	cena	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-21	non	non	ADV	_	
-22	sine	sine	PREP	_	
-23	candida	candida	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
-24	puella	puella	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
-25	et	et	CONJ	_	
-26	vino	vinum	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
-27	et	et	CONJ	_	
-28	sale	sal	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
-29	et	et	CONJ	_	
-30	omnibus	omnis	ADJ	number=PLURAL|gender=MASCULINE|case=ABLATIVE	
-31	cachinnis	cachinnus	NN	number=PLURAL|gender=MASCULINE|case=ABLATIVE	
-1	sed	sed	CONJ	_	
-2	contra	contra	ADV	_	
-3	accipies	accipio	VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-4	meros	merus	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-5	amores	amor	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-6	seu	sive	CONJ	_	
-7	quid	quis	NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
-8	suavius	suavis	ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE|degree=COMPARATIVE	
-9	elegantius	elegans	ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE|degree=COMPARATIVE	
-10	-ve	ve	CONJ	_	
-11	est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-1	haec	hic	PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-2	si	si	CONJ	_	
-3	inquam	inquam	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-4	attuleris	affero	VB	person=PERSON_2|number=SINGULAR|tense=FUTUREPERFECT|mood=INDICATIVE|voice=ACTIVE	
-5	venuste	venustus	ADJ	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-6	noster	noster	ADJ	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-7	cenabis	ceno	VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-8	bene	bene	ADV	_	
-1	nam	nam	CONJ	_	
-2	unguentum	unguentum	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-3	dabo	do	VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-4	quod	qui	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-5	meae	meus	ADJ	number=SINGULAR|gender=FEMININE|case=DATIVE	
-6	puellae	puella	NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-7	donarunt	dono	VB	person=PERSON_3|number=PLURAL|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
-8	Veneres	Venus	NN	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
-9	Cupidines	cupido	NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-10	-que	que	CONJ	_	
-11	quod	qui	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-12	tu	tu	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-13	cum	cum	CONJ	_	
-14	olfacies	olfacio	VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-15	deos	deus	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-16	rogabis	rogo	VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-17	totum	totus	ADJ	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-18	ut	ut	ADV	_	
-19	te	tu	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-20	faciant	facio	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
-21	Fabulle	Fabullus	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-22	nasum	nasus	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+nam	nam	CONJ	_	
+tui	tuus	ADJ	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+Catulli	Catullus	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+plenus	plenus	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+sacculus	sacculus	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+aranearum	aranea	NN	number=PLURAL|gender=FEMININE|case=GENITIVE	
+Cenabis	ceno	VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+bene	bene	ADV	_	
+mi	meus	ADJ	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+Fabulle	Fabullus	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+apud	apud	PREP	_	
+me	ego	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+paucis	paucus	ADJ	number=PLURAL|gender=MASCULINE|case=ABLATIVE	
+si	si	CONJ	_	
+tibi	tu	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+di	deus	NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+favent	faveo	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+diebus	dies	NN	number=PLURAL|gender=MASCULINE|case=ABLATIVE	
+si	si	CONJ	_	
+te	tu	PRON	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+-cum	cum	PREP	_	
+attuleris	affero	VB	person=PERSON_2|number=SINGULAR|tense=FUTUREPERFECT|mood=INDICATIVE|voice=ACTIVE	
+bonam	bonus	ADJ	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+atque	atque	CONJ	_	
+magnam	magnus	ADJ	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+cenam	cena	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+non	non	ADV	_	
+sine	sine	PREP	_	
+candida	candida	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+puella	puella	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+et	et	CONJ	_	
+vino	vinum	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+et	et	CONJ	_	
+sale	sal	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+et	et	CONJ	_	
+omnibus	omnis	ADJ	number=PLURAL|gender=MASCULINE|case=ABLATIVE	
+cachinnis	cachinnus	NN	number=PLURAL|gender=MASCULINE|case=ABLATIVE	
+haec	hic	PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+si	si	CONJ	_	
+inquam	inquam	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+attuleris	affero	VB	person=PERSON_2|number=SINGULAR|tense=FUTUREPERFECT|mood=INDICATIVE|voice=ACTIVE	
+venuste	venustus	ADJ	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+noster	noster	ADJ	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+cenabis	ceno	VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+bene	bene	ADV	_	
+sed	sed	CONJ	_	
+contra	contra	ADV	_	
+accipies	accipio	VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+meros	merus	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+amores	amor	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+seu	sive	CONJ	_	
+quid	quis	NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+suavius	suavis	ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE|degree=COMPARATIVE	
+elegantius	elegans	ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE|degree=COMPARATIVE	
+-ve	ve	CONJ	_	
+est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	

@@ -1,20 +1,13 @@
-1	Turbidus	turbidus	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-2	hic	hic	ADV	_	
-3	caeno	caenum	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
-4	vasta	vastus	ADJ	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
-5	-que	que	CONJ	_	
-6	voragine	vorago	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
-7	gurges	gurges	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-8	aestuat	aestuo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-9	atque	atque	CONJ	_	
-10	omnem	omnis	ADJ	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-11	Cocyto	Cocytus	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
-12	eructat	eructo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-13	harenam	harena	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-1	Olli	ille	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-2	sic	sic	ADV	_	
-3	breviter	breviter	ADV	_	
-4	fata	for	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=FEMININE|case=NOMINATIVE	
-5	est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-6	longaeva	longaevus	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-7	sacerdos	sacerdos	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+Quid	quis	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+-ve	ve	CONJ	_	
+petunt	peto	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+animae	anima	NN	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
+Hinc	hinc	ADV	_	
+via	via	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+Tartarei	Tartareus	ADJ	number=SINGULAR|gender=MASCULINE|case=GENITIVE|degree=POSITIVE	
+quae	qui	PRON	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+fert	fero	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+Acherontis	Acheron	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+ad	ad	PREP	_	
+undas	unda	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+(est)			_	

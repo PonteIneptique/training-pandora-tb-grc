@@ -1,36 +1,31 @@
-1	Umbrarum	umbra	NN	number=PLURAL|gender=FEMININE|case=GENITIVE	
-2	hic	hic	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-3	locus	locus	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-4	est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-5	somni	somnus	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-6	noctis	nox	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-7	-que	que	CONJ	_	
-8	soporae	soporus	ADJ	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-1	Cui	qui	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-2	vates	vates	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-3	horrere	horreo	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-4	videns	video	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|gender=FEMININE|case=NOMINATIVE	
-5	iam	jam	ADV	_	
-6	colla	collum	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-7	colubris	coluber	NN	number=PLURAL|gender=MASCULINE|case=ABLATIVE	
-8	melle	mel	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
-9	soporatam	soporo	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=FEMININE|case=ACCUSATIVE	
-10	et	et	CONJ	_	
-11	medicatis	medicor	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=FEMININE|case=ABLATIVE	
-12	frugibus	frux	NN	number=PLURAL|gender=FEMININE|case=ABLATIVE	
-13	offam	offa	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-14	obicit	obicio	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-1	Tartareum	Tartareus	ADJ	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-2	ille	ille	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-3	manu	manus	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
-4	custodem	custos	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-5	in	in	PREP	_	
-6	vincla	vinculum	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-7	petivit	peto	VB	person=PERSON_3|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
-8	ipsius	ipse	PRON	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-9	a	ab	PREP	_	
-10	solio	solium	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
-11	regis	rex	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-12	traxit	traho	VB	person=PERSON_3|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
-13	-que	que	CONJ	_	
-14	trementem	tremo	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=ACCUSATIVE	
+Cerberus	Cerberus	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+haec	hic	PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+ingens	ingens	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+latratu	latratus	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+regna	regnum	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+trifauci	trifaucis	ADJ	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+personat	persono	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+adverso	adverro	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=NEUTER|case=ABLATIVE	
+recubans	recubo	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
+immanis	immanis	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+in	in	PREP	_	
+antro	antrum	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+Troius	Troius	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Aeneas	Aeneas	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+pietate	pietas	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+insignis	insignis	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+et	et	CONJ	_	
+armis	arma	NN	number=PLURAL|gender=NEUTER|case=ABLATIVE	
+ad	ad	PREP	_	
+genitorem	genitor	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+imas	imus	ADJ	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+Erebi	Erebus	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+descendit	descendo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+ad	ad	PREP	_	
+umbras	umbra	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+“			_	
+Nullae	nullus	ADJ	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
+hic	hic	ADV	_	
+insidiae	insidiae	NN	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
+tales	talis	ADJ	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
+(sunt)			_	

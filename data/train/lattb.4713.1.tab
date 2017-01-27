@@ -1,39 +1,39 @@
-1	Hic	Hic	ADV	degree=POSITIVE	
-2	animum	animus	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-3	sensus	sensus	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-4	-que	que	CONJ	_	
-5	meos	meus	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-6	abducta	abduco	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=FEMININE|case=NOMINATIVE	
-7	relinquo	relinquo	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-8	arbitrio	arbitrium	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
-9	quamvis	quamvis	ADV	_	
-10	non	non	ADV	_	
-11	sinis	sino	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-12	esse	sum	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-13	meo	meus	ADJ	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
-1	Invisus	invideo	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
-2	natalis	natalis	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-3	adest	adsum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-4	qui	qui	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-5	rure	rus	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
-6	molesto	molestus	ADJ	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
-7	et	et	CONJ	_	
-8	sine	sine	PREP	_	
-9	Cerintho	cerinthus	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
-10	tristis	tristis	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-11	agendus	ago	VB	number=SINGULAR|mood=GERUNDIVE|gender=MASCULINE|case=NOMINATIVE	
-12	erit	sum	VB	person=PERSON_3|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-1	Dulcius	dulcis	ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE|degree=COMPARATIVE	
-2	urbe	urbs	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
-3	quid	quis	NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
-4	est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-1	an	an	CONJ	_	
-2	villa	villa	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-3	sit	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
-4	apta	aptus	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-5	puellae	puella	NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-6	atque	atque	CONJ	_	
-7	Arretino	Arretinus	ADJ	number=SINGULAR|gender=MASCULINE|case=ABLATIVE|degree=POSITIVE	
-8	frigidus	frigidus	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-9	amnis	amnis	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-10	agro	ager	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+Dulcius	dulcis	ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE|degree=COMPARATIVE	
+urbe	urbs	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+quid	quis	NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+Hic	Hic	ADV	degree=POSITIVE	
+animum	animus	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+sensus	sensus	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+-que	que	CONJ	_	
+meos	meus	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+abducta	abduco	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=FEMININE|case=NOMINATIVE	
+relinquo	relinquo	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+arbitrio	arbitrium	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+quamvis	quamvis	ADV	_	
+non	non	ADV	_	
+sinis	sino	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+esse	sum	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+meo	meus	ADJ	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+an	an	CONJ	_	
+villa	villa	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+sit	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
+apta	aptus	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+puellae	puella	NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
+atque	atque	CONJ	_	
+Arretino	Arretinus	ADJ	number=SINGULAR|gender=MASCULINE|case=ABLATIVE|degree=POSITIVE	
+frigidus	frigidus	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+amnis	amnis	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+agro	ager	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+Invisus	invideo	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
+natalis	natalis	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+adest	adsum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+qui	qui	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+rure	rus	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+molesto	molestus	ADJ	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+et	et	CONJ	_	
+sine	sine	PREP	_	
+Cerintho	cerinthus	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+tristis	tristis	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+agendus	ago	VB	number=SINGULAR|mood=GERUNDIVE|gender=MASCULINE|case=NOMINATIVE	
+erit	sum	VB	person=PERSON_3|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	

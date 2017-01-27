@@ -1,7 +1,22 @@
-1	nam	nam	CONJ	_	
-2	tui	tuus	ADJ	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-3	Catulli	Catullus	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-4	plenus	plenus	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-5	sacculus	sacculus	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-6	est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-7	aranearum	aranea	NN	number=PLURAL|gender=FEMININE|case=GENITIVE	
+nam	nam	CONJ	_	
+unguentum	unguentum	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+dabo	do	VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+quod	qui	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+meae	meus	ADJ	number=SINGULAR|gender=FEMININE|case=DATIVE	
+puellae	puella	NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
+donarunt	dono	VB	person=PERSON_3|number=PLURAL|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+Veneres	Venus	NN	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
+Cupidines	cupido	NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+-que	que	CONJ	_	
+quod	qui	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+tu	tu	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+cum	cum	CONJ	_	
+olfacies	olfacio	VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+deos	deus	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+rogabis	rogo	VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+totum	totus	ADJ	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+ut	ut	ADV	_	
+te	tu	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+faciant	facio	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
+Fabulle	Fabullus	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+nasum	nasus	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	

@@ -1,34 +1,52 @@
-1	Ipse	ipse	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-2	pater	pater	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-3	Danais	Danaus	ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE	
-4	animos	animus	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-5	vires	vis	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-6	-que	que	CONJ	_	
-7	secundas	secundus	ADJ	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-8	sufficit	sufficio	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-9	ipse	ipse	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-10	deos	deus	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-11	in	in	PREP	_	
-12	Dardana	Dardanus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-13	suscitat	suscito	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-14	arma	arma	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-1	Deseruere	desero	VB	person=PERSON_3|number=PLURAL|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
-2	omnes	omnis	ADJ	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-3	defessi	defatiscor	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
-4	et	et	CONJ	_	
-5	corpora	corpus	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-6	saltu	saltus	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
-7	ad	ad	PREP	_	
-8	terram	terra	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-9	misere	mitto	VB	person=PERSON_3|number=PLURAL|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
-10	aut	aut	CONJ	_	
-11	ignibus	ignis	NN	number=PLURAL|gender=MASCULINE|case=DATIVE	
-12	aegra	aeger	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-13	dedere	do	VB	person=PERSON_3|number=PLURAL|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
-1	Eripe	eripio	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE|voice=ACTIVE	
-2	nate	natus	ADJ	number=SINGULAR|gender=NEUTER|case=VOCATIVE	
-3	fugam	fuga	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-4	finem	finis	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-5	-que	que	CONJ	_	
-6	impone	impono	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE|voice=ACTIVE	
-7	labori	labor	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+Illa	ille	PRON	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+sibi	sui	PRON	number=SINGULAR|gender=FEMININE|case=DATIVE	
+infestos	infestus	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+eversa	everto	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=NEUTER|case=ACCUSATIVE	
+ob	ob	PREP	_	
+Pergama	Pergama	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+Teucros	Teucer	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+et	et	CONJ	_	
+poenas	poena	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+Danaum	Danaus	ADJ	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+et	et	CONJ	_	
+deserti	desero	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=GENITIVE	
+coniugis	conjunx	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+iras	ira	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+praemetuens	praemetuo	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|gender=FEMININE|case=NOMINATIVE	
+Troiae	Troiae	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+et	et	CONJ	_	
+patriae	patria	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+communis	communis	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+Erinys	Erinys	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+abdiderat	abdo	VB	person=PERSON_3|number=SINGULAR|tense=PLUSQUAMPERFECT|mood=INDICATIVE|voice=ACTIVE	
+sese	sui	PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+atque	atque	CONJ	_	
+aris	ara	NN	number=PLURAL|gender=FEMININE|case=ABLATIVE	
+invisa	invideo	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=FEMININE|case=NOMINATIVE	
+sedebat	sedeo	VB	person=PERSON_3|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
+Obstipui	obstipesco	VB	person=PERSON_1|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+subiit	subeo	VB	person=PERSON_3|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+cari	carus	ADJ	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+genitoris	genitor	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+imago	imago	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+ut	ut	CONJ	_	
+regem	rex	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+aequaevum	aequaevus	ADJ	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+crudeli	crudelis	ADJ	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+volnere	vulnus	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+vidi	video	VB	person=PERSON_1|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+vitam	vita	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+exhalantem	exhalo	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=ACCUSATIVE	
+subiit	subeo	VB	person=PERSON_3|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+deserta	desero	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=FEMININE|case=NOMINATIVE	
+Creüsa	Cresa	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+et	et	CONJ	_	
+direpta	diripio	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=FEMININE|case=NOMINATIVE	
+domus	domus	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+et	et	CONJ	_	
+parvi	parvus	ADJ	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+casus	casus	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Iuli	Iulus	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+Non	non	ADV	_	
+ita	ita	ADV	_	
+(erit)			_	

@@ -1,14 +1,7 @@
-1	Omnibus	omnis	ADJ	number=PLURAL|gender=MASCULINE|case=ABLATIVE	
-2	ille	ille	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-3	dies	dies	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-4	nobis	nos	PRON	number=PLURAL|gender=MASCULINE|case=ABLATIVE	
-5	natalis	natalis	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-6	agatur	ago	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=PASSIVE	
-7	qui	qui	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-8	ne	ne	ADV	_	
-9	-c	que	CONJ	_	
-10	opinanti	opinor	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=DATIVE	
-11	nunc	nunc	ADV	_	
-12	tibi	tu	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-13	forte	fors	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
-14	venit	venio	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+Scis	scio	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+iter	iter	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ex	ex	PREP	_	
+animo	animus	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+sublatum	tollo	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=NEUTER|case=ACCUSATIVE	
+triste	tristis	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+puellae	puella	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	

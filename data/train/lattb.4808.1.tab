@@ -1,249 +1,256 @@
-1	Navita	nauta	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-2	sed	sed	CONJ	_	
-3	tristis	tristis	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-4	nunc	nunc	ADV	_	
-5	hos	hic	PRON	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-6	nunc	nunc	ADV	_	
-7	accipit	accipio	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-8	illos	ille	PRON	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-9	ast	at	CONJ	_	
-10	alios	alius	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-11	longe	longus	ADV	_	
-12	submotos	submoveo	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=ACCUSATIVE	
-13	arcet	arceo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-14	harena	harena	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
-15	(accipit)			_	
-1	Centum	centum	NRL	_	
-2	errant	erro	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-3	annos	annus	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-4	volitant	volito	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-5	-que	que	CONJ	_	
-6	haec	hic	PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-7	litora	litus	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-8	circum	circum	PREP	_	
-1	Ipse	ipse	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-2	ratem	ratis	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-3	conto	contus	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
-4	subigit	subigo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-5	velis	vela	NN	number=PLURAL|gender=FEMININE|case=DATIVE	
-6	-que	que	CONJ	_	
-7	ministrat	ministro	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-8	et	et	CONJ	_	
-9	ferruginea	ferrugineus	ADJ	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
-10	subvectat	subvecto	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-11	corpora	corpus	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-12	cymba	cymba	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
-13	iam	jam	ADV	_	
-14	senior	seni	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE|degree=COMPARATIVE	
-15	sed	sed	CONJ	_	
-16	cruda	crudus	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-17	deo	deus	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-18	viridis	viridis	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-19	-que	que	CONJ	_	
-20	senectus	senectus	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-21	(est)			_	
-1	Hinc	hinc	ADV	_	
-2	via	via	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-3	Tartarei	Tartareus	ADJ	number=SINGULAR|gender=MASCULINE|case=GENITIVE|degree=POSITIVE	
-4	quae	qui	PRON	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-5	fert	fero	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-6	Acherontis	Acheron	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-7	ad	ad	PREP	_	
-8	undas	unda	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-9	(est)			_	
-1	Huc	huc	ADV	_	
-2	omnis	omnis	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-3	turba	turba	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-4	ad	ad	PREP	_	
-5	ripas	ripa	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-6	effusa	effundo	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=FEMININE|case=NOMINATIVE	
-7	ruebat	ruo	VB	person=PERSON_3|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
-8	matres	mater	NN	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
-9	atque	atque	CONJ	_	
-10	viri	vir	NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-11	defuncta	defungor	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=NEUTER|case=NOMINATIVE	
-12	-que	que	CONJ	_	
-13	corpora	corpus	NN	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
-14	vita	vita	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
-15	magnanimum	magnanimus	ADJ	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-16	heroum	heros	NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-17	pueri	puer	NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-18	innuptae	innuptus	ADJ	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
-19	-que	que	CONJ	_	
-20	puellae	puella	NN	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
-21	impositi	impono	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
-22	-que	que	CONJ	_	
-23	rogis	rogus	NN	number=PLURAL|gender=MASCULINE|case=DATIVE	
-24	iuvenes	juvenis	ADJ	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-25	ante	ante	PREP	_	
-26	ora	os	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-27	parentum	parens	NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-28	quam	quam	ADV	_	
-29	multa	multus	ADJ	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
-30	in	in	PREP	_	
-31	silvis	silva	NN	number=PLURAL|gender=FEMININE|case=ABLATIVE	
-32	autumni	auctumnus	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-33	frigore	frigus	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
-34	primo	primus	ADJ	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
-35	lapsa	labor	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=NEUTER|case=NOMINATIVE	
-36	cadunt	cado	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-37	folia	folium	NN	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
-38	aut	aut	CONJ	_	
-39	ad	ad	PREP	_	
-40	terram	terra	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-41	gurgite	gurges	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
-42	ab	ab	PREP	_	
-43	alto	altus	ADJ	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
-44	quam	quam	ADV	_	
-45	multae	multus	ADJ	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
-46	glomerantur	glomero	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=PASSIVE	
-47	aves	avis	NN	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
-48	ubi	ubi	CONJ	_	
-49	frigidus	frigidus	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-50	annus	annus	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-51	trans	trans	PREP	_	
-52	pontum	pontus	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-53	fugat	fugo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-54	et	et	CONJ	_	
-55	terris	terra	NN	number=PLURAL|gender=FEMININE|case=DATIVE	
-56	immittit	immitto	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-57	apricis	apricus	ADJ	number=PLURAL|gender=FEMININE|case=DATIVE	
-1	Aeneas	Aeneas	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-2	miratus	miror	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
-3	enim	enim	CONJ	_	
-4	motus	moveo	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
-5	-que	que	CONJ	_	
-6	tumultu	tumultus	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
-7	“			_	
-8	Dic	dico	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE|voice=ACTIVE	
-9	ait	aio	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-10	“			_	
-11	O	o	EXCL	_	
-12	virgo	virgo	NN	number=SINGULAR|gender=FEMININE|case=VOCATIVE	
-13	quid	quis	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-14	volt	volo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-15	concursus	concursus	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-16	ad	ad	PREP	_	
-17	amnem	amnis	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-1	Quid	quis	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-2	-ve	ve	CONJ	_	
-3	petunt	peto	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-4	animae	anima	NN	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
-1	Constitit	consto	VB	person=PERSON_3|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
-2	Anchisa	Anchises	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
-3	satus	satus	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-4	et	et	CONJ	_	
-5	vestigia	vestigium	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-6	pressit	premo	VB	person=PERSON_3|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
-7	multa	multus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-8	putans	puto	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
-9	sortem	sors	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-10	-que	que	CONJ	_	
-11	animo	animus	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
-12	miseratus	miseror	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
-13	iniquam	iniquus	ADJ	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-1	tum	tum	ADV	_	
-2	demum	demum	ADV	_	
-3	admissi	admitto	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
-4	stagna	stagnum	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-5	exoptata	exopto	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=NEUTER|case=ACCUSATIVE	
-6	revisunt	reviso	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-1	Ne	ne	ADV	_	
-2	-c	que	CONJ	_	
-3	ripas	ripa	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-4	datur	do	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=PASSIVE	
-5	horrendas	horreo	VB	number=PLURAL|mood=GERUNDIVE|gender=FEMININE|case=ACCUSATIVE	
-6	et	et	CONJ	_	
-7	rauca	raucus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-8	fluenta	fluentum	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-9	transportare	transporto	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-10	prius	prior	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE|degree=COMPARATIVE	
-11	quam	quam	ADV	_	
-12	sedibus	sedes	NN	number=PLURAL|gender=FEMININE|case=ABLATIVE	
-13	ossa	ossum	NN	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
-14	quierunt	quiesco	VB	person=PERSON_3|number=PLURAL|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
-1	“			_	
-2	Anchisa	Anchises	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
-3	generate	genero	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=VOCATIVE	
-4	deum	deus	NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-5	certissima	certus	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE|degree=SUPERLATIVE	
-6	proles	proles	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-7	Cocyti	Cocytus	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-8	stagna	stagnum	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-9	alta	altus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-10	vides	video	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-11	Stygiam	Stygius	ADJ	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-12	-que	que	CONJ	_	
-13	paludem	palus	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-14	di	deus	NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-15	cuius	qui	PRON	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-16	iurare	juro	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-17	timent	timeo	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-18	et	et	CONJ	_	
-19	fallere	fallo	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-20	numen	numen	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-1	portitor	portitor	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-2	ille	ille	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-3	Charon	Charon	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-4	(est)			_	
-1	vel	vel	CONJ	_	
-2	quo	quis	PRON	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
-3	discrimine	discrimen	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
-4	ripas	ripa	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-5	hae	hic	PRON	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
-6	linquunt	linquo	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-7	illae	ille	PRON	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
-8	remis	remus	NN	number=PLURAL|gender=MASCULINE|case=ABLATIVE	
-9	vada	vadum	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-10	livida	lividus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-11	verrunt	verro	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-1	hi	hic	PRON	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-2	quos	qui	PRON	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-3	vehit	veho	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-4	unda	unda	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-5	sepulti	sepelio	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
-1	Haec	hic	PRON	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-2	omnis	omnis	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-3	quam	qui	PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-4	cernis	cerno	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-5	inops	inops	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-6	inhumata	inhumatus	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-7	-que	que	CONJ	_	
-8	turba	turba	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-9	est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-1	Stabant	sto	VB	person=PERSON_3|number=PLURAL|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
-2	orantes	oro	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
-3	primi	primus	ADJ	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-4	transmittere	transmitto	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-5	cursum	cursus	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-6	tendebant	tendo	VB	person=PERSON_3|number=PLURAL|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
-7	-que	que	CONJ	_	
-8	manus	manus	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-9	ripae	ripa	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-10	ulterioris	ulterior	ADJ	number=SINGULAR|case=GENITIVE|degree=COMPARATIVE	
-11	amore	amor	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
-1	Portitor	portitor	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-2	has	hic	PRON	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-3	horrendus	horreo	VB	number=SINGULAR|mood=GERUNDIVE|gender=MASCULINE|case=NOMINATIVE	
-4	aquas	aqua	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-5	et	et	CONJ	_	
-6	flumina	flumen	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-7	servat	servo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-8	terribili	terribilis	ADJ	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
-9	squalore	squalor	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
-10	Charon	Charon	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-11	cui	qui	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-12	plurima	multus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE|degree=SUPERLATIVE	
-13	mento	mentum	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
-14	canities	canities	NN	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
-15	inculta	incultus	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-16	iacet	jaceo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-17	stant	sto	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-18	lumina	lumen	NN	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
-19	flamma	flamma	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
-20	sordidus	sordidus	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-21	ex	ex	PREP	_	
-22	umeris	umerus	NN	number=PLURAL|gender=MASCULINE|case=ABLATIVE	
-23	nodo	nodus	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
-24	dependet	dependeo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-25	amictus	amictus	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+tum	tum	ADV	_	
+demum	demum	ADV	_	
+admissi	admitto	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
+stagna	stagnum	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+exoptata	exopto	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=NEUTER|case=ACCUSATIVE	
+revisunt	reviso	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+Centum	centum	NRL	_	
+errant	erro	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+annos	annus	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+volitant	volito	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+-que	que	CONJ	_	
+haec	hic	PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+litora	litus	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+circum	circum	PREP	_	
+Ne	ne	ADV	_	
+-c	que	CONJ	_	
+ripas	ripa	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+datur	do	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=PASSIVE	
+horrendas	horreo	VB	number=PLURAL|mood=GERUNDIVE|gender=FEMININE|case=ACCUSATIVE	
+et	et	CONJ	_	
+rauca	raucus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+fluenta	fluentum	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+transportare	transporto	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+prius	prior	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE|degree=COMPARATIVE	
+quam	quam	ADV	_	
+sedibus	sedes	NN	number=PLURAL|gender=FEMININE|case=ABLATIVE	
+ossa	ossum	NN	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
+quierunt	quiesco	VB	person=PERSON_3|number=PLURAL|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+Stabant	sto	VB	person=PERSON_3|number=PLURAL|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
+orantes	oro	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
+primi	primus	ADJ	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+transmittere	transmitto	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+cursum	cursus	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+tendebant	tendo	VB	person=PERSON_3|number=PLURAL|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
+-que	que	CONJ	_	
+manus	manus	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+ripae	ripa	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+ulterioris	ulterior	ADJ	number=SINGULAR|case=GENITIVE|degree=COMPARATIVE	
+amore	amor	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+Ipse	ipse	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+ratem	ratis	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+conto	contus	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+subigit	subigo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+velis	vela	NN	number=PLURAL|gender=FEMININE|case=DATIVE	
+-que	que	CONJ	_	
+ministrat	ministro	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+et	et	CONJ	_	
+ferruginea	ferrugineus	ADJ	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+subvectat	subvecto	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+corpora	corpus	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+cymba	cymba	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+iam	jam	ADV	_	
+senior	seni	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE|degree=COMPARATIVE	
+sed	sed	CONJ	_	
+cruda	crudus	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+deo	deus	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+viridis	viridis	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+-que	que	CONJ	_	
+senectus	senectus	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+(est)			_	
+Huc	huc	ADV	_	
+omnis	omnis	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+turba	turba	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+ad	ad	PREP	_	
+ripas	ripa	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+effusa	effundo	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=FEMININE|case=NOMINATIVE	
+ruebat	ruo	VB	person=PERSON_3|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
+matres	mater	NN	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
+atque	atque	CONJ	_	
+viri	vir	NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+defuncta	defungor	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=NEUTER|case=NOMINATIVE	
+-que	que	CONJ	_	
+corpora	corpus	NN	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
+vita	vita	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+magnanimum	magnanimus	ADJ	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+heroum	heros	NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+pueri	puer	NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+innuptae	innuptus	ADJ	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
+-que	que	CONJ	_	
+puellae	puella	NN	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
+impositi	impono	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
+-que	que	CONJ	_	
+rogis	rogus	NN	number=PLURAL|gender=MASCULINE|case=DATIVE	
+iuvenes	juvenis	ADJ	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+ante	ante	PREP	_	
+ora	os	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+parentum	parens	NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+quam	quam	ADV	_	
+multa	multus	ADJ	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
+in	in	PREP	_	
+silvis	silva	NN	number=PLURAL|gender=FEMININE|case=ABLATIVE	
+autumni	auctumnus	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+frigore	frigus	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+primo	primus	ADJ	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+lapsa	labor	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=NEUTER|case=NOMINATIVE	
+cadunt	cado	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+folia	folium	NN	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
+aut	aut	CONJ	_	
+ad	ad	PREP	_	
+terram	terra	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+gurgite	gurges	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+ab	ab	PREP	_	
+alto	altus	ADJ	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+quam	quam	ADV	_	
+multae	multus	ADJ	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
+glomerantur	glomero	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=PASSIVE	
+aves	avis	NN	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
+ubi	ubi	CONJ	_	
+frigidus	frigidus	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+annus	annus	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+trans	trans	PREP	_	
+pontum	pontus	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+fugat	fugo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+et	et	CONJ	_	
+terris	terra	NN	number=PLURAL|gender=FEMININE|case=DATIVE	
+immittit	immitto	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+apricis	apricus	ADJ	number=PLURAL|gender=FEMININE|case=DATIVE	
+“			_	
+Anchisa	Anchises	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+generate	genero	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=VOCATIVE	
+deum	deus	NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+certissima	certus	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE|degree=SUPERLATIVE	
+proles	proles	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+Cocyti	Cocytus	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+stagna	stagnum	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+alta	altus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+vides	video	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+Stygiam	Stygius	ADJ	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+-que	que	CONJ	_	
+paludem	palus	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+di	deus	NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+cuius	qui	PRON	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+iurare	juro	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+timent	timeo	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+et	et	CONJ	_	
+fallere	fallo	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+numen	numen	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+Turbidus	turbidus	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+hic	hic	ADV	_	
+caeno	caenum	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+vasta	vastus	ADJ	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+-que	que	CONJ	_	
+voragine	vorago	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+gurges	gurges	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+aestuat	aestuo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+atque	atque	CONJ	_	
+omnem	omnis	ADJ	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+Cocyto	Cocytus	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+eructat	eructo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+harenam	harena	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+hi	hic	PRON	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+quos	qui	PRON	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+vehit	veho	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+unda	unda	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+sepulti	sepelio	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
+Olli	ille	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+sic	sic	ADV	_	
+breviter	breviter	ADV	_	
+fata	for	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=FEMININE|case=NOMINATIVE	
+est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+longaeva	longaevus	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+sacerdos	sacerdos	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+Constitit	consto	VB	person=PERSON_3|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+Anchisa	Anchises	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+satus	satus	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+et	et	CONJ	_	
+vestigia	vestigium	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+pressit	premo	VB	person=PERSON_3|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+multa	multus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+putans	puto	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
+sortem	sors	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+-que	que	CONJ	_	
+animo	animus	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+miseratus	miseror	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
+iniquam	iniquus	ADJ	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+vel	vel	CONJ	_	
+quo	quis	PRON	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+discrimine	discrimen	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+ripas	ripa	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+hae	hic	PRON	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
+linquunt	linquo	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+illae	ille	PRON	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
+remis	remus	NN	number=PLURAL|gender=MASCULINE|case=ABLATIVE	
+vada	vadum	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+livida	lividus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+verrunt	verro	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+Haec	hic	PRON	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+omnis	omnis	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+quam	qui	PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+cernis	cerno	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+inops	inops	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+inhumata	inhumatus	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+-que	que	CONJ	_	
+turba	turba	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+portitor	portitor	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+ille	ille	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Charon	Charon	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+(est)			_	
+Navita	nauta	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+sed	sed	CONJ	_	
+tristis	tristis	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+nunc	nunc	ADV	_	
+hos	hic	PRON	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+nunc	nunc	ADV	_	
+accipit	accipio	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+illos	ille	PRON	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+ast	at	CONJ	_	
+alios	alius	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+longe	longus	ADV	_	
+submotos	submoveo	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=ACCUSATIVE	
+arcet	arceo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+harena	harena	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+(accipit)			_	
+Portitor	portitor	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+has	hic	PRON	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+horrendus	horreo	VB	number=SINGULAR|mood=GERUNDIVE|gender=MASCULINE|case=NOMINATIVE	
+aquas	aqua	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+et	et	CONJ	_	
+flumina	flumen	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+servat	servo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+terribili	terribilis	ADJ	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+squalore	squalor	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+Charon	Charon	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+cui	qui	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+plurima	multus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE|degree=SUPERLATIVE	
+mento	mentum	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+canities	canities	NN	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
+inculta	incultus	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+iacet	jaceo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+stant	sto	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+lumina	lumen	NN	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
+flamma	flamma	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+sordidus	sordidus	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+ex	ex	PREP	_	
+umeris	umerus	NN	number=PLURAL|gender=MASCULINE|case=ABLATIVE	
+nodo	nodus	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+dependet	dependeo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+amictus	amictus	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Aeneas	Aeneas	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+miratus	miror	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
+enim	enim	CONJ	_	
+motus	moveo	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
+-que	que	CONJ	_	
+tumultu	tumultus	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+“			_	
+Dic	dico	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE|voice=ACTIVE	
+ait	aio	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+“			_	
+O	o	EXCL	_	
+virgo	virgo	NN	number=SINGULAR|gender=FEMININE|case=VOCATIVE	
+quid	quis	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+volt	volo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+concursus	concursus	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+ad	ad	PREP	_	
+amnem	amnis	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	

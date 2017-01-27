@@ -1,21 +1,7 @@
-1	Instant	insto	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-2	ardentes	ardeo	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
-3	Tyrii	Tyrius	ADJ	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-4	pars	pars	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-5	ducere	duco	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-6	muros	murus	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-7	moliri	molior	VB	tense=PR|mood=INFINITIVE|voice=PASSIVE	
-8	-que	que	CONJ	_	
-9	arcem	arx	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-10	et	et	CONJ	_	
-11	manibus	manus	NN	number=PLURAL|gender=FEMININE|case=ABLATIVE	
-12	subvolvere	subvolvo	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-13	saxa	saxum	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-14	pars	pars	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-15	optare	opto	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-16	locum	locus	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-17	tecto	tectum	NN	number=SINGULAR|gender=NEUTER|case=DATIVE	
-18	et	et	CONJ	_	
-19	concludere	concludo	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-20	sulco	sulcus	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
-21	(instant)			_	
+Iura	jus	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+magistratus	magistratus	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+-que	que	CONJ	_	
+legunt	lego	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+sanctum	sanctus	ADJ	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+-que	que	CONJ	_	
+senatum	senatus	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	

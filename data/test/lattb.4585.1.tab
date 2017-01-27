@@ -1,29 +1,10 @@
-1	qui	qui	NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-2	tum	tum	ADV	_	
-3	denique	denique	ADV	_	
-4	habent	habeo	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-5	salem	sal	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-6	ac	atque	CONJ	_	
-7	leporem	lepor	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-8	si	si	CONJ	_	
-9	sunt	sum	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-10	molliculi	molliculus	ADJ	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-11	ac	atque	CONJ	_	
-12	parum	parum	ADV	_	
-13	pudici	pudicus	ADJ	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-14	et	et	CONJ	_	
-15	quod	qui	NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
-16	pruriat	prurio	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
-17	incitare	incito	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-18	possunt	possum	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-19	non	non	ADV	_	
-20	dico	dico	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-21	pueris	puer	NN	number=PLURAL|gender=MASCULINE|case=DATIVE	
-22	sed	sed	CONJ	_	
-23	his	hic	PRON	number=PLURAL|gender=MASCULINE|case=DATIVE	
-24	pilosis	pilosus	ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE	
-25	qui	qui	NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-26	duros	durus	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-27	nequeunt	nequeo	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-28	movere	moveo	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-29	lumbos	lumbus	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+vos	tu	PRON	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+quod	qui	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+milia	milium	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+multa	multus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+basiorum	basium	NN	number=PLURAL|gender=NEUTER|case=GENITIVE	
+legistis	lego	VB	person=PERSON_2|number=PLURAL|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+male	malus	ADV	degree=POSITIVE	
+me	ego	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+marem	mas	ADJ	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+putatis	puto	VB	person=PERSON_2|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	

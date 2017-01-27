@@ -1,20 +1,17 @@
-1	at	at	CONJ	_	
-2	mi	ego	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-3	nullus	nullus	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-4	erat	sum	VB	person=PERSON_3|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
-5	ne	ne	ADV	_	
-6	-c	que	CONJ	_	
-7	hic	hic	PRON	number=SINGULAR|gender=NEUTER|case=LOCATIVE	
-8	ne	ne	ADV	_	
-9	-que	que	CONJ	_	
-10	illic	illic	PRON	number=SINGULAR|gender=NEUTER|case=LOCATIVE	
-11	fractum	frango	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=ACCUSATIVE	
-12	qui	qui	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-13	veteris	vetus	ADJ	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-14	pedem	pes	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-15	grabati	grabatus	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-16	in	in	PREP	_	
-17	collo	collum	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
-18	sibi	sui	PRON	number=PLURAL|gender=MASCULINE|case=DATIVE	
-19	collocare	colloco	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-20	posset	possum	VB	person=PERSON_3|number=SINGULAR|tense=IMP|mood=SUBJUNCTIVE|voice=ACTIVE	
+“			_	
+at	at	CONJ	_	
+certe	certus	ADV	degree=POSITIVE	
+tamen	tamen	ADV	_	
+“			_	
+inquiunt	inquam	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+“			_	
+quod	qui	NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+illic	illic	ADV	_	
+natum	nascor	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=NEUTER|case=NOMINATIVE|degree=POSITIVE	
+dicitur	dico	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=PASSIVE	
+esse	sum	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+comparasti	comparo	VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+ad	ad	PREP	_	
+lecticam	lectica	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+homines	homo	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+“			_	

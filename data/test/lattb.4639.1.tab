@@ -1,36 +1,13 @@
-1	ultima	ulter	ADJ	number=SINGULAR|gender=FEMININE|case=ABLATIVE|degree=SUPERLATIVE	
-2	ex	ex	PREP	_	
-3	origine	origo	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
-4	tuo	tuus	ADJ	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
-5	stetisse	sto	VB	tense=PERF|mood=INFINITIVE|voice=ACTIVE	
-6	dicit	dico	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-7	in	in	PREP	_	
-8	cacumine	cacumen	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
-9	tuo	tuus	ADJ	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
-10	imbuisse	imbuo	VB	tense=PERF|mood=INFINITIVE|voice=ACTIVE	
-11	palmulas	palmula	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-12	in	in	PREP	_	
-13	aequore	aequor	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
-14	et	et	CONJ	_	
-15	inde	inde	ADV	_	
-16	tot	tot	IRREG	_	
-17	per	per	PREP	_	
-18	impotentia	impotens	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-19	freta	fretum	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-20	erum	erus	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-21	tulisse	fero	VB	tense=PERF|mood=INFINITIVE|voice=ACTIVE	
-22	laeva	laevus	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-23	si	si	CONJ	_	
-24	-ve	ve	CONJ	_	
-25	dextera	dexter	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-26	vocaret	voco	VB	person=PERSON_3|number=SINGULAR|tense=IMP|mood=SUBJUNCTIVE|voice=ACTIVE	
-27	aura	aura	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-28	si	si	CONJ	_	
-29	-ve	ve	CONJ	_	
-30	utrumque	uter	ADJ	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-31	Iuppiter	Iuppiter	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-32	simul	simul	ADV	_	
-33	secundus	secundus	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-34	incidisset	incido	VB	person=PERSON_3|number=SINGULAR|tense=PLUSQUAMPERFECT|mood=SUBJUNCTIVE|voice=ACTIVE	
-35	in	in	PREP	_	
-36	pedem	pes	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+Amastri	Amastris	NN	number=SINGULAR|gender=FEMININE|case=VOCATIVE	
+Pontica	Ponticus	ADJ	number=SINGULAR|gender=FEMININE|case=VOCATIVE|degree=POSITIVE	
+et	et	CONJ	_	
+Cytore	Cytorus	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+buxifer	buxifer	ADJ	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+tibi	tu	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+haec	hic	PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+fuisse	sum	VB	tense=PERF|mood=INFINITIVE|voice=ACTIVE	
+et	et	CONJ	_	
+esse	sum	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+cognitissima	cognosco	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE|degree=SUPERLATIVE	
+ait	aio	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+phaselus	phaselus	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	

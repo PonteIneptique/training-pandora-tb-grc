@@ -1,42 +1,42 @@
-1	ego	ego	PRON	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-2	non	non	ADV	_	
-3	aliter	aliter	ADV	_	
-4	tristes	tristis	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-5	evincere	evinco	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-6	morbos	morbus	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-7	optarim	opto	VB	person=PERSON_1|number=SINGULAR|tense=PERF|mood=SUBJUNCTIVE|voice=ACTIVE	
-8	quam	quam	ADV	_	
-9	te	tu	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-10	si	si	CONJ	_	
-11	quoque	quoque	ADV	_	
-12	velle	volo	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-13	putem	puto	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
-1	Est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-2	-ne	ne	ADV	_	
-3	tibi	tu	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-4	Cerinthe	Cerinthus	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-5	tuae	tuus	ADJ	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-6	pia	pius	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-7	cura	cura	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-8	puellae	puella	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-9	quod	qui	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-10	mea	meus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-11	nunc	nunc	ADV	_	
-12	vexat	vexo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-13	corpora	corpus	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-14	fessa	fessus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-15	calor	calor	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-1	At	at	CONJ	_	
-2	mihi	ego	PRON	number=SINGULAR|gender=FEMININE|case=DATIVE	
-3	quid	quis	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-4	prosit	prosum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
-5	morbos	morbus	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-6	evincere	evinco	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-7	si	si	CONJ	_	
-8	tu	tu	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-9	nostra	noster	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-10	potes	possum	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-11	lento	lentus	ADJ	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
-12	pectore	pectus	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
-13	ferre	fero	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-14	mala	malus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+Est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+-ne	ne	ADV	_	
+tibi	tu	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+Cerinthe	Cerinthus	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+tuae	tuus	ADJ	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+pia	pius	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+cura	cura	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+puellae	puella	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+quod	qui	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+mea	meus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+nunc	nunc	ADV	_	
+vexat	vexo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+corpora	corpus	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+fessa	fessus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+calor	calor	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+At	at	CONJ	_	
+mihi	ego	PRON	number=SINGULAR|gender=FEMININE|case=DATIVE	
+quid	quis	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+prosit	prosum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
+morbos	morbus	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+evincere	evinco	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+si	si	CONJ	_	
+tu	tu	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+nostra	noster	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+potes	possum	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+lento	lentus	ADJ	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+pectore	pectus	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+ferre	fero	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+mala	malus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+ego	ego	PRON	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+non	non	ADV	_	
+aliter	aliter	ADV	_	
+tristes	tristis	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+evincere	evinco	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+morbos	morbus	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+optarim	opto	VB	person=PERSON_1|number=SINGULAR|tense=PERF|mood=SUBJUNCTIVE|voice=ACTIVE	
+quam	quam	ADV	_	
+te	tu	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+si	si	CONJ	_	
+quoque	quoque	ADV	_	
+velle	volo	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+putem	puto	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	

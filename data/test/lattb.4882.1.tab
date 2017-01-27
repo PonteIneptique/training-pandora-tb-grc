@@ -1,22 +1,25 @@
-1	Gorgias	Gorgias	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-2	paratus	paro	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
-3	erat	sum	VB	person=PERSON_3|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
-4	exsequi	exsequor	VB	tense=PR|mood=INFINITIVE|voice=PASSIVE	
-1	Quod	qui	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-2	si	si	CONJ	_	
-3	exemplis	exemplum	NN	number=PLURAL|gender=NEUTER|case=ABLATIVE	
-4	vis	volo	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-5	quoque	quoque	ADV	_	
-6	probari	probo	VB	tense=PR|mood=INFINITIVE|voice=PASSIVE	
-7	consilium	consilium	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-8	Saguntini	Saguntinus	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE|degree=POSITIVE	
-9	oppressi	opprimo	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
-10	ab	ab	PREP	_	
-11	Hannibale	Hannibal	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
-12	humanas	humanus	ADJ	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-13	edere	edo	VB	person=PERSON_3|number=PLURAL|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
-14	carnes	caro	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-15	ne	ne	ADV	_	
-16	-c	que	CONJ	_	
-17	hereditatem	hereditas	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-18	expectabant	exspecto	VB	person=PERSON_3|number=PLURAL|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
+Excaecabat	excaeco	VB	person=PERSON_3|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
+pecuniae	pecunia	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+ingens	ingens	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+fama	fama	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+oculos	oculus	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+animos	animus	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+-que	que	CONJ	_	
+miserorum	miser	ADJ	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+Cum	cum	CONJ	_	
+esset	sum	VB	person=PERSON_3|number=SINGULAR|tense=IMP|mood=SUBJUNCTIVE|voice=ACTIVE	
+Numantia	Numantia	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+a	ab	PREP	_	
+Scipione	scipio	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+capta	capio	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=FEMININE|case=NOMINATIVE	
+inventae	invenio	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=FEMININE|case=NOMINATIVE	
+sunt	sum	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+matres	mater	NN	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
+quae	qui	NN	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
+liberorum	liberi	NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+suorum	suus	ADJ	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+tenerent	teneo	VB	person=PERSON_3|number=PLURAL|tense=IMP|mood=SUBJUNCTIVE|voice=ACTIVE	
+semesa	semesus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+in	in	PREP	_	
+sinu	sinus	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+corpora	corpus	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	

@@ -1,36 +1,44 @@
-1	Cui	qui	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-2	dono	dono	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-3	lepidum	lepidus	ADJ	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-4	novum	novus	ADJ	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-5	libellum	libellus	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-6	arido	aridus	ADJ	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
-7	modo	modo	ADV	_	
-8	pumice	pumex	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
-9	expolitum	expolio	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=ACCUSATIVE	
-1	nam	nam	CONJ	_	
-2	-que	que	CONJ	_	
-3	tu	tu	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-4	solebas	soleo	VB	person=PERSON_2|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
-5	meas	meus	ADJ	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-6	esse	sum	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-7	aliquid	aliquis	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-8	putare	puto	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-9	nugas	nugae	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-10	iam	jam	ADV	_	
-11	tum	tum	ADV	_	
-12	cum	cum	CONJ	_	
-13	ausus	audeo	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
-14	es	sum	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-15	unus	unus	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-16	Italorum	Italus	ADJ	number=PLURAL|gender=MASCULINE|case=GENITIVE|degree=POSITIVE	
-17	omne	omnis	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-18	aevum	aevum	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-19	tribus	tres	NRL	number=PLURAL|gender=FEMININE|case=ABLATIVE	
-20	explicare	explico	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-21	chartis	charta	NN	number=PLURAL|gender=FEMININE|case=ABLATIVE	
-22	doctis	doceo	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=FEMININE|case=ABLATIVE	
-23	Iuppiter	Iuppiter	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-24	et	et	CONJ	_	
-25	laboriosis	laboriosus	ADJ	number=PLURAL|gender=FEMININE|case=ABLATIVE	
-1	Corneli	Cornelius	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-2	tibi	tu	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+qua	qui	PRON	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+-re	res	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+habe	habeo	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE|voice=ACTIVE	
+tibi	tu	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+quidquid	quisquis	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+hoc	hic	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+libelli	libellus	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+qualecumque	qualiscumque	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE|degree=POSITIVE	
+quod	qui	NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+o	o	EXCL	_	
+patrona	patrona	NN	number=SINGULAR|gender=FEMININE|case=VOCATIVE	
+virgo	virgo	NN	number=SINGULAR|gender=FEMININE|case=VOCATIVE	
+plus	multus	ADV	degree=COMPARATIVE	
+uno	unus	ADJ	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+maneat	maneo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
+perenne	perennis	ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+saeclo	saeculum	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+Corneli	Cornelius	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+tibi	tu	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+nam	nam	CONJ	_	
+-que	que	CONJ	_	
+tu	tu	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+solebas	soleo	VB	person=PERSON_2|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
+meas	meus	ADJ	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+esse	sum	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+aliquid	aliquis	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+putare	puto	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+nugas	nugae	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+iam	jam	ADV	_	
+tum	tum	ADV	_	
+cum	cum	CONJ	_	
+ausus	audeo	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
+es	sum	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+unus	unus	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Italorum	Italus	ADJ	number=PLURAL|gender=MASCULINE|case=GENITIVE|degree=POSITIVE	
+omne	omnis	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+aevum	aevum	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+tribus	tres	NRL	number=PLURAL|gender=FEMININE|case=ABLATIVE	
+explicare	explico	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+chartis	charta	NN	number=PLURAL|gender=FEMININE|case=ABLATIVE	
+doctis	doceo	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=FEMININE|case=ABLATIVE	
+Iuppiter	Iuppiter	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+et	et	CONJ	_	
+laboriosis	laboriosus	ADJ	number=PLURAL|gender=FEMININE|case=ABLATIVE	

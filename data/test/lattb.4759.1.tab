@@ -1,15 +1,13 @@
-1	Gratum	gratus	ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
-2	est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-3	securus	securus	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-4	multum	multus	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-5	quod	qui	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-6	iam	jam	ADV	_	
-7	tibi	tu	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-8	de	de	PREP	_	
-9	me	ego	PRON	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
-10	permittis	permitto	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-11	subito	subito	ADV	_	
-12	ne	ne	ADV	_	
-13	male	malus	ADV	degree=POSITIVE	
-14	inepta	ineptus	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-15	cadam	cado	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
+Sit	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
+tibi	tu	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+cura	cura	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+togae	toga	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+potior	potis	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE|degree=COMPARATIVE	
+pressum	premo	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=NEUTER|case=NOMINATIVE	
+-que	que	CONJ	_	
+quasillo	quasillum	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+scortum	scortum	NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+quam	quam	ADV	_	
+Servi	Servius	ADJ	number=SINGULAR|gender=MASCULINE|case=GENITIVE|degree=POSITIVE	
+filia	filia	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+Sulpicia	Sulpicia	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	

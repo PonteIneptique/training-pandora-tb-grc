@@ -1,50 +1,50 @@
-1	tam	tam	ADV	_	
-2	te	tu	PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-3	basia	basium	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-4	multa	multus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-5	basiare	basio	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-6	vesano	vesanus	ADJ	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-7	satis	satis	IRREG	gender=NEUTER	
-8	et	et	CONJ	_	
-9	super	super	PREP	_	
-10	Catullo	Catullus	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-11	est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-12	quae	qui	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-13	ne	ne	ADV	_	
-14	-c	que	CONJ	_	
-15	pernumerare	pernumero	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-16	curiosi	curiosus	ADJ	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-17	possint	possum	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
-18	ne	ne	ADV	_	
-19	-c	que	CONJ	_	
-20	mala	malus	ADJ	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
-21	fascinare	fascino	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-22	lingua	lingua	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
-1	aut	aut	CONJ	_	
-2	quam	quam	ADV	_	
-3	sidera	sidus	NN	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
-4	multa	multus	ADJ	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
-5	cum	cum	CONJ	_	
-6	tacet	taceo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-7	nox	nox	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-8	furtivos	furtivus	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-9	hominum	homo	NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-10	vident	video	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-11	amores	amor	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-1	quam	quam	ADV	_	
-2	magnus	magnus	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-3	numerus	numerus	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-4	Libyssae	Libyssus	ADJ	number=SINGULAR|gender=FEMININE|case=GENITIVE|degree=POSITIVE	
-5	harenae	harena	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-6	lasarpiciferis	lasarpicifer	ADJ	number=PLURAL|gender=FEMININE|case=ABLATIVE	
-7	iacet	jaceo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-8	Cyrenis	Cyrenae	NN	number=PLURAL|gender=FEMININE|case=ABLATIVE	
-9	oraclum	oraculum	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-10	Iovis	Iuppiter	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-11	inter	inter	PREP	_	
-12	aestuosi	aestuosus	ADJ	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-13	et	et	CONJ	_	
-14	Batti	Battus	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-15	veteris	vetus	ADJ	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-16	sacrum	sacer	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-17	sepulcrum	sepulcrum	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+aut	aut	CONJ	_	
+quam	quam	ADV	_	
+sidera	sidus	NN	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
+multa	multus	ADJ	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
+cum	cum	CONJ	_	
+tacet	taceo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+nox	nox	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+furtivos	furtivus	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+hominum	homo	NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+vident	video	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+amores	amor	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+tam	tam	ADV	_	
+te	tu	PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+basia	basium	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+multa	multus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+basiare	basio	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+vesano	vesanus	ADJ	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+satis	satis	IRREG	gender=NEUTER	
+et	et	CONJ	_	
+super	super	PREP	_	
+Catullo	Catullus	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+quae	qui	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+ne	ne	ADV	_	
+-c	que	CONJ	_	
+pernumerare	pernumero	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+curiosi	curiosus	ADJ	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+possint	possum	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
+ne	ne	ADV	_	
+-c	que	CONJ	_	
+mala	malus	ADJ	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+fascinare	fascino	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+lingua	lingua	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+quam	quam	ADV	_	
+magnus	magnus	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+numerus	numerus	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Libyssae	Libyssus	ADJ	number=SINGULAR|gender=FEMININE|case=GENITIVE|degree=POSITIVE	
+harenae	harena	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+lasarpiciferis	lasarpicifer	ADJ	number=PLURAL|gender=FEMININE|case=ABLATIVE	
+iacet	jaceo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+Cyrenis	Cyrenae	NN	number=PLURAL|gender=FEMININE|case=ABLATIVE	
+oraclum	oraculum	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+Iovis	Iuppiter	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+inter	inter	PREP	_	
+aestuosi	aestuosus	ADJ	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+et	et	CONJ	_	
+Batti	Battus	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+veteris	vetus	ADJ	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+sacrum	sacer	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+sepulcrum	sepulcrum	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	

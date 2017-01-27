@@ -1,53 +1,34 @@
-1	quod	qui	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-2	tu	tu	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-3	si	si	CONJ	_	
-4	manibus	manus	NN	number=PLURAL|gender=FEMININE|case=ABLATIVE	
-5	teras	tero	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
-6	frices	frico	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
-7	-que	que	CONJ	_	
-8	non	non	ADV	_	
-9	umquam	umquam	ADV	_	
-10	digitum	digitus	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-11	inquinare	inquino	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-12	posses	possum	VB	person=PERSON_2|number=SINGULAR|tense=IMP|mood=SUBJUNCTIVE|voice=ACTIVE	
-1	Furi	Furius	ADJ	number=SINGULAR|gender=MASCULINE|case=VOCATIVE|degree=POSITIVE	
-2	cui	qui	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-3	ne	ne	ADV	_	
-4	-que	que	CONJ	_	
-5	servus	servus	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-6	est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-7	ne	ne	ADV	_	
-8	-que	que	CONJ	_	
-9	arca	arca	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-10	ne	ne	ADV	_	
-11	-c	que	CONJ	_	
-12	cimex	cimex	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-13	ne	ne	ADV	_	
-14	-que	que	CONJ	_	
-15	araneus	araneus	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-16	ne	ne	ADV	_	
-17	-que	que	CONJ	_	
-18	ignis	ignis	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-19	verum	verus	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-20	est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-21	et	et	CONJ	_	
-22	pater	pater	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-23	et	et	CONJ	_	
-24	noverca	noverca	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-25	quorum	qui	NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-26	dentes	dens	NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-27	vel	vel	ADV	_	
-28	silicem	silex	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-29	comesse	comedo	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-30	possunt	possum	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-31	est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-32	pulcre	pulcer	ADV	degree=POSITIVE	
-33	tibi	tu	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-34	cum	cum	PREP	_	
-35	tuo	tuus	ADJ	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
-36	parente	parens	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
-37	et	et	CONJ	_	
-38	cum	cum	PREP	_	
-39	coniuge	conjunx	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
-40	lignea	ligneus	ADJ	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
-41	parentis	parens	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+haec	hic	PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+tu	tu	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+commoda	commodus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+tam	tam	ADV	_	
+beata	beatus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+Furi	Furius	ADJ	number=SINGULAR|gender=MASCULINE|case=VOCATIVE|degree=POSITIVE	
+noli	nolo	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE|voice=ACTIVE	
+spernere	sperno	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+ne	ne	ADV	_	
+-c	que	CONJ	_	
+putare	puto	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+parvi	parvus	ADJ	number=SINGULAR|gender=NEUTER|case=GENITIVE	
+et	et	CONJ	_	
+sestertia	sestertium	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+quae	qui	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+soles	soleo	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+precari	precor	VB	tense=PR|mood=INFINITIVE|voice=PASSIVE	
+centum	centum	NRL	_	
+desine	desino	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE|voice=ACTIVE	
+atque	atque	CONJ	_	
+corpora	corpus	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+sicciora	siccus	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE|degree=COMPARATIVE	
+cornu	cornu	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+aut	aut	CONJ	_	
+siquid	siquis	NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+magis	magnus	ADV	_	
+aridum	aridus	ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+est	sum	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+habetis	habeo	VB	person=PERSON_2|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+sole	sol	NN	number=SINGULAR|gender=MASCULINE|case=ABLATIVE	
+et	et	CONJ	_	
+frigore	frigus	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+et	et	CONJ	_	
+esuritione	esuritio	NN	number=SINGULAR|gender=FEMININE|case=ABLATIVE	

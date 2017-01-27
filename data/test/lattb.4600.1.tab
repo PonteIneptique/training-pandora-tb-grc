@@ -1,25 +1,22 @@
-1	Sic	sic	ADV	_	
-2	ait	aio	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-3	et	etiam	ADV	_	
-4	manibus	manus	NN	number=PLURAL|gender=FEMININE|case=ABLATIVE	
-5	vittas	vitta	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-6	Vestam	Vesta	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-7	-que	que	CONJ	_	
-8	potentem	potens	ADJ	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-9	aeternum	aeternus	ADJ	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-10	-que	que	CONJ	_	
-11	adytis	adytum	NN	number=PLURAL|gender=NEUTER|case=ABLATIVE	
-12	effert	effero	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-13	penetralibus	penetralis	ADJ	number=PLURAL|gender=NEUTER|case=ABLATIVE	
-14	ignem	ignis	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-1	“O	o	EXCL	_	
-2	lux	lux	NN	number=SINGULAR|gender=FEMININE|case=VOCATIVE	
-3	Dardaniae	Dardania	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-4	spes	spes	NN	number=SINGULAR|gender=FEMININE|case=VOCATIVE	
-5	O	o	EXCL	_	
-6	fidissima	fidus	ADJ	number=SINGULAR|gender=FEMININE|case=VOCATIVE|degree=SUPERLATIVE	
-7	Teucrum	Teucer	ADJ	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-8	quae	qui	PRON	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
-9	tantae	tantus	ADJ	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
-10	tenuere	teneo	VB	person=PERSON_3|number=PLURAL|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
-11	morae	mora	NN	number=PLURAL|gender=FEMININE|case=NOMINATIVE	
+Sat	sat	NN	number=SINGULAR|gender=NEUTER	
+patriae	patria	NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
+Priamo	Priamus	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+-que	que	CONJ	_	
+datum	do	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=NEUTER|case=NOMINATIVE	
+si	si	CONJ	_	
+Pergama	Pergama	NN	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
+dextra	dexter	ADJ	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+defendi	defendo	VB	tense=PR|mood=INFINITIVE|voice=PASSIVE	
+possent	possum	VB	person=PERSON_3|number=PLURAL|tense=IMP|mood=SUBJUNCTIVE|voice=ACTIVE	
+etiam	etiam	ADV	_	
+hac	hic	PRON	number=SINGULAR|gender=FEMININE|case=ABLATIVE	
+defensa	defendo	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=PASSIVE|gender=NEUTER|case=NOMINATIVE	
+fuissent	sum	VB	person=PERSON_3|number=PLURAL|tense=PLUSQUAMPERFECT|mood=SUBJUNCTIVE|voice=ACTIVE	
+Hostis	hostis	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+habet	habeo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+muros	murus	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+ruit	ruo	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+alto	altus	ADJ	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+a	ab	PREP	_	
+culmine	culmen	NN	number=SINGULAR|gender=NEUTER|case=ABLATIVE	
+Troia	Troia	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
