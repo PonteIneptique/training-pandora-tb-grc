@@ -1,0 +1,74 @@
+1	Διόσκορος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+2	Δράκωνι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+3	καὶ		CONJ	_	
+4	Ερεμεσις		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+5	καὶ		CONJ	_	
+6	Ἀμμωνιανῷ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+7	κουράτορι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+8	ἀμφοτέροις		ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE	
+9	τοῖς			number=PLURAL|gender=MASCULINE|case=DATIVE	
+10	φιλτάτοις		ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE	
+11	πολλὰ		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+12	χαίρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+1	καὶ		CONJ	_	
+2	τὸ			number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+3	προσκύνημα		NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+4	σου		PRON	person=PERSON_2|number=SINGULAR|case=GENITIVE	
+5	ποιῶ		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+6	ὑμῶν		PRON	person=PERSON_2|number=PLURAL|case=GENITIVE	
+7	ποιῶ		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+8	παρὰ		ADJ	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
+9	τῇ			number=SINGULAR|gender=FEMININE|case=DATIVE	
+10	Τύχῃ		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
+11	τοῦ			number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+12	πραισιδίου		NN	number=SINGULAR|gender=NEUTER|case=GENITIVE	
+13	καὶ		CONJ	_	
+14	τῶν			number=PLURAL|gender=NEUTER|case=GENITIVE	
+15	ὀρέων		NN	number=PLURAL|gender=NEUTER|case=GENITIVE	
+16	ὅπου		ADV	_	
+17	ἐπιξενSRοῦμαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=PASSIVE	
+1	ποσάκεις		ADV	_	
+2	ἔγραψα		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+3	ὑμῖν		PRON	person=PERSON_2|number=PLURAL|case=DATIVE	
+4	οὐδεὶς		PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+5	ὑμῶν		PRON	person=PERSON_2|number=PLURAL|case=GENITIVE	
+6	SR			_	
+7	γράψας		VB	number=SINGULAR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+8	μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+1	κομίσασθε		VB	person=PERSON_2|number=PLURAL|mood=IMPERATIVE	
+2	παρὰ		PREP	_	
+3	Εὐτυχ		NN	number=SINGULAR	
+4	σευτλίων		NN	number=PLURAL|gender=NEUTER|case=GENITIVE	
+5	δέσμας		NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+6	γ		NRL	gender=FEMININE|case=ACCUSATIVE	
+7	καὶ		CONJ	_	
+8	ἄλλην		PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+9	δέσμην		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+10	σερίδων		NN	number=PLURAL|gender=FEMININE|case=GENITIVE	
+1	διαμερίσατε		VB	person=PERSON_2|number=PLURAL|mood=IMPERATIVE|voice=ACTIVE	
+2	οἱ			number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+3	τρεῖς		NRL	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+1	γράψον		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+2	μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+3	περὶ		PREP	_	
+4	τῆς			number=SINGULAR|gender=FEMININE|case=GENITIVE	
+5	σωτηρίας		NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+6	ὑμῶν		PRON	person=PERSON_2|number=PLURAL|case=GENITIVE	
+1	μὴ		CONJ	_	
+2	ὀκνήσητε		VB	person=PERSON_2|number=PLURAL|mood=SUBJUNCTIVE|voice=ACTIVE	
+3	ὃ		PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+4	λαμβάνετε		VB	person=PERSON_2|number=PLURAL|tense=PR|mood=IMPERATIVE|voice=ACTIVE	
+5	γράψον		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+6	μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+7	ἵνα		CONJ	_	
+8	καὶ		CONJ	_	
+9	ἐγὼ		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+10	μάθω		VB	person=PERSON_1|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+11	ὅτι		CONJ	_	
+12	ἔλαβον		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+13	τὸ			number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+14	ἐπʼ		PREP	_	
+15	αὐτοῦ		PRON	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+1	ἐρρῶσθαί		VB	tense=PERF|mood=INFINITIVE	
+2	σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+3	εὔχομαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	

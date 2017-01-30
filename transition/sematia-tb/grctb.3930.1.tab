@@ -1,0 +1,59 @@
+1	Ἀντίγονος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+2	Μαρίωνι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+3	τῷ			number=SINGULAR|gender=MASCULINE|case=DATIVE	
+4	ἀδελφῷ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+5	χαίρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+1	ἔπεμψά		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+2	σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+3	διὰ		PREP	_	
+4	Καρπουννίου		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+5	τοῦ			number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+6	συμπολίτου		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+7	ἡμῶν		PRON	person=PERSON_1|number=PLURAL|gender=MASCULINE|case=GENITIVE	
+8	τοῦ			number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+9	κιβαριάτου		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+10	τὸ			number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+11	χειρόγραφον		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+12	Ῥουτιλίου		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+1	ἐρωτῶ		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+2	σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+3	ἄδελφε		NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+4	ὡς		CONJ	_	
+5	ἠρώτησά		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+6	σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+7	εἰς		PREP	_	
+8	Αἴγυπτον		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+9	ἵνα		CONJ	_	
+10	ἀπαιτήσῃς		VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+11	αὐτὸν		PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+12	εἴ		CONJ	_	
+13	τι		PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+14	ὀφείλει		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+1	οἶδα		VB	person=PERSON_1|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+2	ὅτι		CONJ	_	
+3	γοργὸς		ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+4	εἶ		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+5	μή		CONJ	_	
+6	σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+7	περιγελάσῃ		VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+8	ῥήμασι		NN	number=PLURAL|gender=NEUTER|case=DATIVE	
+1	ὑπονοεῖ		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+2	ὡς		CONJ	_	
+3	σὸν		ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+4	εἶναι		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+5	τὸ			number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+6	γράμμα		NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+1	ἐρεῖς		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+2	καὶ		CONJ	_	
+3	τῇ			number=SINGULAR|gender=FEMININE|case=DATIVE	
+4	ἐξουσίᾳ		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
+5	ὅτι		CONJ	_	
+6	πόσον		ADJ	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+7	χρόνον		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+8	ἔχει		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+9	τὸ			number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+10	χειρόγραφον		NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+11	καὶ		CONJ	_	
+12	οὐκ		ADV	_	
+13	ἀποδέδωκεν		VB	person=PERSON_3|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+1	ἔρρωσο		VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE	

@@ -1,0 +1,46 @@
+1	Πίσων		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+2	Ζήνωνι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+3	καὶ		CONJ	_	
+4	Ὡρίωνι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+5	τοῖς			number=PLURAL|gender=MASCULINE|case=DATIVE	
+6	ἀδελφοῖς		NN	number=PLURAL|gender=MASCULINE|case=DATIVE	
+7	πολλὰ		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+8	χαίρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+1	προσδέχομαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+2	ὑμᾶς		PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
+3	ἐν		PREP	_	
+4	ταῖς			number=PLURAL|gender=FEMININE|case=DATIVE	
+5	καλάνδαις		NN	number=PLURAL|gender=FEMININE|case=DATIVE	
+1	ἵνα		CONJ	_	
+2	οὖν		ADV	_	
+3	πέμψῃς		VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+4	μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+5	μίκκον		ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE|degree=POSITIVE	
+6	χαρτάριον		NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+7	καὶ		CONJ	_	
+8	στημόνιν		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+1	μὴ		CONJ	_	
+2	ἀμελήσῃς		VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+1	πέμψον		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+2	μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+3	διὰ		PREP	_	
+4	τοῦ			number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+5	ἀναδίδοντός		VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=GENITIVE	
+6	σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+7	τὴν			number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+8	ἐπιστολήν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+1	Ὡρίωνι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+2	ταῦτα		PRON	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
+3	λέγω		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+1	ἀσπάζομαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+2	Πανίσκον		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+3	καὶ		CONJ	_	
+4	Διόσκορον		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+5	καὶ		CONJ	_	
+6	Ψενοσῖριν		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+7	καὶ		CONJ	_	
+8	πάντας		ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+9	τοὺς			number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+10	συνστρατιώτας		NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+1	ἀσπάζεται		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE	
+2	Ἀσκληπιάδης		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
