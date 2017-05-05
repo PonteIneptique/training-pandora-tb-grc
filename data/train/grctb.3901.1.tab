@@ -1,23 +1,22 @@
-κόμισαι		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE	
-τὸ			number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-τρεικέραμον		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-παρὰ		PREP	_	
-Ἀρτεμιδώρου		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-καμηλίτου		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-ἐρρῶσθαι		VB	tense=PERF|mood=INFINITIVE	
-εὔχομαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-ἀσπάζομαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-Ερεμησις		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-καὶ		CONJ	_	
-Ἀμμωνιανὸν		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-κουράτορα		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+Διόσκορος	Διόσκορος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Δράκονι	Δρακων	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+ἀδελφῷ	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+πολλὰ	πολύς	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+χαίρειν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+πρὸ	πρό	PREP	_	
+μὲν	μέν	ADV	_	
+πάντων	πᾶς	ADJ	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+εὔχομέ	εὔχομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+ὑγιαίνειν	ὑγιαίνω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+ἀσπάζομαι	ἀσπάζομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+Ερεμησις	Ἑρεμησις	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+καὶ	καί	CONJ	_	
+Ἀμμωνιανὸν	Ἀμμωνιανός	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+κουράτορα	κουράτωρ	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
 συν			_	
 GGνος			_	
-ἔχεις		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+ἔχεις	ἔχω	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
 Gμος			_	
-πρὸ		PREP	_	
-μὲν		ADV	_	
-πάντων		ADJ	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-εὔχομέ		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
-ὑγιαίνειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+ἐρρῶσθαι	ῥώννυμι	VB	tense=PERF|mood=INFINITIVE	
+εὔχομαι	εὔχομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	

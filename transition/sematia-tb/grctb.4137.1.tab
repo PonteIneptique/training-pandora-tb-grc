@@ -1,38 +1,38 @@
 1	G			_	
 2	GGG			_	
-3	με		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-4	Κελερᾶν		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+3	με	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+4	Κελερᾶν	Κελερᾶς	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
 5	G			_	
 6	θρώτερος			_	
 7	ησαGG			_	
-8	ὅτι		CONJ	_	
-9	μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-10	οὐκ		ADV	_	
-11	ἔγρSU	SU	VB	_	
+8	ὅτι	ὅτι2	CONJ	_	
+9	μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+10	οὐκ	οὐ	ADV	_	
+11	ἔγρSU	ἔγρSU	VB	_	
 12	G			_	
 13	κας			_	
-1	ἐρωτῶ		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-2	ἄδελSU		NN	number=SINGULAR	
+1	ἐρωτῶ	ἐρωτάω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+2	ἄδελSU	ἀδελφ-	NN	number=SINGULAR	
 3	SU			_	
 4	SU			_	
 5	SU			_	
-6	περὶ		PREP	_	
-7	τῆς			number=SINGULAR|gender=FEMININE|case=GENITIVE	
-8	σωτηρίαSU		NN	gender=FEMININE	
+6	περὶ	περί	PREP	_	
+7	τῆς	ὁ		number=SINGULAR|gender=FEMININE|case=GENITIVE	
+8	σωτηρίαSU	σωτηρία	NN	gender=FEMININE	
 9	SU			_	
 10	G			_	
-1	ἤκουον		VB	person=PERSON_1|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
-2	ὅτι		CONJ	_	
-3	καταβαίνεις		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+1	ἤκουον	ἀκούω	VB	person=PERSON_1|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
+2	ὅτι	ὅτι2	CONJ	_	
+3	καταβαίνεις	καταβαίνω	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
 4	GG			_	
-1	καθʼ		PREP	_	
-2	ἡμέραν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-3	ἰς		PREP	_	
-4	τὴν			number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-5	ὁδὸν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-6	ἐκαθήμην		VB	person=PERSON_1|number=SINGULAR|tense=IMP|mood=INDICATIVE	
-7	προσδοκῶν		VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-8	σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
-9	ὡς		CONJ	_	
-10	ἔλθῃς		VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-1	ἔρρωσοι		VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE	
+1	καθʼ	κατά	PREP	_	
+2	ἡμέραν	ἡμέρα	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+3	ἰς	εἰς	PREP	_	
+4	τὴν	ὁ		number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+5	ὁδὸν	ὁδός2	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+6	ἐκαθήμην	κάθημαι	VB	person=PERSON_1|number=SINGULAR|tense=IMP|mood=INDICATIVE	
+7	προσδοκῶν	προσδοκάω	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+8	σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+9	ὡς	ὡς	CONJ	_	
+10	ἔλθῃς	ἔρχομαι	VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+1	ἔρρωσοι	ῥώννυμι	VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE	

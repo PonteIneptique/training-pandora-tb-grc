@@ -1,15 +1,15 @@
-ἔγραψά		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-διὰ		PREP	_	
-Ὀκταουίου		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-ἄλλην		PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-ἐπιστολὴν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-ἀσπαζόμενός		VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
-σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
-καὶ		CONJ	_	
-πέμψεις		VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-τοὺς			number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-πέντε		NRL	_	
-στατῆρες		NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-τη			number=SINGULAR|gender=FEMININE|case=DATIVE	
-ἐρανάρχι		NN	number=SINGULAR|case=DATIVE	
+ἔγραψά	γράφω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+σοι	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+διὰ	διά	PREP	_	
+Ὀκταουίου	Ὀκτάουιος	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+ἄλλην	ἄλλος	PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+ἐπιστολὴν	ἐπιστολή	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+ἀσπαζόμενός	ἀσπάζομαι	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
+σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+καὶ	καί	CONJ	_	
+πέμψεις	πέμπω	VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+τοὺς	ὁ		number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+πέντε	πέντε	NRL	_	
+στατῆρες	στατήρ	NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+τη	ἡ		number=SINGULAR|gender=FEMININE|case=DATIVE	
+ἐρανάρχι	ἐρανάρχης	NN	number=SINGULAR|case=DATIVE	

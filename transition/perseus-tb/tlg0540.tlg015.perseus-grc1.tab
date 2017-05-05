@@ -1,606 +1,606 @@
-1	ἐγὼ		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-2	μέν		ADV	_	
-3	ὦ			_	
-4	ἄνδρες		NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
-5	δικασταί		NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
-6	καὶ		ADV	_	
-7	ὑμᾶς		PRON	person=PERSON_2|number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-8	αἰτοῦμαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-9	τὰ			number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-10	δίκαια		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-11	ψηφίσασθαι		VB	mood=INFINITIVE	
-12	καὶ		CONJ	_	
-13	τῶν			number=PLURAL|gender=MASCULINE|case=GENITIVE	
-14	στρατηγῶν		NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-15	δέομαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-16	ἐπεὶ		CONJ	_	
-17	καὶ		ADV	_	
-18	ἐν		PREP	_	
-19	τῇ			number=SINGULAR|gender=FEMININE|case=DATIVE	
-20	ἄλλῃ		PRON	number=SINGULAR|gender=FEMININE|case=DATIVE	
-21	ἀρχῇ		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-22	πολλοῦ		ADJ	number=SINGULAR|gender=NEUTER|case=GENITIVE	
-23	ἄξιοι		ADJ	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-24	τῇ			number=SINGULAR|gender=FEMININE|case=DATIVE	
-25	πόλει		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-26	γεγόνασι		VB	person=PERSON_3|number=PLURAL|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
-27	καὶ		ADV	_	
-28	τῶν			number=PLURAL|gender=FEMININE|case=GENITIVE	
-29	τῆς			number=SINGULAR|gender=FEMININE|case=GENITIVE	
-30	ἀστρατείας		NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-31	γραφῶν		NN	number=PLURAL|gender=FEMININE|case=GENITIVE	
-32	κοινοὺς		ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-33	εἶναι		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-34	τῷ			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-35	τε		ADV	_	
-36	διώκοντι		VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=DATIVE	
-37	καὶ		CONJ	_	
-38	τῷ			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-39	φεύγοντι		VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=DATIVE	
-40	καὶ		CONJ	_	
-41	μὴ		ADV	_	
-42	βοηθοῦντας		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
-43	ᾧ		PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-44	ἂν		ADV	_	
-45	βούλωνται		VB	person=PERSON_3|number=PLURAL|tense=PR|mood=SUBJUNCTIVE	
-46	πᾶσαν		ADJ	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-47	προθυμίαν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-48	ἔχειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-49	παρὰ		PREP	_	
-50	τὸ			number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-51	δίκαιον		ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-52	ὑμᾶς		PRON	person=PERSON_2|number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-53	ψηφίσασθαι		VB	mood=INFINITIVE	
-54	ἐνθυμουμένους		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=ACCUSATIVE	
-55	ὅτι		CONJ	_	
-56	σφόδῤ		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-57	ἂν		ADV	_	
-58	ἠγανακτεῖτε		VB	person=PERSON_2|number=PLURAL|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
-59	εἰ		CONJ	_	
-60	ἐν		PREP	_	
-61	τῇ			number=SINGULAR|gender=FEMININE|case=DATIVE	
-62	ὑμετέρᾳ		ADJ	number=SINGULAR|gender=FEMININE|case=DATIVE	
-63	δοκιμασίᾳ		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-64	οἱ			number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-65	θεσμοθέται		NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-66	ἀναβάντες		VB	number=PLURAL|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-67	ὑμῶν		PRON	person=PERSON_2|number=PLURAL|gender=MASCULINE|case=GENITIVE	
-68	ἐδέοντο		VB	person=PERSON_3|number=PLURAL|tense=IMP|mood=INDICATIVE	
-69	καταψηφίσασθαι		VB	mood=INFINITIVE	
-70	ἡγούμενοι		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
-71	δεινὸν		ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-72	εἶναι		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-73	εἰ		CONJ	_	
-74	οἱ			number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-75	τιθέντες		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-76	τὸν			number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-77	ἀγῶνα		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-78	καὶ		CONJ	_	
-79	τὴν			number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-80	ψῆφον		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-81	διδόντες		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-82	παρακελεύσονται		VB	person=PERSON_3|number=PLURAL|tense=FUTURE|mood=INDICATIVE	
-83	τῶν			number=PLURAL|gender=MASCULINE|case=GENITIVE	
-84	μὲν		ADV	_	
-85	μὴ		ADV	_	
-86	καταψηφίζεσθαι		VB	tense=PR|mood=INFINITIVE	
-87	τῶν			number=PLURAL|gender=MASCULINE|case=GENITIVE	
-88	δὲ		CONJ	_	
-89	καταψηφίζεσθαι		VB	tense=PR|mood=INFINITIVE	
-1	τί		PRON	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
-2	δ̓		ADV	_	
-3	ἂν		ADV	_	
-4	αἴσχιον		ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE|degree=COMPARATIVE	
-5	ἔθος		NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
-6	ἢ		CONJ	_	
-7	δεινότερον		ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE|degree=COMPARATIVE	
-8	πρᾶγμα		NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
-9	τούτου		PRON	number=SINGULAR|gender=NEUTER|case=GENITIVE	
-10	ἐν		PREP	_	
-11	τῇ			number=SINGULAR|gender=FEMININE|case=DATIVE	
-12	πόλει		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-13	γένοιτο		VB	person=PERSON_3|number=SINGULAR	
-14	εἰ		CONJ	_	
-15	τολμήσει		VB	person=PERSON_3|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-16	ὁ			number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-17	μὲν		ADV	_	
-18	ἄρχων		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-19	ἐν		PREP	_	
-20	ταῖς			number=PLURAL|gender=FEMININE|case=DATIVE	
-21	τῶν			number=PLURAL|gender=FEMININE|case=GENITIVE	
-22	ἐπικλήρων		NN	number=PLURAL|gender=FEMININE|case=GENITIVE	
-23	δίκαις		NN	number=PLURAL|gender=FEMININE|case=DATIVE	
-24	ἀντιβολεῖν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-25	καὶ		CONJ	_	
-26	ἱκετεύειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-27	τοὺς			number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-28	δικαστὰς		NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-29	ὅ		PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-30	τι		PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-31	ἂν		ADV	_	
-32	βούληται		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE	
-33	πραχθῆναι		VB	mood=INFINITIVE|voice=PASSIVE	
-34	ὁ			number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-35	δὲ		CONJ	_	
-36	πολέμαρχος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-37	καὶ		CONJ	_	
-38	οἱ			number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-39	ἕνδεκα		ADJ	_	
-40	δεήσονται		VB	person=PERSON_3|number=PLURAL|tense=FUTURE|mood=INDICATIVE	
-41	ἐν		PREP	_	
-42	ταῖς			number=PLURAL|gender=FEMININE|case=DATIVE	
-43	δίκαις		NN	number=PLURAL|gender=FEMININE|case=DATIVE	
-44	ταῖς			number=PLURAL|gender=FEMININE|case=DATIVE	
-45	ὑφ̓		PREP	_	
-46	ἑαυτῶν		PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-47	εἰσαγομέναις		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|gender=FEMININE|case=DATIVE	
-48	ὥσπερ		CONJ	_	
-49	καὶ		ADV	_	
-50	νῦν		ADV	_	
-1	χρὴ		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-2	τοίνυν		ADV	_	
-3	καὶ		ADV	_	
-4	ὑπὲρ		PREP	_	
-5	ὑμῶν		PRON	person=PERSON_2|number=PLURAL|gender=MASCULINE|case=GENITIVE	
-6	αὐτῶν		PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-7	τὴν			number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-8	γνώμην		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-9	ἔχειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-10	ἐνθυμουμένους		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=ACCUSATIVE	
-11	ὅτι		CONJ	_	
-12	οὐδὲν		PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-13	διοίσει		VB	person=PERSON_3|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-14	ὑμᾶς		PRON	person=PERSON_2|number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-15	ἰδίᾳ		ADJ	number=SINGULAR|gender=FEMININE|case=DATIVE	
-16	περὶ		PREP	_	
-17	τῆς			number=SINGULAR|gender=FEMININE|case=GENITIVE	
-18	ἀστρατείας		NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-19	βοηθεῖν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-20	ἢ		CONJ	_	
-21	τούτων		PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-22	τινὰς		PRON	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-23	δεῖσθαι		VB	tense=PR|mood=INFINITIVE	
-24	αὐτοὺς		PRON	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-25	τὴν			number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-26	ψῆφον		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-27	διδόντας		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
-1	σκέψασθε		VB	person=PERSON_2|number=PLURAL|mood=IMPERATIVE	
-2	δέ		ADV	_	
-3	ὦ			_	
-4	ἄνδρες		NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
-5	δικασταί		NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
-6	ἐὰν		CONJ	_	
-7	ἱκανὸν		ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
-8	γένηται		VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE	
-9	τεκμήριον		NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
-10	ὅτι		CONJ	_	
-11	οὐδείς		PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-12	πω		ADV	_	
-13	τῶν			number=PLURAL|gender=MASCULINE|case=GENITIVE	
-14	ἀρχόντων		NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-15	ἐν		PREP	_	
-16	τῷ			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-17	στρατοπέδῳ		NN	number=SINGULAR|gender=NEUTER|case=DATIVE	
-18	Ἀλκιβιάδῃ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-19	ἦν		VB	person=PERSON_3|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
-20	παρεσκευασμένος		VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
-1	ἐχρῆν		VB	person=PERSON_3|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
-2	γὰρ		ADV	_	
-3	αὐτούς		PRON	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-4	εἴπερ		CONJ	_	
-5	ἀληθῆ		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-6	λέγουσιν		VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-7	ἀνακαλεῖν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-8	μὲν		ADV	_	
-9	Πάμφιλον		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-10	ὅτι		CONJ	_	
-11	ἀφαιρῶν		VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-12	τὸν			number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-13	ἵππον		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-14	ἱππέως		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-15	ἀπεστέρει		VB	person=PERSON_3|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
-16	τὴν			number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-17	πόλιν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-18	ἐπιβάλλειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-19	δὲ		ADV	_	
-20	τῷ			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-21	φυλάρχῳ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-22	ὅτι		CONJ	_	
-23	ἐξελαύνων		VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-24	Ἀλκιβιάδην		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-25	ἐκ		PREP	_	
-26	τῆς			number=SINGULAR|gender=FEMININE|case=GENITIVE	
-27	φυλῆς		NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-28	ἄκυρον		ADJ	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-29	ἐποίει		VB	person=PERSON_3|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
-30	τὴν			number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-31	τούτων		PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-32	τάξιν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-33	κελεύειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-34	δὲ		CONJ	_	
-35	τὸν			number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-36	ταξίαρχον		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-37	ἐξαλείφειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-38	αὐτὸν		PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-39	ἐκ		PREP	_	
-40	τοῦ			number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-41	τῶν			number=PLURAL|gender=MASCULINE|case=GENITIVE	
-42	ὁπλιτῶν		NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-43	καταλόγου		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-1	νῦν		ADV	_	
-2	δὲ		ADV	_	
-3	τούτων		PRON	number=PLURAL|gender=NEUTER|case=GENITIVE	
-4	οὐδὲν		PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-5	ἐποίησαν		VB	person=PERSON_3|number=PLURAL|mood=INDICATIVE|voice=ACTIVE	
-6	ἀλλ̓		CONJ	_	
-7	ἐν		PREP	_	
-8	μὲν		ADV	_	
-9	τῷ			number=SINGULAR|gender=NEUTER|case=DATIVE	
-10	στρατοπέδῳ		NN	number=SINGULAR|gender=NEUTER|case=DATIVE	
-11	περιεώρων		VB	person=PERSON_3|number=PLURAL|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
-12	αὐτὸν		PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-13	ὑπὸ		PREP	_	
-14	πάντων		ADJ	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-15	προπηλακιζόμενον		VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=ACCUSATIVE	
-16	κ-		CONJ	_	
-17	ἀν		PREP	_	
-18	τοῖς			number=PLURAL|gender=MASCULINE|case=DATIVE	
-19	ἱπποτοξόταις		NN	number=PLURAL|gender=MASCULINE|case=DATIVE	
-20	ἱππεύοντα		VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
-21	ἐπειδὴ		CONJ	_	
-22	δὲ		CONJ	_	
-23	ὑμᾶς		PRON	person=PERSON_2|number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-24	δεῖ		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-25	παρὰ		PREP	_	
-26	τῶν			number=PLURAL|gender=MASCULINE|case=GENITIVE	
-27	ἀδικούντων		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=GENITIVE	
-28	δίκην		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-29	λαμβάνειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-30	χαριζόμενοι		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
-31	μαρτυροῦσιν		VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-32	ὑφ̓		PREP	_	
-33	ἑαυτῶν		PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-34	αὐτὸν		PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-35	τετάχθαι		VB	tense=PERF|mood=INFINITIVE	
-1	καίτοι		ADV	_	
-2	δεινόν		ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
-3	ὦ			_	
-4	ἄνδρες		NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
-5	δικασταί		NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
-6	αὐτοὺς		PRON	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-7	μὲν		ADV	_	
-8	τοὺς			number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-9	στρατηγοὺς		NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-10	ὑπὸ		PREP	_	
-11	τοῦ			number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-12	δήμου		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-13	χειροτονηθέντας		VB	number=PLURAL|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=ACCUSATIVE	
-14	μὴ		ADV	_	
-15	ἂν		ADV	_	
-16	τολμῆσαι		VB	mood=INFINITIVE|voice=ACTIVE	
-17	πρότερον		ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-18	ἡμῶν		PRON	person=PERSON_1|number=PLURAL|gender=MASCULINE|case=GENITIVE	
-19	ἡγήσασθαι		VB	mood=INFINITIVE	
-20	ἕως		CONJ	_	
-21	ἂν		ADV	_	
-22	ἐδοκιμάσθησαν		VB	person=PERSON_3|number=PLURAL|mood=INDICATIVE|voice=PASSIVE	
-23	κατὰ		PREP	_	
-24	τοὺς			number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-25	νόμους		NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-26	Ἀλκιβιάδην		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-27	δὲ		CONJ	_	
-28	τολμᾶν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-29	παρὰ		PREP	_	
-30	τοὺς			number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-31	τῆς			number=SINGULAR|gender=FEMININE|case=GENITIVE	
-32	πόλεως		NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-33	νόμους		NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-34	ὑπ̓		PREP	_	
-35	αὐτῶν		PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-36	ταχθῆναι		VB	mood=INFINITIVE|voice=PASSIVE	
-37	ἦν		VB	person=PERSON_3|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
-1	δεινὸν		ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
-2	δέ		ADV	_	
-3	μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-4	δοκεῖ		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-5	εἶναι		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-6	ὦ			_	
-7	ἄνδρες		NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
-8	δικασταί		NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
-9	εἰ		CONJ	_	
-10	τῶν			number=PLURAL|gender=MASCULINE|case=GENITIVE	
-11	μὲν		ADV	_	
-12	δεδοκιμασμένων		VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|gender=MASCULINE|case=GENITIVE	
-13	ἱππέων		NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-14	οὐκ		ADV	_	
-15	ἐπὶ		PREP	_	
-16	τούτοις		PRON	number=PLURAL|gender=MASCULINE|case=DATIVE	
-17	ἐστὶν		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-18	ὅντινα		PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-19	βούλονται		VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE	
-20	αὐτοὶ		PRON	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-21	εἰς		PREP	_	
-22	τοὺς			number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-23	ὁπλίτας		NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-24	καταλέξαι		VB	mood=INFINITIVE|voice=ACTIVE	
-25	τῶν			number=PLURAL|gender=MASCULINE|case=GENITIVE	
-26	δὲ		CONJ	_	
-27	ὁπλιτῶν		NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-28	ἀδοκιμάστων		ADJ	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-29	ὄντων		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=GENITIVE	
-30	ἐπὶ		PREP	_	
-31	τούτοις		PRON	number=PLURAL|gender=MASCULINE|case=DATIVE	
-32	ἔσται		VB	person=PERSON_3|number=SINGULAR|tense=FUTURE|mood=INDICATIVE	
-33	ὅντιν̓		PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-34	ἂν		ADV	_	
-35	βούλωνται		VB	person=PERSON_3|number=PLURAL|tense=PR|mood=SUBJUNCTIVE	
-36	ἱππεύειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-1	εἰ		CONJ	_	
-2	μὲν		ADV	_	
-3	τοίνυν		ADV	_	
-4	ὦ			_	
-5	ἄνδρες		NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
-6	δικασταί		NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
-7	ὄντες		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-8	κύριοι		NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-9	πολλῶν		ADJ	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-10	βουλομένων		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=GENITIVE	
-11	μηδένα		PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-12	τῶν			number=PLURAL|gender=MASCULINE|case=GENITIVE	
-13	ἄλλων		PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-14	ἱππεύειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-15	εἴασαν		VB	person=PERSON_3|number=PLURAL|mood=INDICATIVE|voice=ACTIVE	
-16	οὐκ		ADV	_	
-17	ἂν		ADV	_	
-18	δικαίως		ADV	degree=COMPARATIVE	
-19	χαρίζοισθε		VB	person=PERSON_2|number=PLURAL|tense=PR	
-20	αὐτοῖς		PRON	number=PLURAL|gender=MASCULINE|case=DATIVE	
-1	εἰ		CONJ	_	
-2	δ̓		ADV	_	
-3	ἄκυροι		ADJ	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-4	ὄντες		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-5	ὁμολογήσουσι		VB	person=PERSON_3|number=PLURAL|mood=SUBJUNCTIVE|voice=ACTIVE	
-6	τάξαι		VB	mood=INFINITIVE|voice=ACTIVE	
-7	ἐνθυμεῖσθαι		VB	tense=PR|mood=INFINITIVE	
-8	χρὴ		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-9	ὅτι		CONJ	_	
-10	ὀμωμόκατε		VB	person=PERSON_2|number=PLURAL|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
-11	τὰ			number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-12	δίκαια		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-13	γνώσεσθαι		VB	tense=FUTURE|mood=INFINITIVE	
-14	ἀλλ̓		CONJ	_	
-15	οὐχ		ADV	_	
-16	ὅ		PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-17	τι		PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-18	ἂν		ADV	_	
-19	οὗτοι		PRON	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-20	κελεύωσι		VB	person=PERSON_3|number=PLURAL|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
-21	ψηφιεῖσθαι		VB	tense=FUTURE|mood=INFINITIVE	
-22	ὥστε		CONJ	_	
-23	οὐδένα		PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-24	χρὴ		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-25	τῶν			number=PLURAL|gender=MASCULINE|case=GENITIVE	
-26	δεομένων		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=GENITIVE	
-27	περὶ		PREP	_	
-28	πλείονος		ADJ	number=SINGULAR|gender=NEUTER|case=GENITIVE|degree=COMPARATIVE	
-29	ὑμῶν		PRON	person=PERSON_2|number=PLURAL|gender=MASCULINE|case=GENITIVE	
-30	αὐτῶν		PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-31	καὶ		CONJ	_	
-32	τῶν			number=PLURAL|gender=MASCULINE|case=GENITIVE	
-33	ὅρκων		NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-34	ποιεῖσθαι		VB	tense=PR|mood=INFINITIVE	
-1	καὶ		ADV	_	
-2	μὲν		ADV	_	
-3	δή		ADV	_	
-4	ὦ			_	
-5	ἄνδρες		NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
-6	δικασταί		NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
-7	εἴ		CONJ	_	
-8	τῳ		PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-9	δοκεῖ		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-10	μεγάλη		ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-11	ἡ			number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-12	ζημία		NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-13	εἶναι		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-14	καὶ		CONJ	_	
-15	λίαν		ADV	_	
-16	ἰσχυρὸς		ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-17	ὁ			number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-18	νόμος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-19	μεμνῆσθαι		VB	tense=PERF|mood=INFINITIVE	
-20	χρὴ		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-21	ὅτι		CONJ	_	
-22	οὐ		ADV	_	
-23	νομοθετήσοντες		VB	number=PLURAL|tense=FUTURE|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-24	περὶ		PREP	_	
-25	αὐτῶν		PRON	number=PLURAL|gender=NEUTER|case=GENITIVE	
-26	ἥκετε		VB	person=PERSON_2|number=PLURAL|tense=PR|mood=IMPERATIVE|voice=ACTIVE	
-27	ἀλλὰ		CONJ	_	
-28	κατὰ		PREP	_	
-29	τοὺς			number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-30	κειμένους		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=ACCUSATIVE	
-31	νόμους		NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-32	ψηφιούμενοι		VB	number=PLURAL|tense=FUTURE|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
-33	οὐδὲ		CONJ	_	
-34	τοὺς			number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-35	ἀδικοῦντας		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
-36	ἐλεήσοντες		VB	number=PLURAL|tense=FUTURE|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-37	ἀλλὰ		CONJ	_	
-38	πολὺ		ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-39	μᾶλλον		ADV	_	
-40	αὐτοῖς		PRON	number=PLURAL|gender=MASCULINE|case=DATIVE	
-41	ὀργιούμενοι		VB	number=PLURAL|tense=FUTURE|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
-42	καὶ		CONJ	_	
-43	ὅλῃ		ADJ	number=SINGULAR|gender=FEMININE|case=DATIVE	
-44	τῇ			number=SINGULAR|gender=FEMININE|case=DATIVE	
-45	πόλει		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-46	βοηθήσοντες		VB	number=PLURAL|tense=FUTURE|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-47	εὖ		ADV	_	
-48	εἰδότες		VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-49	ὅτι		CONJ	_	
-50	ὑπὲρ		PREP	_	
-51	τῶν			number=PLURAL|gender=NEUTER|case=GENITIVE	
-52	παρεληλυθότων		VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=ACTIVE|gender=NEUTER|case=GENITIVE	
-53	ὀλίγους		ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-54	τιμωρησάμενοι		VB	number=PLURAL|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
-55	πολλοὺς		ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-56	ποιήσετε		VB	person=PERSON_2|number=PLURAL|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-57	κοσμιωτέρους		ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE|degree=COMPARATIVE	
-58	ἐν		PREP	_	
-59	τοῖς			number=PLURAL|gender=MASCULINE|case=DATIVE	
-60	μέλλουσι		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=DATIVE	
-61	κινδυνεύειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-62	εἶναι		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-63	δοκεῖ		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-1	χρὴ		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-2	δέ		ADV	_	
-3	ὦ			_	
-4	ἄνδρες		NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
-5	δικασταί		NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
-6	ὥσπερ		CONJ	_	
-7	οὗτος		PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-8	ἀμελήσας		VB	number=SINGULAR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-9	τῆς			number=SINGULAR|gender=FEMININE|case=GENITIVE	
-10	πόλεως		NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-11	τὴν			number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-12	αὑτοῦ		PRON	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-13	σωτηρίαν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-14	ἐσκέψατο		VB	person=PERSON_3|number=SINGULAR|mood=INDICATIVE	
-15	οὕτως		ADV	_	
-16	ὑμᾶς		PRON	person=PERSON_2|number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-17	ἀμελήσαντας		VB	number=PLURAL|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
-18	τούτου		PRON	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-19	τῇ			number=SINGULAR|gender=FEMININE|case=DATIVE	
-20	πόλει		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-21	τὰ			number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-22	βέλτιστα		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-23	ψηφίσασθαι		VB	mood=INFINITIVE	
-24	ἄλλως		ADV	_	
-25	τε		ADV	_	
-26	καὶ		ADV	_	
-27	ὅρκους		NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-28	ὀμωμοκότας		VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
-29	καὶ		CONJ	_	
-30	περὶ		PREP	_	
-31	Ἀλκιβιάδου		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-32	μέλλοντας		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
-33	ψηφίσασθαι		VB	mood=INFINITIVE	
-34	ὃς		PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-35	ἐὰν		CONJ	_	
-36	ὑμᾶς		PRON	person=PERSON_2|number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-37	ἐξαπατήσῃ		VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-38	καταγελῶν		VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-39	τῆς			number=SINGULAR|gender=FEMININE|case=GENITIVE	
-40	πόλεως		NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-41	ἄπεισιν		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-1	οὐ		ADV	_	
-2	γὰρ		ADV	_	
-3	δὴ		ADV	_	
-4	χάριν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-5	γε		ADV	_	
-6	ὑμῖν		PRON	person=PERSON_2|number=PLURAL|gender=MASCULINE|case=DATIVE	
-7	ἀποδώσει		VB	person=PERSON_3|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-8	τῇ			number=SINGULAR|gender=FEMININE|case=DATIVE	
-9	ψήφῳ		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-10	κρύβδην		ADV	_	
-11	εὖ		ADV	_	
-12	παθών		VB	number=SINGULAR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-13	ὃς		PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-14	τῶν			number=PLURAL|gender=MASCULINE|case=GENITIVE	
-15	φίλων		ADJ	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-16	τοὺς			number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-17	φανερῶς		ADV	_	
-18	αὐτὸν		PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-19	εὖ		ADV	_	
-20	ποιήσαντας		VB	number=PLURAL|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
-21	κακῶς		ADV	_	
-22	ποιεῖ		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-1	ὑμεῖς		PRON	person=PERSON_2|number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-2	οὖν		ADV	_	
-3	ὦ			_	
-4	ἄνδρες		NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
-5	δικασταί		NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
-6	τὰς			number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-7	τούτων		PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-8	δεήσεις		NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-9	περὶ		PREP	_	
-10	ἐλάττονος		ADJ	number=SINGULAR|gender=NEUTER|case=GENITIVE|degree=COMPARATIVE	
-11	ποιησάμενοι		VB	number=PLURAL|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
-12	τὰ			number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-13	δίκαια		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-14	ψηφίσασθε		VB	person=PERSON_2|number=PLURAL|mood=IMPERATIVE	
-1	ἀποδέδεικται		VB	person=PERSON_3|number=SINGULAR|tense=PERF|mood=INDICATIVE	
-2	δὲ		ADV	_	
-3	καταλεγεὶς		VB	number=SINGULAR|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
-4	εἰς		PREP	_	
-5	τοὺς			number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-6	ὁπλίτας		NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-7	καὶ		ADV	_	
-8	λιπὼν		VB	number=SINGULAR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-9	τὴν			number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-10	τάξιν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-11	καὶ		CONJ	_	
-12	τῶν			number=PLURAL|gender=MASCULINE|case=GENITIVE	
-13	νόμων		NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-14	κωλυόντων		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=GENITIVE	
-15	ἀδοκίμαστος		ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-16	ἱππεύσας		VB	number=SINGULAR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-17	καὶ		CONJ	_	
-18	περὶ		PREP	_	
-19	ὧν		PRON	number=PLURAL|gender=NEUTER|case=GENITIVE	
-20	οἱ			number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-21	νόμοι		NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-22	διαρρήδην		ADV	_	
-23	οὔτε		ADV	_	
-24	στρατηγὸν		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-25	οὔτε		ADV	_	
-26	ἵππαρχον		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-27	οὔτε		CONJ	_	
-28	ἄλλον		PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-29	οὐδένα		PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-30	κυριώτερον		ADJ	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE|degree=COMPARATIVE	
-31	ἐκείνων		PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-32	ἀποδεικνύουσι		VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-33	περὶ		PREP	_	
-34	τούτων		PRON	number=PLURAL|gender=NEUTER|case=GENITIVE	
-35	ἰδιώτης		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-36	ὢν		VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-37	τὴν			number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-38	ἐξουσίαν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-39	αὑτῷ		PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-40	δεδωκώς		VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-1	ἐγὼ		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-2	μὲν		ADV	_	
-3	οὖν		ADV	_	
-4	καὶ		ADV	_	
-5	φίλῳ		ADJ	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-6	ὄντι		VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=DATIVE	
-7	Ἀρχεστρατίδῃ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-8	βοηθῶν		VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-9	καὶ		CONJ	_	
-10	Ἀλκιβιάδην		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-11	ἐχθρὸν		ADJ	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-12	ὄντα		VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
-13	ἐμαυτοῦ		PRON	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-14	τιμωρούμενος		VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
-15	δέομαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-16	τὰ			number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-17	δίκαια		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-18	ψηφίσασθαι		VB	mood=INFINITIVE	
-1	ὑμᾶς		PRON	person=PERSON_2|number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-2	δὲ		ADV	_	
-3	χρὴ		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-4	τὴν			number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-5	αὐτὴν		PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-6	γνώμην		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-7	ἔχοντας		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
-8	τὴν			number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-9	ψῆφον		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-10	φέρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-11	ἥνπερ		PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-12	ὅτε		CONJ	_	
-13	ᾤεσθε		VB	person=PERSON_2|number=PLURAL|tense=IMP|mood=INDICATIVE	
-14	πρὸς		PREP	_	
-15	τοὺς			number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-16	πολεμίους		ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-17	διακινδυνεύσειν		VB	tense=FUTURE|mood=INFINITIVE|voice=ACTIVE	
+1	ἐγὼ	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+2	μέν	μέν	ADV	_	
+3	ὦ	ὦ		_	
+4	ἄνδρες	ἀνήρ	NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
+5	δικασταί	δικαστής	NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
+6	καὶ	καί	ADV	_	
+7	ὑμᾶς	σύ	PRON	person=PERSON_2|number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+8	αἰτοῦμαι	αἰτέω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+9	τὰ	ὁ		number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+10	δίκαια	δίκαιος	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+11	ψηφίσασθαι	ψηφίζω	VB	mood=INFINITIVE	
+12	καὶ	καί	CONJ	_	
+13	τῶν	ὁ		number=PLURAL|gender=MASCULINE|case=GENITIVE	
+14	στρατηγῶν	στρατηγός	NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+15	δέομαι	δέομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+16	ἐπεὶ	ἐπεί	CONJ	_	
+17	καὶ	καί	ADV	_	
+18	ἐν	ἐν	PREP	_	
+19	τῇ	ὁ		number=SINGULAR|gender=FEMININE|case=DATIVE	
+20	ἄλλῃ	ἄλλος	PRON	number=SINGULAR|gender=FEMININE|case=DATIVE	
+21	ἀρχῇ	ἀρχή	NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
+22	πολλοῦ	πολύς	ADJ	number=SINGULAR|gender=NEUTER|case=GENITIVE	
+23	ἄξιοι	ἄξιος	ADJ	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+24	τῇ	ὁ		number=SINGULAR|gender=FEMININE|case=DATIVE	
+25	πόλει	πόλις	NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
+26	γεγόνασι	γίγνομαι	VB	person=PERSON_3|number=PLURAL|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+27	καὶ	καί	ADV	_	
+28	τῶν	ὁ		number=PLURAL|gender=FEMININE|case=GENITIVE	
+29	τῆς	ὁ		number=SINGULAR|gender=FEMININE|case=GENITIVE	
+30	ἀστρατείας	ἀστρατεία	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+31	γραφῶν	γραφή	NN	number=PLURAL|gender=FEMININE|case=GENITIVE	
+32	κοινοὺς	κοινός	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+33	εἶναι	εἰμί	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+34	τῷ	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+35	τε	τε	ADV	_	
+36	διώκοντι	διώκω	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=DATIVE	
+37	καὶ	καί	CONJ	_	
+38	τῷ	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+39	φεύγοντι	φεύγω	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=DATIVE	
+40	καὶ	καί	CONJ	_	
+41	μὴ	μή	ADV	_	
+42	βοηθοῦντας	βοηθέω	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
+43	ᾧ	ὅς	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+44	ἂν	ἄν	ADV	_	
+45	βούλωνται	βούλομαι	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=SUBJUNCTIVE	
+46	πᾶσαν	πᾶς	ADJ	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+47	προθυμίαν	προθυμία	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+48	ἔχειν	ἔχω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+49	παρὰ	παρά	PREP	_	
+50	τὸ	ὁ		number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+51	δίκαιον	δίκαιος	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+52	ὑμᾶς	σύ	PRON	person=PERSON_2|number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+53	ψηφίσασθαι	ψηφίζω	VB	mood=INFINITIVE	
+54	ἐνθυμουμένους	ἐνθυμέομαι	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=ACCUSATIVE	
+55	ὅτι	ὅτι	CONJ	_	
+56	σφόδῤ	σφοδρός	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+57	ἂν	ἄν	ADV	_	
+58	ἠγανακτεῖτε	ἀγανακτέω	VB	person=PERSON_2|number=PLURAL|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
+59	εἰ	εἰ	CONJ	_	
+60	ἐν	ἐν	PREP	_	
+61	τῇ	ὁ		number=SINGULAR|gender=FEMININE|case=DATIVE	
+62	ὑμετέρᾳ	ὑμέτερος	ADJ	number=SINGULAR|gender=FEMININE|case=DATIVE	
+63	δοκιμασίᾳ	δοκιμασία	NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
+64	οἱ	ὁ		number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+65	θεσμοθέται	θεσμοθέτης	NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+66	ἀναβάντες	ἀναβαίνω	VB	number=PLURAL|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+67	ὑμῶν	σύ	PRON	person=PERSON_2|number=PLURAL|gender=MASCULINE|case=GENITIVE	
+68	ἐδέοντο	δέομαι	VB	person=PERSON_3|number=PLURAL|tense=IMP|mood=INDICATIVE	
+69	καταψηφίσασθαι	καταψηφίζομαι	VB	mood=INFINITIVE	
+70	ἡγούμενοι	ἡγέομαι	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
+71	δεινὸν	δεινός	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+72	εἶναι	εἰμί	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+73	εἰ	εἰ	CONJ	_	
+74	οἱ	ὁ		number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+75	τιθέντες	τίθημι	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+76	τὸν	ὁ		number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+77	ἀγῶνα	ἀγών	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+78	καὶ	καί	CONJ	_	
+79	τὴν	ὁ		number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+80	ψῆφον	ψῆφος	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+81	διδόντες	δίδωμι	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+82	παρακελεύσονται	παρακελεύομαι	VB	person=PERSON_3|number=PLURAL|tense=FUTURE|mood=INDICATIVE	
+83	τῶν	ὁ		number=PLURAL|gender=MASCULINE|case=GENITIVE	
+84	μὲν	μέν	ADV	_	
+85	μὴ	μή	ADV	_	
+86	καταψηφίζεσθαι	καταψηφίζομαι	VB	tense=PR|mood=INFINITIVE	
+87	τῶν	ὁ		number=PLURAL|gender=MASCULINE|case=GENITIVE	
+88	δὲ	δέ	CONJ	_	
+89	καταψηφίζεσθαι	καταψηφίζομαι	VB	tense=PR|mood=INFINITIVE	
+1	τί	τις	PRON	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+2	δ̓	δέ	ADV	_	
+3	ἂν	ἄν	ADV	_	
+4	αἴσχιον	αἰσχρός	ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE|degree=COMPARATIVE	
+5	ἔθος	ἔθος	NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+6	ἢ	ἤ	CONJ	_	
+7	δεινότερον	δεινός	ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE|degree=COMPARATIVE	
+8	πρᾶγμα	πρᾶγμα	NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+9	τούτου	οὗτος	PRON	number=SINGULAR|gender=NEUTER|case=GENITIVE	
+10	ἐν	ἐν	PREP	_	
+11	τῇ	ὁ		number=SINGULAR|gender=FEMININE|case=DATIVE	
+12	πόλει	πόλις	NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
+13	γένοιτο	γίγνομαι	VB	person=PERSON_3|number=SINGULAR	
+14	εἰ	εἰ	CONJ	_	
+15	τολμήσει	τολμάω	VB	person=PERSON_3|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+16	ὁ	ὁ		number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+17	μὲν	μέν	ADV	_	
+18	ἄρχων	ἄρχων	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+19	ἐν	ἐν	PREP	_	
+20	ταῖς	ὁ		number=PLURAL|gender=FEMININE|case=DATIVE	
+21	τῶν	ὁ		number=PLURAL|gender=FEMININE|case=GENITIVE	
+22	ἐπικλήρων	ἐπίκληρος	NN	number=PLURAL|gender=FEMININE|case=GENITIVE	
+23	δίκαις	δίκη	NN	number=PLURAL|gender=FEMININE|case=DATIVE	
+24	ἀντιβολεῖν	ἀντιβολέω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+25	καὶ	καί	CONJ	_	
+26	ἱκετεύειν	ἱκετεύω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+27	τοὺς	ὁ		number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+28	δικαστὰς	δικαστής	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+29	ὅ	ὅς	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+30	τι	τις	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+31	ἂν	ἄν	ADV	_	
+32	βούληται	βούλομαι	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE	
+33	πραχθῆναι	πράσσω	VB	mood=INFINITIVE|voice=PASSIVE	
+34	ὁ	ὁ		number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+35	δὲ	δέ	CONJ	_	
+36	πολέμαρχος	πολέμαρχος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+37	καὶ	καί	CONJ	_	
+38	οἱ	ὁ		number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+39	ἕνδεκα	ἕνδεκα	ADJ	_	
+40	δεήσονται	δέω	VB	person=PERSON_3|number=PLURAL|tense=FUTURE|mood=INDICATIVE	
+41	ἐν	ἐν	PREP	_	
+42	ταῖς	ὁ		number=PLURAL|gender=FEMININE|case=DATIVE	
+43	δίκαις	δίκη	NN	number=PLURAL|gender=FEMININE|case=DATIVE	
+44	ταῖς	ὁ		number=PLURAL|gender=FEMININE|case=DATIVE	
+45	ὑφ̓	ὑπό	PREP	_	
+46	ἑαυτῶν	ἑαυτοῦ	PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+47	εἰσαγομέναις	εἰσάγω	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|gender=FEMININE|case=DATIVE	
+48	ὥσπερ	ὥσπερ	CONJ	_	
+49	καὶ	καί	ADV	_	
+50	νῦν	νῦν	ADV	_	
+1	χρὴ	χρή	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+2	τοίνυν	τοίνυν	ADV	_	
+3	καὶ	καί	ADV	_	
+4	ὑπὲρ	ὑπέρ	PREP	_	
+5	ὑμῶν	σύ	PRON	person=PERSON_2|number=PLURAL|gender=MASCULINE|case=GENITIVE	
+6	αὐτῶν	αὐτός	PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+7	τὴν	ὁ		number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+8	γνώμην	γνώμη	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+9	ἔχειν	ἔχω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+10	ἐνθυμουμένους	ἐνθυμέομαι	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=ACCUSATIVE	
+11	ὅτι	ὅτι	CONJ	_	
+12	οὐδὲν	οὐδείς	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+13	διοίσει	διαφέρω	VB	person=PERSON_3|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+14	ὑμᾶς	σύ	PRON	person=PERSON_2|number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+15	ἰδίᾳ	ἴδιος	ADJ	number=SINGULAR|gender=FEMININE|case=DATIVE	
+16	περὶ	περί	PREP	_	
+17	τῆς	ὁ		number=SINGULAR|gender=FEMININE|case=GENITIVE	
+18	ἀστρατείας	ἀστρατεία	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+19	βοηθεῖν	βοηθέω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+20	ἢ	ἤ	CONJ	_	
+21	τούτων	οὗτος	PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+22	τινὰς	τις	PRON	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+23	δεῖσθαι	δέομαι	VB	tense=PR|mood=INFINITIVE	
+24	αὐτοὺς	αὐτός	PRON	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+25	τὴν	ὁ		number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+26	ψῆφον	ψῆφος	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+27	διδόντας	δίδωμι	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
+1	σκέψασθε	σκέπτομαι	VB	person=PERSON_2|number=PLURAL|mood=IMPERATIVE	
+2	δέ	δέ	ADV	_	
+3	ὦ	ὦ		_	
+4	ἄνδρες	ἀνήρ	NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
+5	δικασταί	δικαστής	NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
+6	ἐὰν	ἐάν	CONJ	_	
+7	ἱκανὸν	ἱκανός	ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+8	γένηται	γίγνομαι	VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE	
+9	τεκμήριον	τεκμήριον	NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+10	ὅτι	ὅτι	CONJ	_	
+11	οὐδείς	οὐδείς	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+12	πω	πω	ADV	_	
+13	τῶν	ὁ		number=PLURAL|gender=MASCULINE|case=GENITIVE	
+14	ἀρχόντων	ἄρχων	NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+15	ἐν	ἐν	PREP	_	
+16	τῷ	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+17	στρατοπέδῳ	στρατόπεδον	NN	number=SINGULAR|gender=NEUTER|case=DATIVE	
+18	Ἀλκιβιάδῃ	Ἀλκιβιάδης	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+19	ἦν	εἰμί	VB	person=PERSON_3|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
+20	παρεσκευασμένος	παρασκευάζω	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
+1	ἐχρῆν	χρή	VB	person=PERSON_3|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
+2	γὰρ	γάρ	ADV	_	
+3	αὐτούς	αὐτός	PRON	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+4	εἴπερ	εἴπερ	CONJ	_	
+5	ἀληθῆ	ἀληθής	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+6	λέγουσιν	λέγω	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+7	ἀνακαλεῖν	ἀνακαλέω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+8	μὲν	μέν	ADV	_	
+9	Πάμφιλον	Πάμφιλος	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+10	ὅτι	ὅτι	CONJ	_	
+11	ἀφαιρῶν	ἀφαιρέω	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+12	τὸν	ὁ		number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+13	ἵππον	ἵππος	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+14	ἱππέως	ἱππεύς	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+15	ἀπεστέρει	ἀποστερέω	VB	person=PERSON_3|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
+16	τὴν	ὁ		number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+17	πόλιν	πόλις	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+18	ἐπιβάλλειν	ἐπιβάλλω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+19	δὲ	δέ	ADV	_	
+20	τῷ	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+21	φυλάρχῳ	φύλαρχος	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+22	ὅτι	ὅτι	CONJ	_	
+23	ἐξελαύνων	ἐξελαύνω	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+24	Ἀλκιβιάδην	Ἀλκιβιάδης	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+25	ἐκ	ἐκ	PREP	_	
+26	τῆς	ὁ		number=SINGULAR|gender=FEMININE|case=GENITIVE	
+27	φυλῆς	φυλή	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+28	ἄκυρον	ἄκυρος	ADJ	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+29	ἐποίει	ποιέω	VB	person=PERSON_3|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
+30	τὴν	ὁ		number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+31	τούτων	οὗτος	PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+32	τάξιν	τάξις	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+33	κελεύειν	κελεύω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+34	δὲ	δέ	CONJ	_	
+35	τὸν	ὁ		number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+36	ταξίαρχον	ταξίαρχος	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+37	ἐξαλείφειν	ἐξαλείφω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+38	αὐτὸν	αὐτός	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+39	ἐκ	ἐκ	PREP	_	
+40	τοῦ	ὁ		number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+41	τῶν	ὁ		number=PLURAL|gender=MASCULINE|case=GENITIVE	
+42	ὁπλιτῶν	ὁπλίτης	NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+43	καταλόγου	κατάλογος	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+1	νῦν	νῦν	ADV	_	
+2	δὲ	δέ	ADV	_	
+3	τούτων	οὗτος	PRON	number=PLURAL|gender=NEUTER|case=GENITIVE	
+4	οὐδὲν	οὐδείς	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+5	ἐποίησαν	ποιέω	VB	person=PERSON_3|number=PLURAL|mood=INDICATIVE|voice=ACTIVE	
+6	ἀλλ̓	ἀλλά	CONJ	_	
+7	ἐν	ἐν	PREP	_	
+8	μὲν	μέν	ADV	_	
+9	τῷ	ὁ		number=SINGULAR|gender=NEUTER|case=DATIVE	
+10	στρατοπέδῳ	στρατόπεδον	NN	number=SINGULAR|gender=NEUTER|case=DATIVE	
+11	περιεώρων	περιοράω	VB	person=PERSON_3|number=PLURAL|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
+12	αὐτὸν	αὐτός	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+13	ὑπὸ	ὑπό	PREP	_	
+14	πάντων	πᾶς	ADJ	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+15	προπηλακιζόμενον	προπηλακίζω	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=ACCUSATIVE	
+16	κ-	καί	CONJ	_	
+17	ἀν	ἔν	PREP	_	
+18	τοῖς	ὁ		number=PLURAL|gender=MASCULINE|case=DATIVE	
+19	ἱπποτοξόταις	ἱπποτοξότης	NN	number=PLURAL|gender=MASCULINE|case=DATIVE	
+20	ἱππεύοντα	ἱππεύω	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
+21	ἐπειδὴ	ἐπεί	CONJ	_	
+22	δὲ	δέ	CONJ	_	
+23	ὑμᾶς	σύ	PRON	person=PERSON_2|number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+24	δεῖ	δέω	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+25	παρὰ	παρά	PREP	_	
+26	τῶν	ὁ		number=PLURAL|gender=MASCULINE|case=GENITIVE	
+27	ἀδικούντων	ἀδικέω	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=GENITIVE	
+28	δίκην	δίκη	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+29	λαμβάνειν	λαμβάνω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+30	χαριζόμενοι	χαρίζω	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
+31	μαρτυροῦσιν	μαρτυρέω	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+32	ὑφ̓	ὑπό	PREP	_	
+33	ἑαυτῶν	ἑαυτοῦ	PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+34	αὐτὸν	αὐτός	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+35	τετάχθαι	τάσσω	VB	tense=PERF|mood=INFINITIVE	
+1	καίτοι	καίτοι	ADV	_	
+2	δεινόν	δεινός	ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+3	ὦ	ὦ		_	
+4	ἄνδρες	ἀνήρ	NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
+5	δικασταί	δικαστής	NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
+6	αὐτοὺς	αὐτός	PRON	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+7	μὲν	μέν	ADV	_	
+8	τοὺς	ὁ		number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+9	στρατηγοὺς	στρατηγός	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+10	ὑπὸ	ὑπό	PREP	_	
+11	τοῦ	ὁ		number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+12	δήμου	δῆμος	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+13	χειροτονηθέντας	χειροτονέω	VB	number=PLURAL|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=ACCUSATIVE	
+14	μὴ	μή	ADV	_	
+15	ἂν	ἄν	ADV	_	
+16	τολμῆσαι	τολμάω	VB	mood=INFINITIVE|voice=ACTIVE	
+17	πρότερον	πρότερος	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+18	ἡμῶν	ἐγώ	PRON	person=PERSON_1|number=PLURAL|gender=MASCULINE|case=GENITIVE	
+19	ἡγήσασθαι	ἡγέομαι	VB	mood=INFINITIVE	
+20	ἕως	ἕως	CONJ	_	
+21	ἂν	ἄν	ADV	_	
+22	ἐδοκιμάσθησαν	δοκιμάζω	VB	person=PERSON_3|number=PLURAL|mood=INDICATIVE|voice=PASSIVE	
+23	κατὰ	κατά	PREP	_	
+24	τοὺς	ὁ		number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+25	νόμους	νόμος	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+26	Ἀλκιβιάδην	Ἀλκιβιάδης	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+27	δὲ	δέ	CONJ	_	
+28	τολμᾶν	τολμάω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+29	παρὰ	παρά	PREP	_	
+30	τοὺς	ὁ		number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+31	τῆς	ὁ		number=SINGULAR|gender=FEMININE|case=GENITIVE	
+32	πόλεως	πόλις	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+33	νόμους	νόμος	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+34	ὑπ̓	ὑπό	PREP	_	
+35	αὐτῶν	αὐτός	PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+36	ταχθῆναι	τάσσω	VB	mood=INFINITIVE|voice=PASSIVE	
+37	ἦν	εἰμί	VB	person=PERSON_3|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
+1	δεινὸν	δεινός	ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+2	δέ	δέ	ADV	_	
+3	μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+4	δοκεῖ	δοκέω	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+5	εἶναι	εἰμί	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+6	ὦ	ὦ		_	
+7	ἄνδρες	ἀνήρ	NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
+8	δικασταί	δικαστής	NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
+9	εἰ	εἰ	CONJ	_	
+10	τῶν	ὁ		number=PLURAL|gender=MASCULINE|case=GENITIVE	
+11	μὲν	μέν	ADV	_	
+12	δεδοκιμασμένων	δοκιμάζω	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|gender=MASCULINE|case=GENITIVE	
+13	ἱππέων	ἱππεύς	NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+14	οὐκ	οὐ	ADV	_	
+15	ἐπὶ	ἐπί	PREP	_	
+16	τούτοις	οὗτος	PRON	number=PLURAL|gender=MASCULINE|case=DATIVE	
+17	ἐστὶν	εἰμί	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+18	ὅντινα	ὅστις	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+19	βούλονται	βούλομαι	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE	
+20	αὐτοὶ	αὐτός	PRON	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+21	εἰς	εἰς	PREP	_	
+22	τοὺς	ὁ		number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+23	ὁπλίτας	ὁπλίτης	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+24	καταλέξαι	καταλέγω	VB	mood=INFINITIVE|voice=ACTIVE	
+25	τῶν	ὁ		number=PLURAL|gender=MASCULINE|case=GENITIVE	
+26	δὲ	δέ	CONJ	_	
+27	ὁπλιτῶν	ὁπλίτης	NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+28	ἀδοκιμάστων	ἀδοκίμαστος	ADJ	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+29	ὄντων	εἰμί	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=GENITIVE	
+30	ἐπὶ	ἐπί	PREP	_	
+31	τούτοις	οὗτος	PRON	number=PLURAL|gender=MASCULINE|case=DATIVE	
+32	ἔσται	εἰμί	VB	person=PERSON_3|number=SINGULAR|tense=FUTURE|mood=INDICATIVE	
+33	ὅντιν̓	ὅστις	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+34	ἂν	ἄν	ADV	_	
+35	βούλωνται	βούλομαι	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=SUBJUNCTIVE	
+36	ἱππεύειν	ἱππεύω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+1	εἰ	εἰ	CONJ	_	
+2	μὲν	μέν	ADV	_	
+3	τοίνυν	τοίνυν	ADV	_	
+4	ὦ	ὦ		_	
+5	ἄνδρες	ἀνήρ	NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
+6	δικασταί	δικαστής	NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
+7	ὄντες	εἰμί	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+8	κύριοι	κύριος	NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+9	πολλῶν	πολύς	ADJ	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+10	βουλομένων	βούλομαι	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=GENITIVE	
+11	μηδένα	μηδείς	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+12	τῶν	ὁ		number=PLURAL|gender=MASCULINE|case=GENITIVE	
+13	ἄλλων	ἄλλος	PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+14	ἱππεύειν	ἱππεύω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+15	εἴασαν	ἐάω	VB	person=PERSON_3|number=PLURAL|mood=INDICATIVE|voice=ACTIVE	
+16	οὐκ	οὐ	ADV	_	
+17	ἂν	ἄν	ADV	_	
+18	δικαίως	δίκαιος	ADV	degree=COMPARATIVE	
+19	χαρίζοισθε	χαρίζω	VB	person=PERSON_2|number=PLURAL|tense=PR	
+20	αὐτοῖς	αὐτός	PRON	number=PLURAL|gender=MASCULINE|case=DATIVE	
+1	εἰ	εἰ	CONJ	_	
+2	δ̓	δέ	ADV	_	
+3	ἄκυροι	ἄκυρος	ADJ	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+4	ὄντες	εἰμί	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+5	ὁμολογήσουσι	ὁμολογέω	VB	person=PERSON_3|number=PLURAL|mood=SUBJUNCTIVE|voice=ACTIVE	
+6	τάξαι	τάσσω	VB	mood=INFINITIVE|voice=ACTIVE	
+7	ἐνθυμεῖσθαι	ἐνθυμέομαι	VB	tense=PR|mood=INFINITIVE	
+8	χρὴ	χρή	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+9	ὅτι	ὅτι	CONJ	_	
+10	ὀμωμόκατε	ὄμνυμι	VB	person=PERSON_2|number=PLURAL|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+11	τὰ	ὁ		number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+12	δίκαια	δίκαιος	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+13	γνώσεσθαι	γιγνώσκω	VB	tense=FUTURE|mood=INFINITIVE	
+14	ἀλλ̓	ἀλλά	CONJ	_	
+15	οὐχ	οὐ	ADV	_	
+16	ὅ	ὅς	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+17	τι	τις	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+18	ἂν	ἄν	ADV	_	
+19	οὗτοι	οὗτος	PRON	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+20	κελεύωσι	κελεύω	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
+21	ψηφιεῖσθαι	ψηφίζω	VB	tense=FUTURE|mood=INFINITIVE	
+22	ὥστε	ὥστε	CONJ	_	
+23	οὐδένα	οὐδείς	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+24	χρὴ	χρή	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+25	τῶν	ὁ		number=PLURAL|gender=MASCULINE|case=GENITIVE	
+26	δεομένων	δέω	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=GENITIVE	
+27	περὶ	περί	PREP	_	
+28	πλείονος	πλείων	ADJ	number=SINGULAR|gender=NEUTER|case=GENITIVE|degree=COMPARATIVE	
+29	ὑμῶν	σύ	PRON	person=PERSON_2|number=PLURAL|gender=MASCULINE|case=GENITIVE	
+30	αὐτῶν	αὐτός	PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+31	καὶ	καί	CONJ	_	
+32	τῶν	ὁ		number=PLURAL|gender=MASCULINE|case=GENITIVE	
+33	ὅρκων	ὅρκος	NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+34	ποιεῖσθαι	ποιέω	VB	tense=PR|mood=INFINITIVE	
+1	καὶ	καί	ADV	_	
+2	μὲν	μέν	ADV	_	
+3	δή	δή	ADV	_	
+4	ὦ	ὦ		_	
+5	ἄνδρες	ἀνήρ	NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
+6	δικασταί	δικαστής	NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
+7	εἴ	εἰ	CONJ	_	
+8	τῳ	τις	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+9	δοκεῖ	δοκέω	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+10	μεγάλη	μέγας	ADJ	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+11	ἡ	ὁ		number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+12	ζημία	ζημία	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+13	εἶναι	εἰμί	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+14	καὶ	καί	CONJ	_	
+15	λίαν	λίαν	ADV	_	
+16	ἰσχυρὸς	ἰσχυρός	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+17	ὁ	ὁ		number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+18	νόμος	νόμος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+19	μεμνῆσθαι	μιμνήσκω	VB	tense=PERF|mood=INFINITIVE	
+20	χρὴ	χρή	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+21	ὅτι	ὅτι	CONJ	_	
+22	οὐ	οὐ	ADV	_	
+23	νομοθετήσοντες	νομοθετέω	VB	number=PLURAL|tense=FUTURE|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+24	περὶ	περί	PREP	_	
+25	αὐτῶν	αὐτός	PRON	number=PLURAL|gender=NEUTER|case=GENITIVE	
+26	ἥκετε	ἥκω	VB	person=PERSON_2|number=PLURAL|tense=PR|mood=IMPERATIVE|voice=ACTIVE	
+27	ἀλλὰ	ἀλλά	CONJ	_	
+28	κατὰ	κατά	PREP	_	
+29	τοὺς	ὁ		number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+30	κειμένους	κεῖμαι	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=ACCUSATIVE	
+31	νόμους	νόμος	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+32	ψηφιούμενοι	ψηφίζω	VB	number=PLURAL|tense=FUTURE|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
+33	οὐδὲ	οὐδέ	CONJ	_	
+34	τοὺς	ὁ		number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+35	ἀδικοῦντας	ἀδικέω	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
+36	ἐλεήσοντες	ἐλεέω	VB	number=PLURAL|tense=FUTURE|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+37	ἀλλὰ	ἀλλά	CONJ	_	
+38	πολὺ	πολύς	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+39	μᾶλλον	μᾶλλον	ADV	_	
+40	αὐτοῖς	αὐτός	PRON	number=PLURAL|gender=MASCULINE|case=DATIVE	
+41	ὀργιούμενοι	ὀργίζω	VB	number=PLURAL|tense=FUTURE|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
+42	καὶ	καί	CONJ	_	
+43	ὅλῃ	ὅλος	ADJ	number=SINGULAR|gender=FEMININE|case=DATIVE	
+44	τῇ	ὁ		number=SINGULAR|gender=FEMININE|case=DATIVE	
+45	πόλει	πόλις	NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
+46	βοηθήσοντες	βοηθέω	VB	number=PLURAL|tense=FUTURE|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+47	εὖ	εὖ	ADV	_	
+48	εἰδότες	οἶδα	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+49	ὅτι	ὅτι	CONJ	_	
+50	ὑπὲρ	ὑπέρ	PREP	_	
+51	τῶν	ὁ		number=PLURAL|gender=NEUTER|case=GENITIVE	
+52	παρεληλυθότων	παρέρχομαι	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=ACTIVE|gender=NEUTER|case=GENITIVE	
+53	ὀλίγους	ὀλίγος	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+54	τιμωρησάμενοι	τιμωρέω	VB	number=PLURAL|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
+55	πολλοὺς	πολύς	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+56	ποιήσετε	ποιέω	VB	person=PERSON_2|number=PLURAL|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+57	κοσμιωτέρους	κόσμιος	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE|degree=COMPARATIVE	
+58	ἐν	ἐν	PREP	_	
+59	τοῖς	ὁ		number=PLURAL|gender=MASCULINE|case=DATIVE	
+60	μέλλουσι	μέλλω	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=DATIVE	
+61	κινδυνεύειν	κινδυνεύω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+62	εἶναι	εἰμί	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+63	δοκεῖ	δοκέω	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+1	χρὴ	χρή	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+2	δέ	δέ	ADV	_	
+3	ὦ	ὦ		_	
+4	ἄνδρες	ἀνήρ	NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
+5	δικασταί	δικαστής	NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
+6	ὥσπερ	ὥσπερ	CONJ	_	
+7	οὗτος	οὗτος	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+8	ἀμελήσας	ἀμελέω	VB	number=SINGULAR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+9	τῆς	ὁ		number=SINGULAR|gender=FEMININE|case=GENITIVE	
+10	πόλεως	πόλις	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+11	τὴν	ὁ		number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+12	αὑτοῦ	ἑαυτοῦ	PRON	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+13	σωτηρίαν	σωτηρία	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+14	ἐσκέψατο	σκέπτομαι	VB	person=PERSON_3|number=SINGULAR|mood=INDICATIVE	
+15	οὕτως	οὕτως	ADV	_	
+16	ὑμᾶς	σύ	PRON	person=PERSON_2|number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+17	ἀμελήσαντας	ἀμελέω	VB	number=PLURAL|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
+18	τούτου	οὗτος	PRON	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+19	τῇ	ὁ		number=SINGULAR|gender=FEMININE|case=DATIVE	
+20	πόλει	πόλις	NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
+21	τὰ	ὁ		number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+22	βέλτιστα	βέλτιστος	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+23	ψηφίσασθαι	ψηφίζω	VB	mood=INFINITIVE	
+24	ἄλλως	ἄλλως	ADV	_	
+25	τε	τε	ADV	_	
+26	καὶ	καί	ADV	_	
+27	ὅρκους	ὅρκος	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+28	ὀμωμοκότας	ὄμνυμι	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
+29	καὶ	καί	CONJ	_	
+30	περὶ	περί	PREP	_	
+31	Ἀλκιβιάδου	Ἀλκιβιάδης	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+32	μέλλοντας	μέλλω	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
+33	ψηφίσασθαι	ψηφίζω	VB	mood=INFINITIVE	
+34	ὃς	ὅς	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+35	ἐὰν	ἐάν	CONJ	_	
+36	ὑμᾶς	σύ	PRON	person=PERSON_2|number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+37	ἐξαπατήσῃ	ἐξαπατάω	VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+38	καταγελῶν	καταγελάω	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+39	τῆς	ὁ		number=SINGULAR|gender=FEMININE|case=GENITIVE	
+40	πόλεως	πόλις	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+41	ἄπεισιν	ἄπειμι	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+1	οὐ	οὐ	ADV	_	
+2	γὰρ	γάρ	ADV	_	
+3	δὴ	δή	ADV	_	
+4	χάριν	χάρις	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+5	γε	γε	ADV	_	
+6	ὑμῖν	σύ	PRON	person=PERSON_2|number=PLURAL|gender=MASCULINE|case=DATIVE	
+7	ἀποδώσει	ἀποδίδωμι	VB	person=PERSON_3|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+8	τῇ	ὁ		number=SINGULAR|gender=FEMININE|case=DATIVE	
+9	ψήφῳ	ψῆφος	NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
+10	κρύβδην	κρύβδην	ADV	_	
+11	εὖ	εὖ	ADV	_	
+12	παθών	πάσχω	VB	number=SINGULAR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+13	ὃς	ὅς	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+14	τῶν	ὁ		number=PLURAL|gender=MASCULINE|case=GENITIVE	
+15	φίλων	φίλος	ADJ	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+16	τοὺς	ὁ		number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+17	φανερῶς	φανερός	ADV	_	
+18	αὐτὸν	αὐτός	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+19	εὖ	εὖ	ADV	_	
+20	ποιήσαντας	ποιέω	VB	number=PLURAL|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
+21	κακῶς	κακός	ADV	_	
+22	ποιεῖ	ποιέω	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+1	ὑμεῖς	σύ	PRON	person=PERSON_2|number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+2	οὖν	οὖν	ADV	_	
+3	ὦ	ὦ		_	
+4	ἄνδρες	ἀνήρ	NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
+5	δικασταί	δικαστής	NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
+6	τὰς	ὁ		number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+7	τούτων	οὗτος	PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+8	δεήσεις	δέησις	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+9	περὶ	περί	PREP	_	
+10	ἐλάττονος	ἐλάσσων	ADJ	number=SINGULAR|gender=NEUTER|case=GENITIVE|degree=COMPARATIVE	
+11	ποιησάμενοι	ποιέω	VB	number=PLURAL|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
+12	τὰ	ὁ		number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+13	δίκαια	δίκαιος	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+14	ψηφίσασθε	ψηφίζομαι	VB	person=PERSON_2|number=PLURAL|mood=IMPERATIVE	
+1	ἀποδέδεικται	ἀποδείκνυμι	VB	person=PERSON_3|number=SINGULAR|tense=PERF|mood=INDICATIVE	
+2	δὲ	δέ	ADV	_	
+3	καταλεγεὶς	καταλέγω	VB	number=SINGULAR|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
+4	εἰς	εἰς	PREP	_	
+5	τοὺς	ὁ		number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+6	ὁπλίτας	ὁπλίτης	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+7	καὶ	καί	ADV	_	
+8	λιπὼν	λείπω	VB	number=SINGULAR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+9	τὴν	ὁ		number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+10	τάξιν	τάξις	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+11	καὶ	καί	CONJ	_	
+12	τῶν	ὁ		number=PLURAL|gender=MASCULINE|case=GENITIVE	
+13	νόμων	νόμος	NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+14	κωλυόντων	κωλύω	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=GENITIVE	
+15	ἀδοκίμαστος	ἀδοκίμαστος	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+16	ἱππεύσας	ἱππεύω	VB	number=SINGULAR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+17	καὶ	καί	CONJ	_	
+18	περὶ	περί	PREP	_	
+19	ὧν	ὅς	PRON	number=PLURAL|gender=NEUTER|case=GENITIVE	
+20	οἱ	ὁ		number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+21	νόμοι	νόμος	NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+22	διαρρήδην	διαρρήδην	ADV	_	
+23	οὔτε	οὐτε	ADV	_	
+24	στρατηγὸν	στρατηγός	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+25	οὔτε	οὐτε	ADV	_	
+26	ἵππαρχον	ἵππαρχος	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+27	οὔτε	οὐτε	CONJ	_	
+28	ἄλλον	ἄλλος	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+29	οὐδένα	οὐδείς	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+30	κυριώτερον	κύριος	ADJ	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE|degree=COMPARATIVE	
+31	ἐκείνων	ἐκεῖνος	PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+32	ἀποδεικνύουσι	ἀποδείκνυμι	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+33	περὶ	περί	PREP	_	
+34	τούτων	οὗτος	PRON	number=PLURAL|gender=NEUTER|case=GENITIVE	
+35	ἰδιώτης	ἰδιώτης	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+36	ὢν	εἰμί	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+37	τὴν	ὁ		number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+38	ἐξουσίαν	ἐξουσία	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+39	αὑτῷ	ἑαυτοῦ	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+40	δεδωκώς	δίδωμι	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+1	ἐγὼ	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+2	μὲν	μέν	ADV	_	
+3	οὖν	οὖν	ADV	_	
+4	καὶ	καί	ADV	_	
+5	φίλῳ	φίλος	ADJ	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+6	ὄντι	εἰμί	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=DATIVE	
+7	Ἀρχεστρατίδῃ	Ἀρχεστρατίδης	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+8	βοηθῶν	βοηθέω	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+9	καὶ	καί	CONJ	_	
+10	Ἀλκιβιάδην	Ἀλκιβιάδης	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+11	ἐχθρὸν	ἐχθρός	ADJ	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+12	ὄντα	εἰμί	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
+13	ἐμαυτοῦ	ἐμαυτοῦ	PRON	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+14	τιμωρούμενος	τιμωρέω	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
+15	δέομαι	δέω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+16	τὰ	ὁ		number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+17	δίκαια	δίκαιος	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+18	ψηφίσασθαι	ψηφίζω	VB	mood=INFINITIVE	
+1	ὑμᾶς	σύ	PRON	person=PERSON_2|number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+2	δὲ	δέ	ADV	_	
+3	χρὴ	χρή	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+4	τὴν	ὁ		number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+5	αὐτὴν	αὐτός	PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+6	γνώμην	γνώμη	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+7	ἔχοντας	ἔχω	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
+8	τὴν	ὁ		number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+9	ψῆφον	ψῆφος	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+10	φέρειν	φέρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+11	ἥνπερ	ὅς	PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+12	ὅτε	ὅτε	CONJ	_	
+13	ᾤεσθε	οἴομαι	VB	person=PERSON_2|number=PLURAL|tense=IMP|mood=INDICATIVE	
+14	πρὸς	πρός	PREP	_	
+15	τοὺς	ὁ		number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+16	πολεμίους	πολέμιος	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+17	διακινδυνεύσειν	διακινδυνεύω	VB	tense=FUTURE|mood=INFINITIVE|voice=ACTIVE	

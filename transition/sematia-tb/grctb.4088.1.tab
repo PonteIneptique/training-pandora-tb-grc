@@ -1,42 +1,42 @@
 1	G			_	
 2	SUρμῆτι			_	
-3	τῷ			number=SINGULAR|gender=MASCULINE|case=DATIVE	
+3	τῷ	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
 4	SUφῷ			_	
-5	χαίριν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+5	χαίριν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
 1	SU			_	
-2	ἠγόρασες		VB	person=PERSON_2|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-3	τὰ			number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-4	ὀψάρια		NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-5	πέμψον		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-6	μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-1	εἰ		CONJ	_	
-2	μή		CONJ	_	
-3	τὸν			number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+2	ἠγόρασες	ἀγοράζω	VB	person=PERSON_2|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+3	τὰ	ὁ		number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+4	ὀψάρια	ὀψάριον	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+5	πέμψον	πέμπω	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+6	μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+1	εἰ	εἰ	CONJ	_	
+2	μή	μή	CONJ	_	
+3	τὸν	ὁ		number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
 4	χαλSUόν			_	
-5	μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-6	πέμψον		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-7	ἠγόρασες		VB	person=PERSON_2|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-1	εἰ		CONJ	_	
-2	κὲ		CONJ	_	
-3	ἀπὸ		PREP	_	
-4	θαλάσσης		NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-5	οὐκ		ADV	_	
-6	ἐνήνοχις		VB	person=PERSON_2|number=SINGULAR|tense=PERF|voice=ACTIVE	
-7	μέγα		ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
-8	πρᾶγμα		NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
-9	ἦν		VB	person=PERSON_3|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
-10	εἰ		CONJ	_	
-11	ἠγόραζες		VB	person=PERSON_2|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
-12	μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-13	ἀπὸ		PREP	_	
-14	Κλαυδιανοῦ		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-15	καὶ		CONJ	_	
-16	πέμψε		VB	number=SINGULAR|voice=ACTIVE	
-17	τοῦ			number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-18	ἐμοῦ		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-19	χαλκοῦ		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+5	μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+6	πέμψον	πέμπω	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+7	ἠγόρασες	ἀγοράζω	VB	person=PERSON_2|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+1	εἰ	εἰ	CONJ	_	
+2	κὲ	καὶ	CONJ	_	
+3	ἀπὸ	ἀπό	PREP	_	
+4	θαλάσσης	θάλασσα	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+5	οὐκ	οὐ	ADV	_	
+6	ἐνήνοχις	φέρω	VB	person=PERSON_2|number=SINGULAR|tense=PERF|voice=ACTIVE	
+7	μέγα	μέγας	ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+8	πρᾶγμα	πρᾶγμα	NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+9	ἦν	εἰμί	VB	person=PERSON_3|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
+10	εἰ	εἰ	CONJ	_	
+11	ἠγόραζες	ἀγοράζω	VB	person=PERSON_2|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
+12	μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+13	ἀπὸ	ἀπό	PREP	_	
+14	Κλαυδιανοῦ	Κλαυδιανός	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+15	καὶ	καί	CONJ	_	
+16	πέμψε	πέμπω	VB	number=SINGULAR|voice=ACTIVE	
+17	τοῦ	ὁ		number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+18	ἐμοῦ	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+19	χαλκοῦ	χαλκοῦς	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
 1	SUάζου			_	
-2	Βησοῦν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-3	καὶ		CONJ	_	
+2	Βησοῦν	Βησοῦς	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+3	καὶ	καί	CONJ	_	
 4	G			_	
 5	ἐρως			_	

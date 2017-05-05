@@ -1,19 +1,19 @@
-1	ΕὐτύχA		NN	number=SINGULAR|gender=MASCULINE	
-2	Λωγγεῖνος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-3	χαA		VB	_	
-1	οὐκ		ADV	_	
-2	ἔλαβον		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-3	παρʼ		PREP	_	
-4	Ἐπαγαθίωνος		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-5	τὰς			number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-6	A		NN	gender=FEMININE	
-7	κ		NRL	number=PLURAL	
-1	λοιπόν		ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-2	ἠ		CONJ	_	
-3	ἐν		PREP	_	
-4	σοί		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-5	εἰσιν		VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-6	ἐπιστολίδιόν		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-7	μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-8	γράψεις		VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-1	ἔρρωσο		VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE	
+1	ΕὐτύχA	Εὔτυχος	NN	number=SINGULAR|gender=MASCULINE	
+2	Λωγγεῖνος	Λογγεῖνος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+3	χαA	χαίρω	VB	_	
+1	οὐκ	οὐ	ADV	_	
+2	ἔλαβον	λαμβάνω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+3	παρʼ	παρά	PREP	_	
+4	Ἐπαγαθίωνος	Ἐπαγαθίων	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+5	τὰς	ὁ		number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+6	A	δραχμή	NN	gender=FEMININE	
+7	κ	20	NRL	number=PLURAL	
+1	λοιπόν	λοιπός	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+2	ἠ	εἰ	CONJ	_	
+3	ἐν	ἐν	PREP	_	
+4	σοί	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+5	εἰσιν	εἰμί	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+6	ἐπιστολίδιόν	ἐπιστολίδιον	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+7	μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+8	γράψεις	γράφω	VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+1	ἔρρωσο	ῥώννυμι	VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE	

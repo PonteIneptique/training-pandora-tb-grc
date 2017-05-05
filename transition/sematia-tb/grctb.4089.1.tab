@@ -1,30 +1,30 @@
-1	Ἀντάμμων		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-2	Ποσειτᾶτι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-3	τῶι			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-4	ἀδελφῶι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-5	χαίρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-1	ὡς		CONJ	_	
-2	ἐὰν		CONJ	_	
-3	θέλῃς		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
-4	ἄδελφε		NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-5	σπουδαίως		ADJ	_	
-6	ἰχθύδια		NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-7	νηρά		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-8	ὅσα		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-9	ἐὰν		CONJ	_	
-10	δύννῃ		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE	
-11	ποίησον		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-12	ἐνεχθῆναι		VB	mood=INFINITIVE|voice=PASSIVE	
-13	κ-		CONJ	_	
-14	ἂν		CONJ	_	
-15	ἓν		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-16	ἢ		CONJ	_	
-17	δύο		NRL	_	
-18	ἐπεὶ		CONJ	_	
-19	ἀναγκαῖόν		NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
-20	ἐστι		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-1	ἐρρῶσθαί		VB	tense=PERF|mood=INFINITIVE	
-2	σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
-3	εὔχομαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-4	ἄδελφε		NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-5	εὐτυχῶς		ADJ	_	
+1	Ἀντάμμων	Ἀντάμμων	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+2	Ποσειτᾶτι	Ποσειδᾶς	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+3	τῶι	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+4	ἀδελφῶι	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+5	χαίρειν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+1	ὡς	ὡς	CONJ	_	
+2	ἐὰν	ἐάν	CONJ	_	
+3	θέλῃς	ἐθέλω	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
+4	ἄδελφε	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+5	σπουδαίως	σπουδαῖος	ADJ	_	
+6	ἰχθύδια	ἰχθύδιον	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+7	νηρά	νηρός	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+8	ὅσα	ὅσος	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+9	ἐὰν	ἐάν	CONJ	_	
+10	δύννῃ	δύναμαι	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE	
+11	ποίησον	ποιέω	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+12	ἐνεχθῆναι	φέρω	VB	mood=INFINITIVE|voice=PASSIVE	
+13	κ-	καί	CONJ	_	
+14	ἂν	ἄν2	CONJ	_	
+15	ἓν	εἷς	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+16	ἢ	ἤ1	CONJ	_	
+17	δύο	δύο	NRL	_	
+18	ἐπεὶ	ἐπεί	CONJ	_	
+19	ἀναγκαῖόν	ἀναγκαῖον	NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+20	ἐστι	εἰμί	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+1	ἐρρῶσθαί	ῥώννυμι	VB	tense=PERF|mood=INFINITIVE	
+2	σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+3	εὔχομαι	εὔχομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+4	ἄδελφε	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+5	εὐτυχῶς	εὐτυχής	ADJ	_	

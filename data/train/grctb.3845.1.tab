@@ -1,56 +1,59 @@
 ἀσπSU			_	
-πάντες		ADJ	number=PLURAL|gender=MASCULINE|degree=POSITIVE	
-κατʼ		PREP	_	
-ὄνομα		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-καὶ		CONJ	_	
+πάντες	πᾶς	ADJ	number=PLURAL|gender=MASCULINE|degree=POSITIVE	
+κατʼ	κατά	PREP	_	
+ὄνομα	ὄνομα	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+καὶ	καί	CONJ	_	
 ὩρG			_	
-κSUψω	SU	VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-ὑμεῖν		PRON	number=PLURAL|case=DATIVE	
-αὐτὴν		PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-αὔριον		ADV	_	
+κSUψω	κSUψω	VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+ὑμεῖν	σύ	PRON	number=PLURAL|case=DATIVE	
+αὐτὴν	αὐτός	PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+αὔριον	αὔριον	ADV	_	
 αἴσθοSU			_	
 SU			_	
-καὶ		CONJ	_	
-ἐγὼ		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-ὅτι		CONJ	_	
-κατάβασίς		NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-ἐστιν		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-ἐξ		PREP	_	
+καὶ	καί	CONJ	_	
+ἐγὼ	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+ὅτι	ὅτιCONJ	_	
+κατάβασίς	κατάβασις	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+ἐστιν	εἰμί	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+ἐξ	ἐκ	PREP	_	
 GG			_	
-ἐὰν		CONJ	_	
-πέμψω		VB	person=PERSON_1|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-αὐτὴν		PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-ὑμεῖν		PRON	number=PLURAL|case=DATIVE	
-πέμσαSU			_	
-πάλι		ADV	_	
-ταχύ		ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-ἀσπάζεσθε		VB	person=PERSON_2|number=PLURAL|tense=PR|mood=IMPERATIVE	
-Σαραπιάδα		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-διὰ		PREP	_	
-Ἰσίδωρας		NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-ἔρρωSU		VB	_	
-ἐρωτῶ		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-δὲ		ADV	_	
-ἙρμογέSU			_	
-καὶ		CONJ	_	
-πάντες		ADJ	number=PLURAL|gender=MASCULINE|degree=POSITIVE	
-ὑμᾶς		PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
-ἵνα		CONJ	_	
-αὐτὸν		PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-SUθήσητε			_	
-ἵνα		CONJ	_	
-ὃ		PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-ἂν		ADV	_	
-αὐτὸν		PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-ἐρSU			_	
-ἡ			number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-ἀδελφή		NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-μου		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-ποιήσῃ		VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-τὸ			number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-σήμερον		ADV	_	
+ἀσπάζεσθε	ἀσπάζομαι	VB	person=PERSON_2|number=PLURAL|tense=PR|mood=IMPERATIVE	
+Σαραπιάδα	Σαραπιάς	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+διὰ	διά	PREP	_	
+Ἰσίδωρας	Ἰσιδώρα	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+τὸ	ὁ		number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+σήμερον	σήμερον	ADV	_	
 G			_	
-SUδομήσω	SU	VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-μου		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-τὸ			number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-κελλίν		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+SUδομήσω	SUδομήσω	VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+μου	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+τὸ	ὁ		number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+κελλίν	κελλίον	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+G			_	
+G			_	
+Ἡρᾶτι	Ἡρᾶς	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+GG			_	
+Gλλαστι			_	
+καὶ	καί	CONJ	_	
+Ἀρητίωνι	Ἀρητίων	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+G			_	
+Gες			_	
+ἀδελφοι			_	
+ἐρωτῶ	ἐρωτάω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+δὲ	δέ	ADV	_	
+ἙρμογέSU			_	
+καὶ	καί	CONJ	_	
+πάντες	πᾶς	ADJ	number=PLURAL|gender=MASCULINE|degree=POSITIVE	
+ὑμᾶς	σύ	PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
+ἵνα	ἵνα	CONJ	_	
+αὐτὸν	αὐτός	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+SUθήσητε			_	
+ἵνα	ἵνα	CONJ	_	
+ὃ	ὅς	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ἂν	ἄνADV	_	
+αὐτὸν	αὐτός	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+ἐρSU			_	
+ἡ	ὁ		number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+ἀδελφή	ἀδελφή	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+μου	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+ποιήσῃ	ποιέω	VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+ἔρρωSU	ῥώννυμι	VB	_	

@@ -1,36 +1,36 @@
-1	Ἐπωνυχε		NN	number=SINGULAR|gender=MASCULINE	
-2	Πανισκος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-3	καὶ		CONJ	_	
-4	ΠατοSUιρις		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-5	ἀμφοτέροις		ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE	
-6	τοῖς			number=PLURAL|gender=MASCULINE|case=DATIVE	
-7	ἀδελφοῖς		NN	number=PLURAL|gender=MASCULINE|case=DATIVE	
-8	πολλὰ		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-9	χαίA		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-1	πρὸ		PREP	_	
-2	μὲν		ADV	_	
-3	πάντων		ADJ	number=PLURAL|gender=NEUTER|case=GENITIVE	
-4	εὔχομαOM		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-5	ὑμων		PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-6	υγιαινων		VB	tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE	
-1	κομισον		VB	person=PERSON_2|number=PLURAL|mood=IMPERATIVE|voice=ACTIVE	
-2	παρὰ		ADJ	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
-3	Διοσκορος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-4	δεσμην		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-5	γ		NRL	gender=FEMININE|case=ACCUSATIVE	
+1	Ἐπωνυχε	Ἐφωνυχος	NN	number=SINGULAR|gender=MASCULINE	
+2	Πανισκος	Πανίσκος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+3	καὶ	καί	CONJ	_	
+4	ΠατοSUιρις	Πετοσιρις	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+5	ἀμφοτέροις	ἀμφότερος	ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE	
+6	τοῖς	ὁ		number=PLURAL|gender=MASCULINE|case=DATIVE	
+7	ἀδελφοῖς	ἀδελφός	NN	number=PLURAL|gender=MASCULINE|case=DATIVE	
+8	πολλὰ	πολύς	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+9	χαίA	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+1	πρὸ	πρό	PREP	_	
+2	μὲν	μέν	ADV	_	
+3	πάντων	πᾶς	ADJ	number=PLURAL|gender=NEUTER|case=GENITIVE	
+4	εὔχομαOM	εὔχομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+5	ὑμων	σύ	PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+6	υγιαινων	ὑγιαίνω	VB	tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE	
+1	κομισον	κομίζω	VB	person=PERSON_2|number=PLURAL|mood=IMPERATIVE|voice=ACTIVE	
+2	παρὰ	πηρός	ADJ	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
+3	Διοσκορος	Διόσκορος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+4	δεσμην	δέσμη	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+5	γ	3	NRL	gender=FEMININE|case=ACCUSATIVE	
 6	λαχαGολGG			_	
-1	μερίζεται		VB	tense=PR	
-2	αὐτά		PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-1	ἐρωτῶ		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-2	ὑμᾶς		PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
+1	μερίζεται	μερίζω	VB	tense=PR	
+2	αὐτά	αὐτός	PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+1	ἐρωτῶ	ἐρωτάω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+2	ὑμᾶς	σύ	PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
 3	πGG			_	
 4	SUένψεις			_	
-5	μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-6	δεμάχια		NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+5	μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+6	δεμάχια	τεμάχιον	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
 7	σπουSU			_	
 8	GG			_	
 9	SUὐκ			_	
-10	ἔχω		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-1	ἐρρῶσθαί		VB	tense=PERF|mood=INFINITIVE	
-2	σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
-3	εὔχSU		VB	_	
+10	ἔχω	ἔχω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+1	ἐρρῶσθαί	ῥώννυμι	VB	tense=PERF|mood=INFINITIVE	
+2	σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+3	εὔχSU	εὔχομαι	VB	_	

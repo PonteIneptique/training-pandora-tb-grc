@@ -1,12 +1,16 @@
-ἔρρωσο		VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE	
-λοιπόν		ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-ἠ		CONJ	_	
-ἐν		PREP	_	
-σοί		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-εἰσιν		VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-ἐπιστολίδιόν		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-γράψεις		VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-ΕὐτύχA		NN	number=SINGULAR|gender=MASCULINE	
-Λωγγεῖνος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-χαA		VB	_	
+ἔρρωσο	ῥώννυμι	VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE	
+λοιπόν	λοιπός	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ἠ	εἰ	CONJ	_	
+ἐν	ἐν	PREP	_	
+σοί	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+εἰσιν	εἰμί	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+ἐπιστολίδιόν	ἐπιστολίδιον	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+γράψεις	γράφω	VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+οὐκ	οὐ	ADV	_	
+ἔλαβον	λαμβάνω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+παρʼ	παρά	PREP	_	
+Ἐπαγαθίωνος	Ἐπαγαθίων	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+τὰς	ὁ		number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+A	δραχμή	NN	gender=FEMININE	
+κ	NRL	number=PLURAL	

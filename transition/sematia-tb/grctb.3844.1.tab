@@ -1,66 +1,66 @@
 1	G			_	
 2	G			_	
-3	Ἡρᾶτι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+3	Ἡρᾶτι	Ἡρᾶς	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
 4	GG			_	
 5	Gλλαστι			_	
-6	καὶ		CONJ	_	
-7	Ἀρητίωνι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+6	καὶ	καί	CONJ	_	
+7	Ἀρητίωνι	Ἀρητίων	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
 8	G			_	
 9	Gες			_	
-10	ἀδελφοῖς		NN	number=PLURAL|gender=MASCULINE|case=DATIVE	
-1	τὸ			number=SINGULAR|gender=NEUTER	
-2	σήμερον		ADV	_	
+10	ἀδελφοῖς	ἀδελφός	NN	number=PLURAL|gender=MASCULINE|case=DATIVE	
+1	τὸ	ὁ		number=SINGULAR|gender=NEUTER	
+2	σήμερον	σήμερον	ADV	_	
 3	G			_	
-4	οἰκοδομήσω		VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-5	μου		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-6	τὸ			number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-7	κελλίν		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-1	καταπέμψω		VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-2	ὑμῖν		PRON	person=PERSON_2|number=PLURAL|case=DATIVE	
-3	αὐτὴν		PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-4	αὔριον		ADV	_	
-5	αἴσθομαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-6	δὲ		ADV	_	
-7	καὶ		CONJ	_	
-8	ἐγὼ		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-9	ὅτι		CONJ	_	
-10	κατάβασίς		NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-11	ἐστιν		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-12	ἐξ		PREP	_	
+4	οἰκοδομήσω	οἰκοδομέω	VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+5	μου	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+6	τὸ	ὁ		number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+7	κελλίν	κελλίον	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+1	καταπέμψω	καταπέμπω	VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+2	ὑμῖν	σύ	PRON	person=PERSON_2|number=PLURAL|case=DATIVE	
+3	αὐτὴν	αὐτός	PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+4	αὔριον	αὔριον	ADV	_	
+5	αἴσθομαι	αἰσθάνομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+6	δὲ	δέ	ADV	_	
+7	καὶ	καί	CONJ	_	
+8	ἐγὼ	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+9	ὅτι	ὅτι2	CONJ	_	
+10	κατάβασίς	κατάβασις	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+11	ἐστιν	εἰμί	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+12	ἐξ	ἐκ	PREP	_	
 13	GG			_	
-1	ἐὰν		CONJ	_	
-2	πέμψω		VB	person=PERSON_1|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-3	αὐτὴν		PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-4	ὑμῖν		PRON	person=PERSON_2|number=PLURAL|case=DATIVE	
-5	πέμψατε		VB	person=PERSON_2|number=PLURAL|mood=IMPERATIVE|voice=ACTIVE	
-6	πάλι		ADV	_	
-7	ταχύ		ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-1	ἐρωτῶ		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-2	δὲ		ADV	_	
-3	Ἑρμογένην		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-4	καὶ		CONJ	_	
-5	πάντας		ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-6	ὑμᾶς		PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
-7	ἵνα		CONJ	_	
-8	αὐτὸν		PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-9	βοηθήσητε		VB	person=PERSON_2|number=PLURAL|mood=SUBJUNCTIVE|voice=ACTIVE	
-10	ἵνα		CONJ	_	
-11	ὃ		PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-12	ἂν		ADV	_	
-13	αὐτὸν		PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-14	ἐρωτᾷ		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
-15	ἡ			number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-16	ἀδελφή		NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-17	μου		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-18	ποιήσῃ		VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-1	ἀσπάζομαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-2	πάντας		ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-3	κατʼ		PREP	_	
-4	ὄνομα		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-5	καὶ		CONJ	_	
+1	ἐὰν	ἐάν	CONJ	_	
+2	πέμψω	πέμπω	VB	person=PERSON_1|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+3	αὐτὴν	αὐτός	PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+4	ὑμῖν	σύ	PRON	person=PERSON_2|number=PLURAL|case=DATIVE	
+5	πέμψατε	πέμπω	VB	person=PERSON_2|number=PLURAL|mood=IMPERATIVE|voice=ACTIVE	
+6	πάλι	πάλιν	ADV	_	
+7	ταχύ	ταχύς	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+1	ἐρωτῶ	ἐρωτάω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+2	δὲ	δέ	ADV	_	
+3	Ἑρμογένην	Ἑρμογένης	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+4	καὶ	καί	CONJ	_	
+5	πάντας	πᾶς	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+6	ὑμᾶς	σύ	PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
+7	ἵνα	ἵνα	CONJ	_	
+8	αὐτὸν	αὐτός	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+9	βοηθήσητε	βοηθέω	VB	person=PERSON_2|number=PLURAL|mood=SUBJUNCTIVE|voice=ACTIVE	
+10	ἵνα	ἵνα	CONJ	_	
+11	ὃ	ὅς	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+12	ἂν	ἄν1	ADV	_	
+13	αὐτὸν	αὐτός	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+14	ἐρωτᾷ	ἐρωτάω	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
+15	ἡ	ὁ		number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+16	ἀδελφή	ἀδελφή	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+17	μου	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+18	ποιήσῃ	ποιέω	VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+1	ἀσπάζομαι	ἀσπάζομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+2	πάντας	πᾶς	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+3	κατʼ	κατά	PREP	_	
+4	ὄνομα	ὄνομα	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+5	καὶ	καί	CONJ	_	
 6	ὩρG			_	
-1	ἀσπάζεσθε		VB	person=PERSON_2|number=PLURAL|tense=PR|mood=IMPERATIVE	
-2	Σαραπιάδα		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-3	διὰ		PREP	_	
-4	Ἰσίδωρας		NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-1	ἔρρωσθε		VB	person=PERSON_2|number=PLURAL|tense=PERF|mood=IMPERATIVE	
+1	ἀσπάζεσθε	ἀσπάζομαι	VB	person=PERSON_2|number=PLURAL|tense=PR|mood=IMPERATIVE	
+2	Σαραπιάδα	Σαραπιάς	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+3	διὰ	διά	PREP	_	
+4	Ἰσίδωρας	Ἰσιδώρα	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+1	ἔρρωσθε	ῥώννυμι	VB	person=PERSON_2|number=PLURAL|tense=PERF|mood=IMPERATIVE	

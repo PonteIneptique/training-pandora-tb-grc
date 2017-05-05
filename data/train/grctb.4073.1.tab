@@ -1,30 +1,41 @@
-ἀντίγραψόν		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-οὖν		ADV	_	
-ἠ		CONJ	_	
-ἴλεφες		VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
-ποταπὰ		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE|degree=POSITIVE	
-κρέα		NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-ἀσπάζου		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
-τὴν			number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-γυναῖκά		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-σου		PRON	person=PERSON_2|number=SINGULAR|case=GENITIVE	
-καὶ		CONJ	_	
-τὰ			number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-παιδία		NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-σου		PRON	person=PERSON_2|number=SINGULAR|case=GENITIVE	
-δέξαι		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE	
-παρὰ		PREP	_	
-Χεννᾶμις		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-καμηλίτου		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-σφυρίδιν		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-κρεῶν		NN	number=PLURAL|gender=NEUTER|case=GENITIVE	
-καὶ		CONJ	_	
-ἡπάτιν		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-ἕν		NRL	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-Πθιαῦς		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-Πετενίφι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-τῷ			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-πατρὶ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-χαίριν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-ἐρρῶσθε		VB	tense=PERF	
+Πθιαῦς	Φθιάους	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Πετενίφι	Πετενῖφις	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+τῷ	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+πατρὶ	πατήρ	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+χαίριν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+ἀντίγραψόν	ἀντιγράφω	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+οὖν	οὖν	ADV	_	
+ἠ	εἰ	CONJ	_	
+ἴλεφες	λαμβάνω	VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+ποταπὰ	ποδαπός	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE|degree=POSITIVE	
+κρέα	κρέας	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+δέξαι	δέχομαι	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE	
+παρὰ	παρά	PREP	_	
+Χεννᾶμις	Χεννᾶμις	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+καμηλίτου	καμηλίτης	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+σφυρίδιν	σφυρίδιον	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+κρεῶν	κρέας	NN	number=PLURAL|gender=NEUTER|case=GENITIVE	
+καὶ	καί	CONJ	_	
+ἡπάτιν	ἡπάτιον	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ἕν	εἷς	NRL	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ἀσπάζου	ἀσπάζομαι	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
+τὴν	ὁ		number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+γυναῖκά	γυνή	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+σου	σύ	PRON	person=PERSON_2|number=SINGULAR|case=GENITIVE	
+καὶ	καί	CONJ	_	
+τὰ	ὁ		number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+παιδία	παιδίον	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+σου	σύ	PRON	person=PERSON_2|number=SINGULAR|case=GENITIVE	
+οὐ	οὐ	ADV	_	
+καλῶς	καλός	ADJ	_	
+ἐποίεσες	ποιέω	VB	person=PERSON_2|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+γSUς	γSUς	VB	number=SINGULAR|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
+ὅτι	ὅτιCONJ	_	
+ὀφίλω	ὀφείλω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+σSU	σύ	PRON	number=SINGULAR|gender=MASCULINE	
+τέσσαρες	τέσσαρες	NRL	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+στατῆρες	στατήρ	NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+ο	ὅς	PRON	_	
+οὐκ	οὐ	ADV	_	
+ὀφίλω	ὀφείλω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	

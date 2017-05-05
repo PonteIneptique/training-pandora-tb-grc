@@ -1,21 +1,31 @@
-SUτολλᾶς	SU	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-Σαραπίωνι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-χA		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-ἔρρωσο		VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE	
-G			_	
-τις		PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-τῶν			number=PLURAL|gender=MASCULINE|case=GENITIVE	
-ταβελλαρίων		NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-ἔρχηται		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE	
-ὧδε		ADV	_	
-μG	G	VB	_	
-ἐλπίζω		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-καταβῆναι		VB	mood=INFINITIVE|voice=ACTIVE	
-ὀψαρία		NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-διαπέμψω		VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+SUτολλᾶς	SUτολλᾶς	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Σαραπίωνι	Σαραπίων	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+χA	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+ὁ	ὁ		number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+δὲ	δέ	ADV	_	
+A	ἑκατοντάρχης	NN	number=SINGULAR|gender=MASCULINE	
+αναβG	αναβG	VB	_	
+ἐλπίζω	ἐλπίζω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+καταβῆναι	καταβαίνω	VB	mood=INFINITIVE|voice=ACTIVE	
+ὀψαρία	ὀψάριον	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+διαπέμψω	διαπέμπω	VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+σοι	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
 αG			_	
-ὁ			number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-δὲ		ADV	_	
-A		NN	number=SINGULAR|gender=MASCULINE	
-αναβG	G	VB	_	
+γεινώσκειν	γιγνώσκω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+θέλω	ἐθέλω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+ὅτι	ὅτιCONJ	_	
+ἐκρατήθην	κρατέω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=PASSIVE	
+ὧδε	ὧδε	ADV	_	
+διὰ	διά	PREP	_	
+τὸ	ὁ		number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+τεσκελGG	τεσκελGG	NN	_	
+με	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+πεποGκέναι	ποιέω	VB	tense=PERF|mood=INFINITIVE|voice=ACTIVE	
+G			_	
+τις	τις	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+τῶν	ὁ		number=PLURAL|gender=MASCULINE|case=GENITIVE	
+ταβελλαρίων	ταβελλάριος	NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+ἔρχηται	ἔρχομαι	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE	
+ὧδε	ὧδε	ADV	_	
+μG	μG	VB	_	

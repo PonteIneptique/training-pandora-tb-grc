@@ -1,60 +1,60 @@
-1	ΠετενεφSU		NN	number=SINGULAR|gender=MASCULINE	
+1	ΠετενεφSU	Πετενεφωτης	NN	number=SINGULAR|gender=MASCULINE	
 2	SU			_	
-3	τῷ			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-4	ἀδελφῷ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+3	τῷ	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+4	ἀδελφῷ	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
 5	ποSU			_	
 6	SU			_	
 1	SU			_	
-2	πυήσις		VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-3	ἄδελφε		NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+2	πυήσις	ποιέω	VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+3	ἄδελφε	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
 4	ἐὰSU			_	
 5	SU			_	
-6	ἡ			number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-7	πορήε		NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-8	τῇ			number=SINGULAR|gender=FEMININE|case=DATIVE	
-9	νυκτὶ		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-10	ταύτῃ		PRON	number=SINGULAR|gender=FEMININE|case=DATIVE	
-11	πέμψας		VB	number=SINGULAR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-12	μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-13	τρία		NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-14	ζεύγη		NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-15	ἄρτων		NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-16	ἐπὶ		CONJ	_	
-17	οὐκ		ADV	_	
-18	ἐχο		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-19	ἄρτους		NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-20	καὶ		CONJ	_	
-21	ὅταν		CONJ	_	
-22	ἔλθῃ		VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-23	ἡ			number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-24	πορήα		NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-25	πέμψω		VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-26	συ		PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-27	αὐτά		PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-1	ἀσπάζομε		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-2	Κολοφονήν		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-1	καλῶς		ADJ	_	
-2	πυης		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-3	ἄδελφε		NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-4	ὅταν		CONJ	_	
-5	ἔλθῃ		VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-6	ἡ			number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-7	πορήα		NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-8	ἔτησον		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-9	τὼν			_	
-10	χαλκὸν		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-11	τον			_	
-12	τασκου		NN	_	
-13	καὶ		CONJ	_	
-14	πέμψης		VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-15	με		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-16	τὰς			number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-17	ἄλλαA		ADJ	_	
-18	A			_	
-19	θ		NRL	_	
-20	ἵνα		CONJ	_	
-21	πληρωθῇς		VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=PASSIVE	
-22	ὧν		PRON	number=PLURAL|gender=NEUTER|case=GENITIVE	
-23	μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-24	ἔδωκας		VB	person=PERSON_2|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-1	ἔρρωσA		VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE|voice=PASSIVE	
+6	ἡ	ὁ		number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+7	πορήε	πορεία	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+8	τῇ	ὁ		number=SINGULAR|gender=FEMININE|case=DATIVE	
+9	νυκτὶ	νύξ	NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
+10	ταύτῃ	οὗτος	PRON	number=SINGULAR|gender=FEMININE|case=DATIVE	
+11	πέμψας	πέμπω	VB	number=SINGULAR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+12	μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+13	τρία	τρία	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+14	ζεύγη	ζεῦγος	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+15	ἄρτων	ἄρτος	NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+16	ἐπὶ	ἐπεὶ	CONJ	_	
+17	οὐκ	οὐ	ADV	_	
+18	ἐχο	ἔχω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+19	ἄρτους	ἄρτος	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+20	καὶ	καί	CONJ	_	
+21	ὅταν	ὅταν	CONJ	_	
+22	ἔλθῃ	ἔρχομαι	VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+23	ἡ	ὁ		number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+24	πορήα	πορεία	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+25	πέμψω	πέμπω	VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+26	συ	σύ	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+27	αὐτά	αὐτός	PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+1	ἀσπάζομε	ἀσπάζομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+2	Κολοφονήν	Κολοφώνης	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+1	καλῶς	καλός	ADJ	_	
+2	πυης	ποιέω	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+3	ἄδελφε	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+4	ὅταν	ὅταν	CONJ	_	
+5	ἔλθῃ	ἔρχομαι	VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+6	ἡ	ὁ		number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+7	πορήα	πορεία	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+8	ἔτησον	αἰτέω	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+9	τὼν	ὁ		_	
+10	χαλκὸν	χαλκός	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+11	τον	ὁ		_	
+12	τασκου	τασκου	NN	_	
+13	καὶ	καί	CONJ	_	
+14	πέμψης	πέμπω	VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+15	με	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+16	τὰς	ὁ		number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+17	ἄλλαA	ἄλλος	ADJ	_	
+18	A	δραχμή		_	
+19	θ	9	NRL	_	
+20	ἵνα	ἵνα	CONJ	_	
+21	πληρωθῇς	πληρόω	VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=PASSIVE	
+22	ὧν	ὅς	PRON	number=PLURAL|gender=NEUTER|case=GENITIVE	
+23	μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+24	ἔδωκας	δίδωμι	VB	person=PERSON_2|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+1	ἔρρωσA	ῥώννυμι	VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE|voice=PASSIVE	

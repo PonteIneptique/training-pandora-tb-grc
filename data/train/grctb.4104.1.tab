@@ -1,54 +1,36 @@
-ἀσπάζομε		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-Κολοφονήν		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-καλῶς		ADJ	_	
-ποιήσεις		VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-ἄδελφε		NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-ὅταν		CONJ	_	
-ἔλθῃ		VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-ἡ			number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-πορεία		NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-αἴτησον		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-τὸν			number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-χαλκὸν		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-τῶν			number=PLURAL|gender=NEUTER|case=GENITIVE	
-τασκου		NN	_	
-καὶ		CONJ	_	
-πέμψεις		VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-τὰς			number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-ἄλλας		PRON	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-δραχμὰς		NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-θ		NRL	_	
-ἵνα		CONJ	_	
-πληρωθῇς		VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=PASSIVE	
-ὧν		PRON	number=PLURAL|gender=NEUTER|case=GENITIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-ἔδωκας		VB	person=PERSON_2|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-καλῶς		ADJ	_	
-ποιήσεις		VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-ἄδελφε		NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-ἐὰν		CONJ	_	
-ἔλθῃ		VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-ἡ			number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-πορεία		NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-τῇ			number=SINGULAR|gender=FEMININE|case=DATIVE	
-νυκτὶ		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-ταύτῃ		PRON	number=SINGULAR|gender=FEMININE|case=DATIVE	
-πέμψας		VB	number=SINGULAR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-τρία		NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-ζεύγη		NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-ἄρτων		NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-ἐπὶ		CONJ	_	
-οὐκ		ADV	_	
-ἔχω		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-ἄρτους		NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-καὶ		CONJ	_	
-ὅταν		CONJ	_	
-ἔλθῃ		VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-ἡ			number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-πορεία		NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-πέμψω		VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-αὐτά		PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-ἔρρωσο		VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE	
+καλῶς	καλός	ADJ	_	
+ποιήσεις	ποιέω	VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+ἄδελφε	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+ἐὰν	ἐάν	CONJ	_	
+ἔλθῃ	ἔρχομαι	VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+ἡ	ὁ		number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+πορεία	πορεία	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+τῇ	ὁ		number=SINGULAR|gender=FEMININE|case=DATIVE	
+νυκτὶ	νύξ	NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
+ταύτῃ	οὗτος	PRON	number=SINGULAR|gender=FEMININE|case=DATIVE	
+πέμψας	πέμπω	VB	number=SINGULAR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+τρία	τρία	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+ζεύγη	ζεῦγος	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+ἄρτων	ἄρτος	NN	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+ἐπὶ	ἐπεὶ	CONJ	_	
+οὐκ	οὐ	ADV	_	
+ἔχω	ἔχω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+ἄρτους	ἄρτος	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+καὶ	καί	CONJ	_	
+ὅταν	ὅταν	CONJ	_	
+ἔλθῃ	ἔρχομαι	VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+ἡ	ὁ		number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+πορεία	πορεία	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+πέμψω	πέμπω	VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+σοι	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+αὐτά	αὐτός	PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+ἔρρωσο	ῥώννυμι	VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE	
+ἀσπάζομε	ἀσπάζομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+Κολοφονήν	Κολοφώνης	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+Πετενεφώτης	Πετενεφωτης	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Οὐαλερίῳ	Οὐαλέριος	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+τῷ	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+ἀδελφῷ	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+πολλὰ	πολύς	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+χαίρειν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	

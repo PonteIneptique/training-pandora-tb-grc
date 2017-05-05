@@ -1,20 +1,20 @@
-1	Μάξιμος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-2	Κασσιανῷ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-3	τῷ			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-4	γαμβρῷ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-5	καὶ		CONJ	_	
-6	ἀδελφῷ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-7	χαίρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-1	ἄσπασαί		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE	
-2	σου		PRON	person=PERSON_2|number=SINGULAR|case=GENITIVE	
-3	τὴν			number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-4	θυγατέρα		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-1	ἀσπάζεται		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE	
-2	ὑμᾶς		PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
-3	Ἀρτέμεις		NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-1	ἀσπάζου		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
-2	πάντας		ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-3	τοὺς			number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-4	φιλοῦντας		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
-5	ἡμᾶς		PRON	person=PERSON_1|number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-1	ἔρρωσο		VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE	
+1	Μάξιμος	Μάξιμος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+2	Κασσιανῷ	Κασσιανός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+3	τῷ	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+4	γαμβρῷ	γαμβρός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+5	καὶ	καί	CONJ	_	
+6	ἀδελφῷ	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+7	χαίρειν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+1	ἄσπασαί	ἀσπάζομαι	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE	
+2	σου	σύ	PRON	person=PERSON_2|number=SINGULAR|case=GENITIVE	
+3	τὴν	ὁ		number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+4	θυγατέρα	θυγάτηρ	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+1	ἀσπάζεται	ἀσπάζομαι	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE	
+2	ὑμᾶς	σύ	PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
+3	Ἀρτέμεις	Ἄρτεμις	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+1	ἀσπάζου	ἀσπάζομαι	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
+2	πάντας	πᾶς	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+3	τοὺς	ὁ		number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+4	φιλοῦντας	φιλέω	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
+5	ἡμᾶς	ἐγώ	PRON	person=PERSON_1|number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+1	ἔρρωσο	ῥώννυμι	VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE	

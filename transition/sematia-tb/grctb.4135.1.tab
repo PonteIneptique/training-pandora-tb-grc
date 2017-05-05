@@ -1,52 +1,52 @@
 1	G			_	
-2	καὶ		CONJ	_	
+2	καὶ	καί	CONJ	_	
 3	ειδG			_	
 4	νεκται			_	
-5	ὅτι		CONJ	_	
-6	GGGομαι	GGG	VB	person=PERSON_1|number=SINGULAR	
-7	ἄδελφε		NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-8	μὴ		CONJ	_	
-9	ἀμελήσῃς		VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-10	γράψαι		VB	mood=INFINITIVE|voice=ACTIVE	
-11	μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-12	πῶς		ADV	_	
-13	ἔσχηκες		VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
-1	ἔλαβα		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-2	παρὰ		PREP	_	
-3	Κελερᾶτος		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-4	γυργαθὰν		NN	number=SINGULAR|case=ACCUSATIVE	
-5	καὶ		CONJ	_	
-6	ἡπητιν		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-7	ὃ		PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-8	ἀπέσταλκεν		VB	person=PERSON_3|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
-9	Γάιος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-1	ἄσπασαι		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE	
-2	Γάιον		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-1	πολλά		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-2	σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-3	εὐχαριστῖ		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-4	ἄδελφε		NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-5	ὅσα		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-6	αὐτSU		PRON	_	
-7	SUποίηκες		VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
-1	ἐμοὶ		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+5	ὅτι	ὅτι2	CONJ	_	
+6	GGGομαι	GGGομαι	VB	person=PERSON_1|number=SINGULAR	
+7	ἄδελφε	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+8	μὴ	μή	CONJ	_	
+9	ἀμελήσῃς	ἀμελέω	VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+10	γράψαι	γράφω	VB	mood=INFINITIVE|voice=ACTIVE	
+11	μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+12	πῶς	πῶς2	ADV	_	
+13	ἔσχηκες	ἔχω	VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+1	ἔλαβα	λαμβάνω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+2	παρὰ	παρά	PREP	_	
+3	Κελερᾶτος	Κελερᾶς	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+4	γυργαθὰν	γυργαθός	NN	number=SINGULAR|case=ACCUSATIVE	
+5	καὶ	καί	CONJ	_	
+6	ἡπητιν	ἡπάτιον	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+7	ὃ	ὅς	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+8	ἀπέσταλκεν	ἀποστέλλω	VB	person=PERSON_3|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+9	Γάιος	Γάιος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+1	ἄσπασαι	ἀσπάζομαι	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE	
+2	Γάιον	Γάιος	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+1	πολλά	πολύς	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+2	σοι	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+3	εὐχαριστῖ	εὐχαριστέω	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+4	ἄδελφε	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+5	ὅσα	ὅσος	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+6	αὐτSU	αὐτός	PRON	_	
+7	SUποίηκες	ποιέω	VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+1	ἐμοὶ	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
 2	G			_	
-3	καὶ		CONJ	_	
-4	τῇ			number=SINGULAR|gender=FEMININE|case=DATIVE	
+3	καὶ	καί	CONJ	_	
+4	τῇ	ὁ		number=SINGULAR|gender=FEMININE|case=DATIVE	
 5	ἐμεGGσαι			_	
-6	οὓς		PRON	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+6	οὓς	ὅς	PRON	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
 7	φιSU			_	
 8	Gν			_	
-9	φιλοῦντα		VB	tense=PR|mood=PARTICIPLE|voice=ACTIVE|degree=POSITIVE	
+9	φιλοῦντα	φιλέω	VB	tense=PR|mood=PARTICIPLE|voice=ACTIVE|degree=POSITIVE	
 10	G			_	
 11	GGωμGG			_	
-12	μὴ		CONJ	_	
+12	μὴ	μή	CONJ	_	
 13	ὀκνηςGG			_	
 14	θειν			_	
-1	ἄσπασαι		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE	
+1	ἄσπασαι	ἀσπάζομαι	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE	
 2	ἈGG			_	
-3	SUλέξανδρον		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-4	καὶ		CONJ	_	
-5	ΒαρG	G	NN	_	
+3	SUλέξανδρον	Ἀλέξανδρος	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+4	καὶ	καί	CONJ	_	
+5	ΒαρG	ΒαρG	NN	_	
 6	GGGεG			_	
 7	G			_	

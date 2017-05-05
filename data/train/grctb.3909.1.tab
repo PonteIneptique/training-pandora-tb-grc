@@ -1,64 +1,60 @@
-ἐρρῶσθαι		VB	tense=PERF|mood=INFINITIVE	
-εὔχομαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-φρόντισόν		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-ὀψαρίδια		NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-ἀναδώσω		VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-δηνάριον		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-ἕκαστον		ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-καὶ		CONJ	_	
-γράψον		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-περὶ		PREP	_	
-τῆς			number=SINGULAR|gender=FEMININE|case=GENITIVE	
-σωτηρίας		NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-ὑμῶν		PRON	person=PERSON_2|number=PLURAL|case=GENITIVE	
-ἀσπάζομαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-Πετοσῖριν		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-πρὸ		PREP	_	
-μὲν		ADV	_	
-πάντων		ADJ	number=PLURAL|gender=NEUTER|case=GENITIVE	
-εὔχομαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-ὑμᾶς		PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
-ὑγιαίνιν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-καὶ		CONJ	_	
-τὸ			number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-προσκύνημα		NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
-ὑμῶν		PRON	person=PERSON_2|number=PLURAL|case=GENITIVE	
+πρὸ	πρό	PREP	_	
+μὲν	μέν	ADV	_	
+πάντων	πᾶς	ADJ	number=PLURAL|gender=NEUTER|case=GENITIVE	
+εὔχομαι	εὔχομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+ὑμᾶς	σύ	PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
+ὑγιαίνιν	ὑγιαίνω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+καὶ	καί	CONJ	_	
+τὸ	ὁ		number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+προσκύνημα	προσκύνημα	NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+ὑμῶν	σύ	PRON	person=PERSON_2|number=PLURAL|case=GENITIVE	
 SR			_	
-ποιῶ		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-παρὰ		PREP	_	
-τῇ			number=SINGULAR|gender=FEMININE|case=DATIVE	
-Τύχῃ		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-τοῦ			number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-πραισιδίου		NN	number=SINGULAR|gender=NEUTER|case=GENITIVE	
-καὶ		CONJ	_	
-τῶν			number=PLURAL|gender=NEUTER|case=GENITIVE	
-ὀρέων		NN	number=PLURAL|gender=NEUTER|case=GENITIVE	
-ὅπου		ADV	_	
-ἐπιξενοῦμαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-Διόσκορος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-Δράκωνι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-καὶ		CONJ	_	
-Ερημησις		NN	number=SINGULAR|gender=MASCULINE	
-καὶ		CONJ	_	
-Ἀμμωνιανῷ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-κουράτορι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-ἀμφοτέροις		ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE	
-τοῖς			number=PLURAL|gender=MASCULINE|case=DATIVE	
-φιλτάτοις		ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE	
-πολλὰ		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-χαίρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-τὰ			number=PLURAL|gender=NEUTER|case=NOMINATIVE	
-νῦν		ADV	_	
-ἔπεμψά		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-τὸ			number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-τρικεράμιον		NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
-καὶ		CONJ	_	
-οὐκ		ADV	_	
-ἔπεμψες		VB	person=PERSON_2|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-τὸ			number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ποιῶ	ποιέω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+παρὰ	παρά	PREP	_	
+τῇ	ὁ		number=SINGULAR|gender=FEMININE|case=DATIVE	
+Τύχῃ	Τύχη	NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
+τοῦ	ὁ		number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+πραισιδίου	πραισίδιον	NN	number=SINGULAR|gender=NEUTER|case=GENITIVE	
+καὶ	καί	CONJ	_	
+τῶν	ὁ		number=PLURAL|gender=NEUTER|case=GENITIVE	
+ὀρέων	ὄρος	NN	number=PLURAL|gender=NEUTER|case=GENITIVE	
+ὅπου	ὅπου	ADV	_	
+ἐπιξενοῦμαι	ἐπιξενόομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+φρόντισόν	φροντίζω	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+ὀψαρίδια	ὀψαρίδιον	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+ἀναδώσω	ἀναδίδωμι	VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+δηνάριον	δηνάριον	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ἕκαστον	ἕκαστος	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ἀσπάζομαι	ἀσπάζομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+Πετοσῖριν	Πετοσιρις	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+Διόσκορος	Διόσκορος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Δράκωνι	Δρακων	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+καὶ	καί	CONJ	_	
+Ερημησις	Ερεμησις	NN	number=SINGULAR|gender=MASCULINE	
+καὶ	καί	CONJ	_	
+Ἀμμωνιανῷ	Ἀμμωνιανός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+κουράτορι	κουράτωρ	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+ἀμφοτέροις	ἀμφότερος	ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE	
+τοῖς	ὁ		number=PLURAL|gender=MASCULINE|case=DATIVE	
+φιλτάτοις	φίλτατος	ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE	
+πολλὰ	πολύς	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+χαίρειν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+τὰ	ὁ		number=PLURAL|gender=NEUTER|case=NOMINATIVE	
+νῦν	νῦν	ADV	_	
+ἔπεμψά	πέμπω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+σοι	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+τὸ	ὁ		number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+τρικεράμιον	τρικεράμιον	NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+καὶ	καί	CONJ	_	
+οὐκ	οὐ	ADV	_	
+ἔπεμψες	πέμπω	VB	person=PERSON_2|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+τὸ	ὁ		number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
 SR			_	
-ἀντίγραφον		ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ἀντίγραφον	ἀντίγραφος	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ἐρρῶσθαι	ῥώννυμι	VB	tense=PERF|mood=INFINITIVE	
+εὔχομαι	εὔχομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+ἄσπασαι	ἀσπάζομαι	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE	
+Σαραπάμμωνα	Σαραπάμμων	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+ἈντωGG			_	

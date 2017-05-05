@@ -1,43 +1,50 @@
-πολλά		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-εὐχαριστῖ		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-ἄδελφε		NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-ὅσα		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-αὐτSU		PRON	_	
-SUποίηκες		VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+πολλά	πολύς	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+σοι	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+εὐχαριστῖ	εὐχαριστέω	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+ἄδελφε	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+ὅσα	ὅσος	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+αὐτSU	αὐτός	PRON	_	
+SUποίηκες	ποιέω	VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+ἔλαβα	λαμβάνω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+παρὰ	παρά	PREP	_	
+Κελερᾶτος	Κελερᾶς	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+γυργαθὰν	γυργαθός	NN	number=SINGULAR|case=ACCUSATIVE	
+καὶ	καί	CONJ	_	
+ἡπητιν	ἡπάτιον	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ὃ	ὅς	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ἀπέσταλκεν	ἀποστέλλω	VB	person=PERSON_3|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+Γάιος	Γάιος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+ἐμοὶ	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
 G			_	
-καὶ		CONJ	_	
-ειδG			_	
-νεκται			_	
-ὅτι		CONJ	_	
-GGGομαι	GGG	VB	person=PERSON_1|number=SINGULAR	
-ἄδελφε		NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-μὴ		CONJ	_	
-ἀμελήσῃς		VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-γράψαι		VB	mood=INFINITIVE|voice=ACTIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-πῶς		ADV	_	
-ἔσχηκες		VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
-ἄσπασαι		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE	
-ἈGG			_	
-SUλέξανδρον		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-καὶ		CONJ	_	
-ΒαρG	G	NN	_	
-GGGεG			_	
-G			_	
-ἐμοὶ		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-G			_	
-καὶ		CONJ	_	
-τῇ			number=SINGULAR|gender=FEMININE|case=DATIVE	
+καὶ	καί	CONJ	_	
+τῇ	ὁ		number=SINGULAR|gender=FEMININE|case=DATIVE	
 ἐμεGGσαι			_	
-οὓς		PRON	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+οὓς	ὅς	PRON	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
 φιSU			_	
 Gν			_	
-φιλοῦντα		VB	tense=PR|mood=PARTICIPLE|voice=ACTIVE|degree=POSITIVE	
+φιλοῦντα	φιλέω	VB	tense=PR|mood=PARTICIPLE|voice=ACTIVE|degree=POSITIVE	
 G			_	
 GGωμGG			_	
-μὴ		CONJ	_	
+μὴ	μή	CONJ	_	
 ὀκνηςGG			_	
 θειν			_	
-ἄσπασαι		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE	
-Γάιον		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+ἄσπασαι	ἀσπάζομαι	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE	
+ἈGG			_	
+SUλέξανδρον	Ἀλέξανδρος	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+καὶ	καί	CONJ	_	
+ΒαρG	ΒαρG	NN	_	
+GGGεG			_	
+G			_	
+G			_	
+καὶ	καί	CONJ	_	
+ειδG			_	
+νεκται			_	
+ὅτι	ὅτιCONJ	_	
+GGGομαι	GGGομαι	VB	person=PERSON_1|number=SINGULAR	
+ἄδελφε	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+μὴ	μή	CONJ	_	
+ἀμελήσῃς	ἀμελέω	VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+γράψαι	γράφω	VB	mood=INFINITIVE|voice=ACTIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+πῶς	πῶςADV	_	
+ἔσχηκες	ἔχω	VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	

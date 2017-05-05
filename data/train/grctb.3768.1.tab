@@ -1,16 +1,17 @@
-ἔρρωσο		VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE	
-ἀσπάζεται		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE	
-ὑμᾶς		PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
-Ἀρτέμεις		NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-Μάξιμος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-Κασσιανῷ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-τῷ			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-γαμβρῷ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-καὶ		CONJ	_	
-ἀδελφῷ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-χαίρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-ἀσπάζου		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
-πάντας		ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-τοὺς			number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-φιλοῦντας		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
-ἡμᾶς		PRON	person=PERSON_1|number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+ἔρρωσο	ῥώννυμι	VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE	
+ἄσπασαί	ἀσπάζομαι	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE	
+σου	σύ	PRON	person=PERSON_2|number=SINGULAR|case=GENITIVE	
+τὴν	ὁ		number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+θυγατέρα	θυγάτηρ	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+Μάξιμος	Μάξιμος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Κασσιανῷ	Κασσιανός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+τῷ	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+γαμβρῷ	γαμβρός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+καὶ	καί	CONJ	_	
+ἀδελφῷ	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+χαίρειν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+ἀσπάζου	ἀσπάζομαι	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
+πάντας	πᾶς	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+τοὺς	ὁ		number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+φιλοῦντας	φιλέω	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
+ἡμᾶς	ἐγώ	PRON	person=PERSON_1|number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	

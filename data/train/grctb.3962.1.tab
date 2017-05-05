@@ -1,22 +1,13 @@
-ἔρρωσο		VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE	
-A		NN	gender=NEUTER	
-κη		NRL	_	
-Θῶυθ		NN	number=SINGULAR	
-γ		NRL	_	
-ἀπόστιλόν		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-πόσον		ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
-ἔχει		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-Πετευσοράπιος		NN	number=SINGULAR|gender=MASCULINE	
-καὶ		CONJ	_	
-ἀπὸ		PREP	_	
-ποίου		ADJ	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-χρόνου		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-ὁμοίως		ADJ	_	
-καὶ		CONJ	_	
-Κότταβος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-ὁμοίως		ADJ	_	
-καὶ		CONJ	_	
-Χεντοσνεύς		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-Πτολεμαίωι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-[0]		VB	voice=PASSIVE	
+Πτολεμαίωι	Πτολεμαῖος	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+[0]	[0]	VB	voice=PASSIVE	
+Ἀπολλώνιος	Ἀπολλώνιος	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Πτολεμαίωι	Πτολεμαῖος	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+τῷ	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+πατρὶ	πατήρ	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+χαίρειν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+[0]	[0]	VB	voice=PASSIVE	
+ἔρρωσο	ῥώννυμι	VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE	
+A	ἔτος	NN	gender=NEUTER	
+κη	NRL	_	
+Θῶυθ	Θῶυθ	NN	number=SINGULAR	
+γ	NRL	_	

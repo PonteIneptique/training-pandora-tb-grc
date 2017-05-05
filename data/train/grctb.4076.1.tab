@@ -1,37 +1,20 @@
-Πίσων		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-Ὡρίωνι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-καὶ		CONJ	_	
-Ζήνωνι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-τοῖς			number=PLURAL|gender=MASCULINE|case=DATIVE	
-ἀδελφοῖς		NN	number=PLURAL|gender=MASCULINE|case=DATIVE	
-πολλὰ		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-χαίρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-καλῶς		ADJ	_	
-ποιήσις		VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-Ὡρίων		NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-πέμψον		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-κολλήματα		NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-πέντε		NRL	_	
-χαρταρίων		NN	number=PLURAL|gender=NEUTER|case=GENITIVE	
-ἐπεὶ		CONJ	_	
-οὐκέτι		ADV	_	
-οὐδὲν		PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-ἔχω		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-κ-		CONJ	_	
-ἄγω		PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-ὁμολογήσω		VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-γράψαι		VB	mood=INFINITIVE|voice=ACTIVE	
-τὰ			number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-αὐτοῦ		PRON	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-ἐὰν		CONJ	_	
-προσενεχθῇ		VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=PASSIVE	
-καὶ		CONJ	_	
-δώσω		VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-αὐτά		PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-καὶ		CONJ	_	
-μίκκον		ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE|degree=POSITIVE	
-στημόνιν		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+Πίσων	Πίσων	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Ὡρίωνι	Ὡρίων	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+καὶ	καί	CONJ	_	
+Ζήνωνι	Ζήνων	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+τοῖς	ὁ		number=PLURAL|gender=MASCULINE|case=DATIVE	
+ἀδελφοῖς	ἀδελφός	NN	number=PLURAL|gender=MASCULINE|case=DATIVE	
+πολλὰ	πολύς	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+χαίρειν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+καὶ	καί	CONJ	_	
+μίκκον	μίκκος	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE|degree=POSITIVE	
+στημόνιν	στημόνιον	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
 GG			_	
+γινώσκιν	γιγνώσκω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+ὑμᾶς	σύ	PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
+θέλω	ἐθέλω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+ὅτι	ὅτιCONJ	_	
+προσδέχομαι	προσδέχομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+ὑμᾶς	σύ	PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
+εἰς	εἰς	PREP	_	
+καλάνδας	καλάνδαι	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	

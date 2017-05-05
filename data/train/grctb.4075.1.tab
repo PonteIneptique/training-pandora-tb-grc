@@ -1,43 +1,41 @@
-προσδέχομαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-ὑμᾶς		PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
-ἐν		PREP	_	
-ταῖς			number=PLURAL|gender=FEMININE|case=DATIVE	
-καSUάνδαις		NN	number=PLURAL|gender=FEMININE|case=DATIVE	
-μὴ		CONJ	_	
-ἀμελήσῃς		VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-πέμψον		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-διὰ		PREP	_	
-τοῦ			number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-ἀναδίδοντός		VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=GENITIVE	
-σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-τὴν			number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-ἐπιστολήν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-ἀσπάζομαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-ΠανίSUκον		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-καὶ		CONJ	_	
-Διόσκορον		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-καὶ		CONJ	_	
-Ψενοσῖριν		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-καὶ		CONJ	_	
-πάντας		ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-τοὺς			number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-συνστρατιώτας		NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-Πίσων		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-Ζήνωνι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-καὶ		CONJ	_	
-Ὡρίωνι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-τοῖς			number=PLURAL|gender=MASCULINE|case=DATIVE	
-ἀδελφοῖς		NN	number=PLURAL|gender=MASCULINE|case=DATIVE	
-πολλὰ		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-χαίρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-ἀσπάζεται		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE	
-Ἀσκληπιάδης		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-ἵνα		CONJ	_	
-οὖν		ADV	_	
-πέμψῃOM		VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-μίκκον		ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE|degree=POSITIVE	
-χαρτάριον		NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
-καὶ		CONJ	_	
-στημόνιν		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ἀσπάζομαι	ἀσπάζομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+ΠανίSUκον	Πανίσκος	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+καὶ	καί	CONJ	_	
+Διόσκορον	Διόσκορος	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+καὶ	καί	CONJ	_	
+Ψενοσῖριν	Ψενοσιρις	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+καὶ	καί	CONJ	_	
+πάντας	πᾶς	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+τοὺς	ὁ		number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+συνστρατιώτας	συστρατιώτης	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+ἀσπάζεται	ἀσπάζομαι	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE	
+Ἀσκληπιάδης	Ἀσκληπιάδης	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Πίσων	Πίσων	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Ζήνωνι	Ζήνων	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+καὶ	καί	CONJ	_	
+Ὡρίωνι	Ὡρίων	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+τοῖς	ὁ		number=PLURAL|gender=MASCULINE|case=DATIVE	
+ἀδελφοῖς	ἀδελφός	NN	number=PLURAL|gender=MASCULINE|case=DATIVE	
+πολλὰ	πολύς	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+χαίρειν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+ἵνα	ἵνα	CONJ	_	
+οὖν	οὖν	ADV	_	
+πέμψῃOM	πέμπω	VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+μίκκον	μίκκος	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE|degree=POSITIVE	
+χαρτάριον	χαρτάριον	NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+καὶ	καί	CONJ	_	
+στημόνιν	στημόνιον	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+πέμψον	πέμπω	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+διὰ	διά	PREP	_	
+τοῦ	ὁ		number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+ἀναδίδοντός	ἀναδίδωμι	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=GENITIVE	
+σοι	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+τὴν	ὁ		number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+ἐπιστολήν	ἐπιστολή	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+Ὡρίωνι	Ὡρίων	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+ταῦτα	οὗτος	PRON	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
+λέγω	λέγωVB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+μὴ	μή	CONJ	_	
+ἀμελήσῃς	ἀμελέω	VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	

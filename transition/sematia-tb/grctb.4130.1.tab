@@ -1,54 +1,54 @@
-1	Gλίῳ	G	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-2	τῷ			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-3	φιλτάτῳ		ADJ	number=SINGULAR|gender=MASCULINE|case=DATIVE|degree=SUPERLATIVE	
-4	χαίρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-1	πρὸ		PREP	_	
-2	μὲν		ADV	_	
-3	πάντων		ADJ	number=PLURAL|gender=NEUTER|case=GENITIVE	
-4	εὔχομαί		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-5	σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
-6	ὑγιαίνειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-7	καὶ		CONJ	_	
-8	ὁλοκληρεῖν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-9	ἄδελφε		NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-10	καὶ		CONJ	_	
-11	κύριε		NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-12	σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
-1	μή		CONJ	_	
-2	μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-3	μέμφου		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
+1	Gλίῳ	Gλίῳ	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+2	τῷ	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+3	φιλτάτῳ	φίλτατος	ADJ	number=SINGULAR|gender=MASCULINE|case=DATIVE|degree=SUPERLATIVE	
+4	χαίρειν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+1	πρὸ	πρό	PREP	_	
+2	μὲν	μέν	ADV	_	
+3	πάντων	πᾶς	ADJ	number=PLURAL|gender=NEUTER|case=GENITIVE	
+4	εὔχομαί	εὔχομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+5	σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+6	ὑγιαίνειν	ὑγιαίνω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+7	καὶ	καί	CONJ	_	
+8	ὁλοκληρεῖν	ὁλοκληρέω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+9	ἄδελφε	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+10	καὶ	καί	CONJ	_	
+11	κύριε	κύριος	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+12	σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+1	μή	μή	CONJ	_	
+2	μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+3	μέμφου	μέμφομαι	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
 4	G			_	
-5	περὶ		PREP	_	
-6	τῶν			number=PLURAL|gender=NEUTER|case=GENITIVE	
-7	κεραμίων		NN	number=PLURAL|gender=NEUTER|case=GENITIVE	
+5	περὶ	περί	PREP	_	
+6	τῶν	ὁ		number=PLURAL|gender=NEUTER|case=GENITIVE	
+7	κεραμίων	κεράμιον	NN	number=PLURAL|gender=NEUTER|case=GENITIVE	
 8	αν			_	
 9	G			_	
-10	πάντῃ		ADV	_	
-11	πάντως		ADV	_	
-12	αὔριον		ADV	_	
+10	πάντῃ	πάντῃ	ADV	_	
+11	πάντως	πάντως	ADV	_	
+12	αὔριον	αὔριον	ADV	_	
 13	GG			_	
-14	ἔρχεται		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE	
-1	πέμψω		VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-2	σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+14	ἔρχεται	ἔρχομαι	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE	
+1	πέμψω	πέμπω	VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+2	σοι	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
 3	G	G	VB	_	
-4	αὐτῶν		PRON	number=PLURAL|gender=NEUTER|case=GENITIVE	
-5	ἕκτῃ		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-6	καὶ		CONJ	_	
+4	αὐτῶν	αὐτός	PRON	number=PLURAL|gender=NEUTER|case=GENITIVE	
+5	ἕκτῃ	ἕκτη	NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
+6	καὶ	καί	CONJ	_	
 7	G	G	VB	_	
-8	οὐ		ADV	_	
-9	μὴ		CONJ	_	
-10	ἄλλως		ADV	_	
+8	οὐ	οὐ	ADV	_	
+9	μὴ	μή	CONJ	_	
+10	ἄλλως	ἄλλως	ADV	_	
 1	G			_	
-2	μή		CONJ	_	
-3	μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-4	μέμφου		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
-1	ἐρρῶσθαί		VB	tense=PERF|mood=INFINITIVE	
-2	σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
-3	εὔχομαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-4	μετὰ		PREP	_	
-5	τοῦ			number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-6	ἀβασκάντου		ADJ	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-7	σου		PRON	person=PERSON_2|number=SINGULAR|case=GENITIVE	
-8	ἵππου		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+2	μή	μή	CONJ	_	
+3	μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+4	μέμφου	μέμφομαι	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
+1	ἐρρῶσθαί	ῥώννυμι	VB	tense=PERF|mood=INFINITIVE	
+2	σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+3	εὔχομαι	εὔχομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+4	μετὰ	μετά	PREP	_	
+5	τοῦ	ὁ		number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+6	ἀβασκάντου	ἀβάσκαντος	ADJ	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+7	σου	σύ	PRON	person=PERSON_2|number=SINGULAR|case=GENITIVE	
+8	ἵππου	ἵππος	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
 1	Gρι			_	
 2	Gερω			_	

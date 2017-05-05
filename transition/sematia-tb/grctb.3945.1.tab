@@ -1,24 +1,24 @@
 1	G			_	
 2	GG			_	
-3	Ἀμμωνιανῷ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-4	καὶ		CONJ	_	
-5	Πετοσίρει		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-6	καὶ		CONJ	_	
-7	Πανίσκῳ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-8	ἀμφοτέροις		ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE	
-9	τοῖς			number=PLURAL|gender=MASCULINE|case=DATIVE	
-10	φιλτάτοις		ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE	
-11	καὶ		CONJ	_	
-12	τιμιωτάτοις		ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE|degree=SUPERLATIVE	
-13	πολλὰ		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-14	χαίρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-1	ἐκομισάμην		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE	
-2	τεμάχια		NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-3	ϛ		NRL	_	
-4	ἀπὸ		PREP	_	
+3	Ἀμμωνιανῷ	Ἀμμωνιανός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+4	καὶ	καί	CONJ	_	
+5	Πετοσίρει	Πετοσιρις	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+6	καὶ	καί	CONJ	_	
+7	Πανίσκῳ	Πανίσκος	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+8	ἀμφοτέροις	ἀμφότερος	ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE	
+9	τοῖς	ὁ		number=PLURAL|gender=MASCULINE|case=DATIVE	
+10	φιλτάτοις	φίλτατος	ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE	
+11	καὶ	καί	CONJ	_	
+12	τιμιωτάτοις	τίμιος	ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE|degree=SUPERLATIVE	
+13	πολλὰ	πολύς	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+14	χαίρειν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+1	ἐκομισάμην	κομίζω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE	
+2	τεμάχια	τεμάχιον	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+3	ϛ	6	NRL	_	
+4	ἀπὸ	ἀπό	PREP	_	
 5	ΝαGGις			_	
-1	ἐκομισάμην		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE	
-2	τεμάχια		NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+1	ἐκομισάμην	κομίζω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE	
+2	τεμάχια	τεμάχιον	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
 3	G			_	
-4	παρὰ		PREP	_	
-5	Πανίσκου		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+4	παρὰ	παρά	PREP	_	
+5	Πανίσκου	Πανίσκος	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	

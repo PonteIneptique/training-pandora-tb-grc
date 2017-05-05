@@ -1,29 +1,29 @@
-Μενέλαος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-Μενελάῳ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-χA		VB	_	
-καλῶς		ADV	degree=POSITIVE	
-ποιήσις		VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-ἐρωτῶ		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
-ἐπὶ		CONJ	_	
-διεπάγη		VB	person=PERSON_3|number=SINGULAR|mood=INDICATIVE|voice=PASSIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-ῥώδινον		ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE|degree=POSITIVE	
-καλο͂ς		ADV	degree=POSITIVE	
-ποιήσις		VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-πέμψας		VB	number=SINGULAR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-τὸ			number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-λοικυθιν		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-ἐπὶ		CONJ	_	
-οὐχ		ADV	_	
-εὗρων		VB	number=SINGULAR|voice=ACTIVE	
-ἐνθάδε		ADV	_	
-ἀγοράσαι		VB	mood=INFINITIVE|voice=ACTIVE	
-δώσις		VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-δὲ		ADV	_	
-το			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-κομίζωντί		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=DATIVE|degree=POSITIVE	
-σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-τὴν			number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-ἐπισστολήν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+δώσις	δίδωμι	VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+δὲ	δέ	ADV	_	
+το	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+κομίζωντί	κομίζω	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=DATIVE|degree=POSITIVE	
+σοι	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+τὴν	ὁ		number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+ἐπισστολήν	ἐπιστολή	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+Μενέλαος	Μενέλαος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Μενελάῳ	Μενέλαος	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+χA	χαίρω	VB	_	
+καλῶς	καλῶς	ADV	degree=POSITIVE	
+ποιήσις	ποιέω	VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+ἐρωτῶ	ἐρωτάω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+ἐπὶ	ἐπεί	CONJ	_	
+διεπάγη	διαρπάζω	VB	person=PERSON_3|number=SINGULAR|mood=INDICATIVE|voice=PASSIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+ῥώδινον	ῥόδινος	ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE|degree=POSITIVE	
+καλο͂ς	καλῶς	ADV	degree=POSITIVE	
+ποιήσις	ποιέω	VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+πέμψας	πέμπω	VB	number=SINGULAR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+τὸ	ὁ		number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+λοικυθιν	ληκύθιον	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ἐπὶ	ἐπεί	CONJ	_	
+οὐχ	οὐ	ADV	_	
+εὗρων	εὑρίσκω	VB	number=SINGULAR|voice=ACTIVE	
+ἐνθάδε	ἐνθάδε	ADV	_	
+ἀγοράσαι	ἀγοράζω	VB	mood=INFINITIVE|voice=ACTIVE	

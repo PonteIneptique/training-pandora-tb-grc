@@ -1,35 +1,35 @@
-1	Ἀπολλῶς		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-2	Μικκάλου		NN	number=SINGULAR	
-3	τῇ			number=SINGULAR|gender=FEMININE|case=DATIVE	
-4	ἀδελφῇ		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-5	χαίριν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-1	ἀνακαῖον		ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE|degree=POSITIVE	
-2	ἡγησάμην		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE	
-3	εἰς		PREP	_	
-4	Ῥαειμα		NN	case=ACCUSATIVE	
-5	γεναναμενες		VB	_	
-6	ἀσπάσεσται		VB	_	
-7	σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
-1	ὅς		CONJ	_	
-2	σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-3	ἐντέταλμαι		VB	person=PERSON_1|number=SINGULAR|tense=PERF|mood=INDICATIVE	
-4	ἔπεχε		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE|voice=ACTIVE	
-1	πρὸς		PREP	_	
-2	μηδένα		PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-3	συνζήτι		VB	_	
-4	κ-		CONJ	_	
-5	αἰγὼ		PRON	number=SINGULAR|case=NOMINATIVE	
-6	δὲ		ADV	_	
-7	μεριμνῶ		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-8	σου		PRON	person=PERSON_2|number=SINGULAR|case=GENITIVE	
-1	ὥς		CONJ	_	
-2	σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-3	ἀπεταξάμην		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE	
-4	μηδὲν		PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-5	λοιποῦ		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
-1	ἀσπάζου		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
-2	Ἀπλονοῦν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-3	ἀσπάζεταί		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE	
-4	σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
-5	Φῆστος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-1	ἐρροσω		VB	_	
+1	Ἀπολλῶς	Ἀπολλῶς	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+2	Μικκάλου	Μικκάλου	NN	number=SINGULAR	
+3	τῇ	ὁ		number=SINGULAR|gender=FEMININE|case=DATIVE	
+4	ἀδελφῇ	ἀδελφή	NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
+5	χαίριν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+1	ἀνακαῖον	ἀναγκαῖος	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE|degree=POSITIVE	
+2	ἡγησάμην	ἡγέομαι	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE	
+3	εἰς	εἰς	PREP	_	
+4	Ῥαειμα	Ῥαειμα	NN	case=ACCUSATIVE	
+5	γεναναμενες	γίγνομαι	VB	_	
+6	ἀσπάσεσται	ἀσπάζομαι	VB	_	
+7	σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+1	ὅς	ὡς	CONJ	_	
+2	σοι	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+3	ἐντέταλμαι	ἐντέλλω	VB	person=PERSON_1|number=SINGULAR|tense=PERF|mood=INDICATIVE	
+4	ἔπεχε	ἐπέχω	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE|voice=ACTIVE	
+1	πρὸς	πρός	PREP	_	
+2	μηδένα	μηδείς	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+3	συνζήτι	συζητέω	VB	_	
+4	κ-	καί	CONJ	_	
+5	αἰγὼ	ἐγώ	PRON	number=SINGULAR|case=NOMINATIVE	
+6	δὲ	δέ	ADV	_	
+7	μεριμνῶ	μεριμνάω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+8	σου	σύ	PRON	person=PERSON_2|number=SINGULAR|case=GENITIVE	
+1	ὥς	ὡς	CONJ	_	
+2	σοι	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+3	ἀπεταξάμην	ἀποτάσσω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE	
+4	μηδὲν	μηδείς	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+5	λοιποῦ	λυπέω	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
+1	ἀσπάζου	ἀσπάζομαι	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
+2	Ἀπλονοῦν	Ἀπολλωνοῦς	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+3	ἀσπάζεταί	ἀσπάζομαι	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE	
+4	σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+5	Φῆστος	Φῆστος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+1	ἐρροσω	ῥώννυμι	VB	_	

@@ -1,68 +1,68 @@
-1	Φίρμος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-2	Ἐξόχῳ		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-3	τῶι			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-4	ἀδελφῷ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-5	πλεῖστα		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-6	χαίρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-1	ἤκουσα		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-2	ὅτι		CONJ	_	
-3	εἰς		PREP	_	
-4	Πορφυρίτην		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-5	ὑπάγεις		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-1	δὸς		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-2	τὸν			number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-3	σῖτον		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-4	μου		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-5	Μεσκηνίῳ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-6	καὶ		CONJ	_	
-7	τὸν			number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-8	χαλκὸν		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-9	παρὰ		PREP	_	
-10	τῆς			number=SINGULAR|gender=FEMININE|case=GENITIVE	
-11	γυναικὸς		NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-12	Τασαλεος		NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-13	δὸς		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-14	αὐτῷ		PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-15	πάλι		ADV	_	
-1	ἰδοὺ		ADV	_	
-2	παράστησον		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-3	αὐτῷ		PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+1	Φίρμος	Φίρμος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+2	Ἐξόχῳ	Ἐξόχος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+3	τῶι	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+4	ἀδελφῷ	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+5	πλεῖστα	πλεῖστος	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+6	χαίρειν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+1	ἤκουσα	ἀκούω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+2	ὅτι	ὅτι2	CONJ	_	
+3	εἰς	εἰς	PREP	_	
+4	Πορφυρίτην	Πορφυρίτης	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+5	ὑπάγεις	ὑπάγω	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+1	δὸς	δίδωμι	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+2	τὸν	ὁ		number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+3	σῖτον	σῖτος	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+4	μου	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+5	Μεσκηνίῳ	Μεσκηνίος	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+6	καὶ	καί	CONJ	_	
+7	τὸν	ὁ		number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+8	χαλκὸν	χαλκός	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+9	παρὰ	παρά	PREP	_	
+10	τῆς	ὁ		number=SINGULAR|gender=FEMININE|case=GENITIVE	
+11	γυναικὸς	γυνή	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+12	Τασαλεος	Τασαλις	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+13	δὸς	δίδωμι	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+14	αὐτῷ	αὐτός	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+15	πάλι	πάλιν	ADV	_	
+1	ἰδοὺ	ἰδού	ADV	_	
+2	παράστησον	παρίστημι	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+3	αὐτῷ	αὐτός	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
 4	GινGGGκα			_	
 5	σι			_	
-6	μου		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-7	δὸς		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-8	αὐτῷ		PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-9	ὡς		CONJ	_	
-10	ἔστι		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-1	ἀσπάζου		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
-2	μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-3	Ἀμαρανθὸν		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-4	πολλὰ		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-5	καὶ		CONJ	_	
-6	Μεσκήνιον		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-7	καὶ		CONJ	_	
-8	Βαραθον		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-9	καὶ		CONJ	_	
-10	τοὺς			number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-11	συγκελλαρίους		NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-12	αὐτοῦ		PRON	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-13	κατʼ		PREP	_	
-14	ὄνομα		NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
-15	καὶ		CONJ	_	
-16	Ἀμαρουραν		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-17	καὶ		CONJ	_	
-18	Λοῦππον		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-19	καὶ		CONJ	_	
-20	τὸν			number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-21	συμπολίτην		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-22	ἡμῶν		PRON	person=PERSON_1|number=PLURAL|gender=MASCULINE|case=GENITIVE	
-23	καὶ		CONJ	_	
-24	πάντας		ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-25	τοὺς			number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-26	φιλοῦντας		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
-27	ἡμᾶς		PRON	person=PERSON_1|number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-1	ἀσπάζεταί		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE	
-2	σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-3	Ἀλέξανδρος		ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-4	καὶ		CONJ	_	
-5	Μεσκηνίῳ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+6	μου	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+7	δὸς	δίδωμι	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+8	αὐτῷ	αὐτός	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+9	ὡς	ὡς	CONJ	_	
+10	ἔστι	εἰμί	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+1	ἀσπάζου	ἀσπάζομαι	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
+2	μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+3	Ἀμαρανθὸν	Ἀμάραντος	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+4	πολλὰ	πολύς	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+5	καὶ	καί	CONJ	_	
+6	Μεσκήνιον	Μεσκηνίος	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+7	καὶ	καί	CONJ	_	
+8	Βαραθον	Βαραθης	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+9	καὶ	καί	CONJ	_	
+10	τοὺς	ὁ		number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+11	συγκελλαρίους	συγκελλάριος	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+12	αὐτοῦ	αὐτός	PRON	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+13	κατʼ	κατά	PREP	_	
+14	ὄνομα	ὄνομα	NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+15	καὶ	καί	CONJ	_	
+16	Ἀμαρουραν	Ἀμαρουρας	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+17	καὶ	καί	CONJ	_	
+18	Λοῦππον	Λοῦππος	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+19	καὶ	καί	CONJ	_	
+20	τὸν	ὁ		number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+21	συμπολίτην	συμπολίτης	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+22	ἡμῶν	ἐγώ	PRON	person=PERSON_1|number=PLURAL|gender=MASCULINE|case=GENITIVE	
+23	καὶ	καί	CONJ	_	
+24	πάντας	πᾶς	ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+25	τοὺς	ὁ		number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+26	φιλοῦντας	φιλέω	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
+27	ἡμᾶς	ἐγώ	PRON	person=PERSON_1|number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+1	ἀσπάζεταί	ἀσπάζομαι	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE	
+2	σοι	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+3	Ἀλέξανδρος	ἀλέξανδρος	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+4	καὶ	καί	CONJ	_	
+5	Μεσκηνίῳ	Μεσκηνίος	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	

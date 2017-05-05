@@ -1,34 +1,34 @@
-Ἁρπαήσιος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-ὁ			number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-κιβαριάτης		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-εἴρηκέ		VB	person=PERSON_3|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-ὅτι		CONJ	_	
-ἐπιστολὴν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-ἔλαβα		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-ἀπὸ		PREP	_	
-τῆς			number=SINGULAR|gender=FEMININE|case=GENITIVE	
-γυναικός		NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-μου		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-εἰς		PREP	_	
-τὴν			number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-Καμπήν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-πέμψεις		VB	voice=ACTIVE	
-Ἀμμώνις		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-Ἀπολλωνίωι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-τῷ			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-συνπολίτῃ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-καὶ		CONJ	_	
-ἀδελφῷ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-χA		VB	_	
-ἐρωτῶ		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
-πέμψεις		VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-αὐτήν		PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-ἀσA		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-τοὺς			number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-παρʼ		PREP	_	
-ἡμῶν		PRON	person=PERSON_1|number=PLURAL|gender=MASCULINE|case=GENITIVE	
-πάντες		ADJ	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+ἀσA	ἀσπάζομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+τοὺς	ὁ		number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+παρʼ	παρά	PREP	_	
+ἡμῶν	ἐγώ	PRON	person=PERSON_1|number=PLURAL|gender=MASCULINE|case=GENITIVE	
+πάντες	πᾶς	ADJ	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+Ἁρπαήσιος	Ἁρπαησις	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+ὁ	ὁ		number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+κιβαριάτης	κιβαριάτης	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+εἴρηκέ	ἐρῶ	VB	person=PERSON_3|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+ὅτι	ὅτιCONJ	_	
+ἐπιστολὴν	ἐπιστολή	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+ἔλαβα	λαμβάνω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+ἀπὸ	ἀπό	PREP	_	
+τῆς	ὁ		number=SINGULAR|gender=FEMININE|case=GENITIVE	
+γυναικός	γυνή	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+μου	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+εἰς	εἰς	PREP	_	
+τὴν	ὁ		number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+Καμπήν	Καμπή	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+πέμψεις	πέμπω	VB	voice=ACTIVE	
+ἐρωτῶ	ἐρωτάω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+πέμψεις	πέμπω	VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+αὐτήν	αὐτός	PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+Ἀμμώνις	Ἀμμώνιος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Ἀπολλωνίωι	Ἀπολλώνιος	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+τῷ	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+συνπολίτῃ	συμπολίτης	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+καὶ	καί	CONJ	_	
+ἀδελφῷ	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+χA	χαίρω	VB	_	

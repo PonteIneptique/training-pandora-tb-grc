@@ -1,15 +1,15 @@
-πέμψεις		VB	person=PERSON_2|number=SINGULAR|voice=ACTIVE	
-οὖν		ADV	_	
-ἐπʼ		PREP	_	
-αὐτά		PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-ἐὰν		CONJ	_	
-αὐτῶν		PRON	number=PLURAL|gender=NEUTER|case=GENITIVE	
-χρήσῃ		VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE	
-καὶ		CONJ	_	
-τὸν			number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-χαλκόν		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-Ἀντωνίνῳ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-ἑκατοντάρχῃ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-Κλήμης		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-κουράτωρ		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-χαίρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+Ἀντωνίνῳ	Ἀντωνῖνος	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+ἑκατοντάρχῃ	ἑκατοντάρχης	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+Κλήμης	Κλήμης	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+κουράτωρ	κουράτωρ	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+χαίρειν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+πέμψεις	πέμπω	VB	person=PERSON_2|number=SINGULAR|voice=ACTIVE	
+οὖν	οὖν	ADV	_	
+ἐπʼ	ἐπί	PREP	_	
+αὐτά	αὐτός	PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+ἐὰν	ἐάν	CONJ	_	
+αὐτῶν	αὐτός	PRON	number=PLURAL|gender=NEUTER|case=GENITIVE	
+χρήσῃ	χράωVB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE	
+καὶ	καί	CONJ	_	
+τὸν	ὁ		number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+χαλκόν	χαλκός	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	

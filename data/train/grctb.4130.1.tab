@@ -1,50 +1,44 @@
-Gρι			_	
-Gερω			_	
-Gλίῳ	G	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-τῷ			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-φιλτάτῳ		ADJ	number=SINGULAR|gender=MASCULINE|case=DATIVE|degree=SUPERLATIVE	
-χαίρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-πέμψω		VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-G	G	VB	_	
-αὐτῶν		PRON	number=PLURAL|gender=NEUTER|case=GENITIVE	
-ἕκτῃ		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-καὶ		CONJ	_	
-G	G	VB	_	
-οὐ		ADV	_	
-μὴ		CONJ	_	
-ἄλλως		ADV	_	
-πρὸ		PREP	_	
-μὲν		ADV	_	
-πάντων		ADJ	number=PLURAL|gender=NEUTER|case=GENITIVE	
-εὔχομαί		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
-ὑγιαίνειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-καὶ		CONJ	_	
-ὁλοκληρεῖν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-ἄδελφε		NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-καὶ		CONJ	_	
-κύριε		NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
-μή		CONJ	_	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-μέμφου		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
+πρὸ	πρό	PREP	_	
+μὲν	μέν	ADV	_	
+πάντων	πᾶς	ADJ	number=PLURAL|gender=NEUTER|case=GENITIVE	
+εὔχομαί	εὔχομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+ὑγιαίνειν	ὑγιαίνω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+καὶ	καί	CONJ	_	
+ὁλοκληρεῖν	ὁλοκληρέω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+ἄδελφε	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+καὶ	καί	CONJ	_	
+κύριε	κύριος	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+Gλίῳ	Gλίῳ	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+τῷ	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+φιλτάτῳ	φίλτατος	ADJ	number=SINGULAR|gender=MASCULINE|case=DATIVE|degree=SUPERLATIVE	
+χαίρειν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+μή	μή	CONJ	_	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+μέμφου	μέμφομαι	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
 G			_	
-περὶ		PREP	_	
-τῶν			number=PLURAL|gender=NEUTER|case=GENITIVE	
-κεραμίων		NN	number=PLURAL|gender=NEUTER|case=GENITIVE	
+περὶ	περί	PREP	_	
+τῶν	ὁ		number=PLURAL|gender=NEUTER|case=GENITIVE	
+κεραμίων	κεράμιον	NN	number=PLURAL|gender=NEUTER|case=GENITIVE	
 αν			_	
 G			_	
-πάντῃ		ADV	_	
-πάντως		ADV	_	
-αὔριον		ADV	_	
+πάντῃ	πάντῃ	ADV	_	
+πάντως	πάντως	ADV	_	
+αὔριον	αὔριον	ADV	_	
 GG			_	
-ἔρχεται		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE	
-ἐρρῶσθαί		VB	tense=PERF|mood=INFINITIVE	
-σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
-εὔχομαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-μετὰ		PREP	_	
-τοῦ			number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-ἀβασκάντου		ADJ	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-σου		PRON	person=PERSON_2|number=SINGULAR|case=GENITIVE	
-ἵππου		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+ἔρχεται	ἔρχομαι	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE	
+Gρι			_	
+Gερω			_	
+G			_	
+μή	μή	CONJ	_	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+μέμφου	μέμφομαι	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
+ἐρρῶσθαί	ῥώννυμι	VB	tense=PERF|mood=INFINITIVE	
+σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+εὔχομαι	εὔχομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+μετὰ	μετά	PREP	_	
+τοῦ	ὁ		number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+ἀβασκάντου	ἀβάσκαντος	ADJ	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+σου	σύ	PRON	person=PERSON_2|number=SINGULAR|case=GENITIVE	
+ἵππου	ἵππος	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	

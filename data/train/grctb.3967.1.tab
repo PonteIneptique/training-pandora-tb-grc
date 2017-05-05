@@ -1,27 +1,27 @@
-μερίζεται		VB	tense=PR	
-αὐτά		PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-πρὸ		PREP	_	
-μὲν		ADV	_	
-πάντων		ADJ	number=PLURAL|gender=NEUTER|case=GENITIVE	
-εὔχομαOM		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-ὑμων		PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
-υγιαινων		VB	tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE	
-κομισον		VB	person=PERSON_2|number=PLURAL|mood=IMPERATIVE|voice=ACTIVE	
-παρὰ		ADJ	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
-Διοσκορος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-δεσμην		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-γ		NRL	gender=FEMININE|case=ACCUSATIVE	
+κομισον	κομίζω	VB	person=PERSON_2|number=PLURAL|mood=IMPERATIVE|voice=ACTIVE	
+παρὰ	πηρός	ADJ	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
+Διοσκορος	Διόσκορος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+δεσμην	δέσμη	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+γ	NRL	gender=FEMININE|case=ACCUSATIVE	
 λαχαGολGG			_	
-ἐρωτῶ		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-ὑμᾶς		PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
+μερίζεται	μερίζω	VB	tense=PR	
+αὐτά	αὐτός	PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+ἐρωτῶ	ἐρωτάω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+ὑμᾶς	σύ	PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
 πGG			_	
 SUένψεις			_	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-δεμάχια		NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+δεμάχια	τεμάχιον	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
 σπουSU			_	
 GG			_	
 SUὐκ			_	
-ἔχω		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-ἐρρῶσθαί		VB	tense=PERF|mood=INFINITIVE	
-σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
-εὔχSU		VB	_	
+ἔχω	ἔχω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+ἐρρῶσθαί	ῥώννυμι	VB	tense=PERF|mood=INFINITIVE	
+σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+εὔχSU	εὔχομαι	VB	_	
+πρὸ	πρό	PREP	_	
+μὲν	μέν	ADV	_	
+πάντων	πᾶς	ADJ	number=PLURAL|gender=NEUTER|case=GENITIVE	
+εὔχομαOM	εὔχομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+ὑμων	σύ	PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+υγιαινων	ὑγιαίνω	VB	tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE	

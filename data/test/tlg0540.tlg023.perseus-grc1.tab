@@ -1,72 +1,89 @@
-καίτοι		ADV	_	
-οἶμαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-εἰδέναι		VB	tense=PERF|mood=INFINITIVE|voice=ACTIVE	
-ὑμᾶς		PRON	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-ὅτι		CONJ	_	
-εἴπερ		CONJ	_	
-ἦν		VB	person=PERSON_3|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
-Πλαταιεύς		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-πανταχοῦ		ADV	_	
-μᾶλλον		ADV	_	
-ἢ		CONJ	_	
-Θήβησιν		ADV	_	
-εἰκὸς		VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=ACTIVE|gender=NEUTER|case=NOMINATIVE	
-ἦν		VB	person=PERSON_3|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
-αὐτὸν		PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-μετοικῆσαι		VB	mood=INFINITIVE|voice=ACTIVE	
-Μάρτυρες		NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-εἰπόντος		VB	number=SINGULAR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=GENITIVE	
-δὲ		ADV	_	
-τούτου		PRON	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-ὅτι		CONJ	_	
-Πλαταιεὺς		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-εἴη		VB	person=PERSON_3|number=SINGULAR|tense=PR|voice=ACTIVE	
-ἠρόμην		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE	
-ὁπόθεν		ADV	_	
-δημοτεύοιτο		VB	person=PERSON_3|number=SINGULAR|tense=PR	
-παραινέσαντός		VB	number=SINGULAR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=GENITIVE	
-τινος		PRON	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-τῶν			number=PLURAL|gender=MASCULINE|case=GENITIVE	
-παρόντων		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=GENITIVE	
-προσκαλέσασθαι		VB	mood=INFINITIVE	
-καὶ		ADV	_	
-πρὸς		PREP	_	
-τὴν			number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-φυλήν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-ἧστινος		PRON	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-εἶναι		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-σκήπτοιτο		VB	person=PERSON_3|number=SINGULAR|tense=PR	
-ῥᾴδιον		ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
-τοίνυν		ADV	_	
-εἰδέναι		VB	tense=PERF|mood=INFINITIVE|voice=ACTIVE	
-ὅτι		CONJ	_	
-οὐδ̓		ADV	_	
-αὐτὸς		ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-Παγκλέων		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-νομίζει		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-ἑαυτὸν		PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-μὴ		ADV	_	
-ὅτι		CONJ	_	
-Πλαταιέα		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-εἶναι		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-ἀλλ̓		CONJ	_	
-οὐδ̓		ADV	_	
-ἐλεύθερον		ADJ	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-ἐστιν		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-πολλὰ		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-μὲν		ADV	_	
-λέγειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-ὦ			_	
-ἄνδρες		NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
-δικασταί		NN	number=PLURAL|gender=MASCULINE|case=VOCATIVE	
-περὶ		PREP	_	
-τουτουὶ		ADJ	number=SINGULAR|gender=NEUTER|case=GENITIVE	
-τοῦ			number=SINGULAR|gender=NEUTER|case=GENITIVE	
-πράγματος		NN	number=SINGULAR|gender=NEUTER|case=GENITIVE	
-οὔτ̓		ADV	_	
-ἂν		ADV	_	
-δυναίμην		VB	person=PERSON_1|number=SINGULAR|tense=PR	
-οὔτε		CONJ	_	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-δοκεῖ		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-δεῖν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+ἐφ̓	ἐπί	PREP	_	
+οἷς	ὅς	PRON	number=PLURAL|gender=NEUTER|case=DATIVE	
+μὲν	μέν	ADV	_	
+οὖν	οὖν	ADV	_	
+ἐξηγγυήθη	ἐξεγγυάω	VB	person=PERSON_3|number=SINGULAR|mood=INDICATIVE|voice=PASSIVE	
+οὔτε	οὐτε	ADV	_	
+ἀδελφὸς	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+οὔτε	οὐτε	CONJ	_	
+ἄλλος	ἄλλος	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+οὐδεὶς	οὐδείς	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+ἦλθε	ἔρχομαι	VB	person=PERSON_3|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+γυνὴ	γυνή	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+δὲ	δέ	CONJ	_	
+φάσκουσα	φάσκω	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=FEMININE|case=NOMINATIVE	
+αὑτῆς	ἑαυτοῦ	PRON	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+αὐτὸν	αὐτός	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+εἶναι	εἰμί	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+δοῦλον	δοῦλος	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+ἀμφισβητοῦσα	ἀμφισβητέω	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=FEMININE|case=NOMINATIVE	
+τῷ	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+Νικομήδει	Νικομήδης	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+καὶ	καί	CONJ	_	
+οὐκ	οὐ	ADV	_	
+ἔφη	φημί	VB	person=PERSON_3|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
+ἐάσειν	ἐάω	VB	tense=FUTURE|mood=INFINITIVE|voice=ACTIVE	
+αὐτὸν	αὐτός	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+ἄγειν	ἄγω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+καί	καί	ADV	_	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+ἐπίλαβε	ἐπιλαμβάνω	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+τὸ	ὁ		number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ὕδωρ	ὕδωρ	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ὅσα	ὅσος	ADJ	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
+μὲν	μέν	ADV	_	
+οὖν	οὖν	ADV	_	
+αὐτόθι	αὐτόθι	ADV	_	
+ἐρρήθη	ἐρῶ	VB	person=PERSON_3|number=SINGULAR|mood=INDICATIVE|voice=PASSIVE	
+πολὺς	πολύς	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+ἂν	ἄν	ADV	_	
+εἴη	εἰμί	VB	person=PERSON_3|number=SINGULAR|tense=PR|voice=ACTIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+λόγος	λόγος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+διηγεῖσθαι	διηγέομαι	VB	tense=PR|mood=INFINITIVE	
+τῇ	ὁ		number=SINGULAR|gender=FEMININE|case=DATIVE	
+δ̓	δέ	ADV	_	
+ὑστεραίᾳ	ὑστεραῖος	ADJ	number=SINGULAR|gender=FEMININE|case=DATIVE	
+τῆς	ὁ		number=SINGULAR|gender=FEMININE|case=GENITIVE	
+τε	τε	ADV	_	
+ἀντιγραφῆς	ἀντιγραφή	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+ἕνεκα	ἕνεκα	PREP	_	
+ταυτησὶ	οὗτος	ADJ	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+καὶ	καί	CONJ	_	
+αὐτῆς	αὐτός	ADJ	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+τῆς	ὁ		number=SINGULAR|gender=FEMININE|case=GENITIVE	
+δίκης	δίκη	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+ἔδοξέ	δοκέω	VB	person=PERSON_3|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+χρῆναι	χρή	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+μάρτυρας	μάρτυς	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+λαβόντι	λαμβάνω	VB	number=SINGULAR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=DATIVE	
+παραγενέσθαι	παραγίγνομαι	VB	mood=INFINITIVE	
+ἵν̓	ἵνα	CONJ	_	
+εἰδείην	οἶδα	VB	person=PERSON_1|number=SINGULAR|tense=PERF|voice=ACTIVE	
+τόν	ὅς	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+τ̓	τε	ADV	_	
+ἐξαιρησόμενον	ἐξαιρέω	VB	number=SINGULAR|tense=FUTURE|mood=PARTICIPLE|gender=MASCULINE|case=ACCUSATIVE	
+αὐτὸν	αὐτός	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+καὶ	καί	CONJ	_	
+ὅ	ὅς	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+τι	τις	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+λέγων	λέγω	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+ἀφαιρήσοιτο	ἀφαιρέω	VB	person=PERSON_3|number=SINGULAR|tense=FUTURE	
+ἐὰν	ἐάν	CONJ	_	
+γὰρ	γάρ	ADV	_	
+διαμνημονεύητε	διαμνημονεύω	VB	person=PERSON_2|number=PLURAL|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
+οἶδ̓	οἶδα	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+ὅτι	ὅτι	CONJ	_	
+τά	ὁ		number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+τε	τε	ADV	_	
+δίκαια	δίκαιος	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+καὶ	καί	CONJ	_	
+τ-	ὁ		number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+ἀληθῆ	ἀληθής	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+ψηφιεῖσθε	ψηφίζομαι	VB	person=PERSON_2|number=PLURAL|tense=FUTURE|mood=INDICATIVE	
+ἃ	ὅς	PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+καὶ	καί	ADV	_	
+ἐγὼ	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+ὑμῶν	σύ	PRON	number=PLURAL|gender=MASCULINE|case=GENITIVE	
+δέομαι	δέω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	

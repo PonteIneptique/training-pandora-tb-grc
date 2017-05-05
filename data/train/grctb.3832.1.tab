@@ -1,20 +1,16 @@
-ἔρρωσο		VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE	
-ἐὰν		CONJ	_	
-θέλεις		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-δώσεις		VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-τὸν			number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-χαλκὸν		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-τῷ			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-διδόντι		VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=DATIVE	
-σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-τὸ			number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-ἐπιστόλιν		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-G			_	
-ἐν		PREP	_	
-οὐσίᾳ		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-μG			_	
-δεκαπέντε		NRL	_	
-στατῆρεςG		NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-ἐμοῦ		ADJ	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-ἀνὰ		PREP	_	
-ὀκτώ		NRL	_	
+ἔρρωσο	ῥώννυμι	VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE	
+Ἀντωνίνῳ	Ἀντωνῖνος	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+ἑκατοντάρχῃ	ἑκατοντάρχης	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+Κλήμης	Κλήμης	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+κουράτωρ	κουράτωρ	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+χαίρειν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+ἐὰν	ἐάν	CONJ	_	
+θέλεις	ἐθέλω	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+δώσεις	δίδωμι	VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+τὸν	ὁ		number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+χαλκὸν	χαλκός	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+τῷ	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+διδόντι	δίδωμι	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=DATIVE	
+σοι	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+τὸ	ὁ		number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ἐπιστόλιν	ἐπιστόλιον	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	

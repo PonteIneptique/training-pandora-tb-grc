@@ -1,30 +1,31 @@
-ἐὰν		CONJ	_	
-δέ		ADV	_	
-τι		PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-ἠσα		VB	person=PERSON_2|number=SINGULAR|voice=ACTIVE	
-ἐξ		PREP	_	
-αὐτῶν		PRON	number=PLURAL|gender=NEUTER|case=GENITIVE	
-πεποιηκώς		VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-δώσεις		VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-τῷ			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-ταβελλαρίῳ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-ὑπὲρ		PREP	_	
-δὲ		ADV	_	
-τοῦ			number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-χαλινοῦ		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-μὴ		CONJ	_	
-ἀμελήσῃς		VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-Μακρεῖνος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-Ἀντωνᾶτι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-τῷ			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-ἀδελφῷ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-χαA		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-τὸ			number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-δὲ		ADV	_	
-βύνι		NN	number=SINGULAR|case=ACCUSATIVE	
-πένψω		VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-ἐὰν		CONJ	_	
-εὕρω		VB	person=PERSON_1|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-ὁ͂ͅτινι		PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-ἐπιθῶ		VB	person=PERSON_1|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+ἐὰν	ἐάν	CONJ	_	
+δέ	δέ	ADV	_	
+τι	τις	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ἠσα	εἰμί	VB	person=PERSON_2|number=SINGULAR|voice=ACTIVE	
+ἐξ	ἐκ	PREP	_	
+αὐτῶν	αὐτός	PRON	number=PLURAL|gender=NEUTER|case=GENITIVE	
+πεποιηκώς	ποιέω	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+δώσεις	δίδωμι	VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+τῷ	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+ταβελλαρίῳ	ταβελλάριος	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+τὸ	ὁ		number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+δὲ	δέ	ADV	_	
+βύνι	βύνις	NN	number=SINGULAR|case=ACCUSATIVE	
+πένψω	πέμπω	VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+σοι	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+ἐὰν	ἐάν	CONJ	_	
+εὕρω	εὑρίσκω	VB	person=PERSON_1|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+ὁ͂ͅτινι	ὅστις	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+ἐπιθῶ	ἐπιτίθημι	VB	person=PERSON_1|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+Μακρεῖνος	Μακρεῖνος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Ἀντωνᾶτι	Ἀντωνᾶς	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+τῷ	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+ἀδελφῷ	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+χαA	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+ὑπὲρ	ὑπέρ	PREP	_	
+ὧν	ὅς	PRON	number=PLURAL|gender=NEUTER|case=GENITIVE	
+σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+ἠρώτησα	ἐρωτάω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+ἄδελφε	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+μὴ	μή	CONJ	_	
+ἀμελήσῃς	ἀμελέω	VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	

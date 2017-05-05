@@ -1,54 +1,60 @@
-πρὸ		PREP	_	
-μὲν		ADV	_	
-πάντων		ADJ	number=PLURAL|gender=NEUTER|case=GENITIVE	
-εὔχομε		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-ὑμᾶς		PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
-ὑγιαίνειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-γράψον		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-τὴν			number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-τιμὴν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-τοῦ			number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-σοῦ		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
-ὀξειδίου		NN	number=SINGULAR|gender=NEUTER|case=GENITIVE	
-τὰ			number=PLURAL|gender=NEUTER|case=NOMINATIVE	
-νῦν		ADV	_	
-ἄδελφε		NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-Δράκων		NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-κόμισαι		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE	
-ἄλλα		PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-β		NRL	_	
-θριδάκια		NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-καὶ		CONJ	_	
-Ερεμησις		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-Διόσκορος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-Δράκωνι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-καὶ		CONJ	_	
-Ερεμησις		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-καὶ		CONJ	_	
-Ἀμμωνιανῷ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-κουράτορι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-καὶ		CONJ	_	
-Πετοσίρει		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-καὶ		CONJ	_	
-Πανίσκῳ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-ἀμφοτέροις		ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE	
-τοῖς			number=PLURAL|gender=MASCULINE|case=DATIVE	
-φιλτάτοις		ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE	
-πολλὰ		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-χαίρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-ἔρρωσθε		VB	person=PERSON_2|number=PLURAL|tense=PERF|mood=IMPERATIVE	
-κομίσασθε		VB	person=PERSON_2|number=PLURAL|mood=IMPERATIVE	
-παρὰ		ADJ	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
-Πουώνσεως		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-τοῦ			number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-φαμειλιαρεικοῦ		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-θριδακίου		NN	number=SINGULAR|gender=NEUTER|case=GENITIVE	
-δέσμας		NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-ε		NRL	_	
-μίαν		ADJ	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-ἕκαστος		ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-κατʼ		PREP	_	
+πρὸ	πρό	PREP	_	
+μὲν	μέν	ADV	_	
+πάντων	πᾶς	ADJ	number=PLURAL|gender=NEUTER|case=GENITIVE	
+εὔχομε	εὔχομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+ὑμᾶς	σύ	PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
+ὑγιαίνειν	ὑγιαίνω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+ἔπεμψα	πέμπω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+ὑμῖν	σύ	PRON	person=PERSON_2|number=PLURAL|case=DATIVE	
+τριθημέρῃ	τριθημέρη	ADV	degree=POSITIVE	
+καυλίων	καυλίον	NN	number=PLURAL|gender=NEUTER|case=GENITIVE	
+δέσμας	δέσμη	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+γ	NRL	gender=FEMININE|case=ACCUSATIVE	
+καὶ	καί	CONJ	_	
+οὐκ	οὐ	ADV	_	
+ἔγραψάς	γράφω	VB	person=PERSON_2|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+τὸ	ὁ		number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ἀντίγραφον	ἀντίγραφος	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ὅτι	ὅτιCONJ	_	
+ἔλαβον	λαμβάνω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+ἢ	ἤCONJ	_	
+οὐκ	οὐ	ADV	_	
+ἔλαβον	λαμβάνω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+γράψον	γράφω	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+τὴν	ὁ		number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+τιμὴν	τιμή	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+τοῦ	ὁ		number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+σοῦ	σεύω	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
+ὀξειδίου	ὀξίδιον	NN	number=SINGULAR|gender=NEUTER|case=GENITIVE	
+ἔρρωσθε	ῥώννυμι	VB	person=PERSON_2|number=PLURAL|tense=PERF|mood=IMPERATIVE	
+Διόσκορος	Διόσκορος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Δράκωνι	Δρακων	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+καὶ	καί	CONJ	_	
+Ερεμησις	Ἑρεμησις	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+καὶ	καί	CONJ	_	
+Ἀμμωνιανῷ	Ἀμμωνιανός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+κουράτορι	κουράτωρ	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+καὶ	καί	CONJ	_	
+Πετοσίρει	Πετοσιρις	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+καὶ	καί	CONJ	_	
+Πανίσκῳ	Πανίσκος	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+ἀμφοτέροις	ἀμφότερος	ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE	
+τοῖς	ὁ		number=PLURAL|gender=MASCULINE|case=DATIVE	
+φιλτάτοις	φίλτατος	ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE	
+πολλὰ	πολύς	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+χαίρειν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+κομίσασθε	κομίζω	VB	person=PERSON_2|number=PLURAL|mood=IMPERATIVE	
+παρὰ	πηρός	ADJ	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
+Πουώνσεως	Πουωνσις	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+τοῦ	ὁ		number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+φαμειλιαρεικοῦ	φαμιλιαρικός	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+θριδακίου	θριδάκιον	NN	number=SINGULAR|gender=NEUTER|case=GENITIVE	
+δέσμας	δέσμη	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+ε	NRL	_	
+μίαν	εἷς	ADJ	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+ἕκαστος	ἕκαστος	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+κατʼ	κατά	PREP	_	
 SR			_	
-ὄνομα		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ὄνομα	ὄνομα	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	

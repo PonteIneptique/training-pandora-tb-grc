@@ -1,7 +1,8 @@
-οὐκ		ADV	_	
-ἔλαβον		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-παρʼ		PREP	_	
-Ἐπαγαθίωνος		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-τὰς			number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-δραχμὰς		NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-κ		NRL	number=PLURAL	
+λοιπόν	λοιπός	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+εἰ	εἰ	CONJ	_	
+ἐν	ἐν	PREP	_	
+σοί	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+εἰσιν	εἰμί	VB	person=PERSON_3|number=PLURAL|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+ἐπιστολίδιόν	ἐπιστολίδιον	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+γράψεις	γράφω	VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	

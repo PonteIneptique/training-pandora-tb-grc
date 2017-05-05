@@ -1,18 +1,36 @@
-τὸ			number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-ὑπόδημα		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-οὐκ		ADV	_	
-ἔλαβα		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-καὶ		CONJ	_	
-ἀντιβάλλις		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-τρῖς		NRL	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-στατῆρες		NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-πέμσον		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-δGG			_	
-SUράψον		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-GGπεποίηκες		VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
-GGοG			_	
-GG			_	
-A		NN	gender=FEMININE	
-κβ		NRL	number=PLURAL	
+τὸ	ὁ		number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ὑπόδημα	ὑπόδημα	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+οὐκ	οὐ	ADV	_	
+ἔλαβα	λαμβάνω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+καὶ	καί	CONJ	_	
+ἀντιβάλλις	ἀντιβάλλω	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+τρῖς	τρεῖς	NRL	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+στατῆρες	στατήρ	NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+G			_	
+αGβGGGGχρησαμG			_	
+γαι			_	
+παιδα	παῖς	NN	number=SINGULAR|case=ACCUSATIVE	
+κουφουGλολαGG			_	
+πεGς			_	
+μέχρι			_	
+τα			_	
+οGμου			_	
+τὰ	τὰ		number=PLURAL|gender=NEUTER	
+ἱμάτSU	ἱμάτιον	NN	gender=NEUTER	
+καὶ	καί	CONJ	_	
+περιέσχισεν	περισχίζω	VB	person=PERSON_3|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+αὐτὰ	αὐτός	PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+ιεGς			_	
+καὶ	καί	CONJ	_	
+ἀπέδωκα	ἀποδίδωμι	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+G			_	
+καὶ	καί	CONJ	_	
+οὐ	οὐ	ADV	_	
+γέγονέ	γίγνομαι	VB	person=PERSON_3|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+ἐν	ἐν	PREP	_	
+τούτοις	οὗτος	PRON	number=PLURAL|gender=NEUTER|case=DATIVE	
+πέμσαι	πέμπω	VB	mood=INFINITIVE|voice=ACTIVE	
+σοί	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+τι	τις	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	

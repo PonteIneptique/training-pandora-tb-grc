@@ -1,61 +1,55 @@
-εὕρηκα		VB	person=PERSON_1|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
-ἐνθάδε		ADV	_	
-τὸ			number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-δηνάριν		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-τοῦ			number=SINGULAR|gender=NEUTER|case=GENITIVE	
-ὀψαριδίου		NN	number=SINGULAR|gender=NEUTER|case=GENITIVE	
-ὃ		PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-ἔπεμψάς		VB	person=PERSON_2|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-Διόσκορος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-Δράκονι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-καὶ		CONJ	_	
-Ερεμησις		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-καὶ		CONJ	_	
-Ἀμμωνιανῷ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-τοῖς			number=PLURAL|gender=MASCULINE|case=DATIVE	
-ἀμφοτέροις		ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE	
-φιλτάτοις		ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE	
-πολλὰ		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-χαίρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-πέμπω		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-τὸ			number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-κεράμιν		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-μετὰ		PREP	_	
-τῆς			number=SINGULAR|gender=FEMININE|case=GENITIVE	
-προβολῆς		NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-τὸ			number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-προσκύνημα		NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
-ὑμῶν		PRON	person=PERSON_2|number=PLURAL|case=GENITIVE	
-ποιῶ		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-παρὰ		ADJ	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
-τοῖς			number=PLURAL|gender=MASCULINE|case=DATIVE	
-ἐνθάδε		ADV	_	
-θεοῖς		NN	number=PLURAL|gender=MASCULINE|case=DATIVE	
+ἐὰν	ἐάν	CONJ	_	
+γένηται	γίγνομαι	VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE	
+λάχανα	λάχανον	NN	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
+πέμπω	πέμπω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+ὑμεῖν	ὑμῖν	PRON	number=PLURAL|gender=MASCULINE|case=DATIVE	
+ἐπιστολὴν	ἐπιστολή	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+οὐκ	οὐ	ADV	_	
+ἔλαβον	λαμβάνω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+μετʼ	μετά	PREP	_	
+αὐτοῦ	αὐτός	PRON	number=SINGULAR|gender=NEUTER|case=GENITIVE	
+ἐρρῶσθαί	ῥώννυμι	VB	tense=PERF|mood=INFINITIVE	
+σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+εὔχομαι	εὔχομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+τὸ	ὁ		number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+προσκύνημα	προσκύνημα	NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
+ὑμῶν	σύ	PRON	person=PERSON_2|number=PLURAL|case=GENITIVE	
+ποιῶ	ποιέω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+παρὰ	πηρός	ADJ	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
+τοῖς	ὁ		number=PLURAL|gender=MASCULINE|case=DATIVE	
+ἐνθάδε	ἐνθάδε	ADV	_	
+θεοῖς	θεός	NN	number=PLURAL|gender=MASCULINE|case=DATIVE	
+πέμπω	πέμπω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+σοι	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+τὸ	ὁ		number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+κεράμιν	κεράμιον	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+μετὰ	μετά	PREP	_	
+τῆς	ὁ		number=SINGULAR|gender=FEMININE|case=GENITIVE	
+προβολῆς	προβολή	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
 G			_	
-κομίσασθε		VB	person=PERSON_2|number=PLURAL|mood=IMPERATIVE	
-μαρσίππιν		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-σινάπεως		NN	number=SINGULAR|gender=NEUTER|case=GENITIVE	
-εἰς		PREP	_	
-τοὺς			number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-τρῖς		NRL	gender=MASCULINE|case=ACCUSATIVE	
-οὐκ		ADV	_	
-ἔστι		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-χρεία		NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-λυπόν		VB	number=SINGULAR|mood=PARTICIPLE|voice=ACTIVE|gender=NEUTER|case=NOMINATIVE|degree=POSITIVE	
-πέμψαι		VB	mood=INFINITIVE|voice=ACTIVE	
-τὸ			number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-μάτιν		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-τοῦ			number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-ἁλός		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-ἐπιστολὴν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-οὐκ		ADV	_	
-ἔλαβον		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-μετʼ		PREP	_	
-αὐτοῦ		PRON	number=SINGULAR|gender=NEUTER|case=GENITIVE	
-ἐὰν		CONJ	_	
-γένηται		VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE	
-λάχανα		NN	number=PLURAL|gender=NEUTER|case=NOMINATIVE	
-πέμπω		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-ὑμεῖν		PRON	number=PLURAL|gender=MASCULINE|case=DATIVE	
+κομίσασθε	κομίζω	VB	person=PERSON_2|number=PLURAL|mood=IMPERATIVE	
+μαρσίππιν	μαρσίππιον	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+σινάπεως	σίναπι	NN	number=SINGULAR|gender=NEUTER|case=GENITIVE	
+εἰς	εἰς	PREP	_	
+τοὺς	ὁ		number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+τρῖς	τρεῖς	NRL	gender=MASCULINE|case=ACCUSATIVE	
+Διόσκορος	Διόσκορος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Δράκονι	Δρακων	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+καὶ	καί	CONJ	_	
+Ερεμησις	Ἑρεμησις	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+καὶ	καί	CONJ	_	
+Ἀμμωνιανῷ	Ἀμμωνιανός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+τοῖς	ὁ		number=PLURAL|gender=MASCULINE|case=DATIVE	
+ἀμφοτέροις	ἀμφότερος	ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE	
+φιλτάτοις	φίλτατος	ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE	
+πολλὰ	πολύς	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+χαίρειν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+οὐκ	οὐ	ADV	_	
+ἔστι	εἰμί	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+χρεία	χρεία	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+λυπόν	λείπω	VB	number=SINGULAR|mood=PARTICIPLE|voice=ACTIVE|gender=NEUTER|case=NOMINATIVE|degree=POSITIVE	
+πέμψαι	πέμπω	VB	mood=INFINITIVE|voice=ACTIVE	
+τὸ	ὁ		number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+μάτιν	μάτιον	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+τοῦ	ὁ		number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+ἁλός	ἅλς	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	

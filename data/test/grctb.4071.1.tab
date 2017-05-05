@@ -1,5 +1,9 @@
-Αἰλουρᾶς		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-Τρύφωνι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-τῶι			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-ἀδελφῶι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-χαA		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+γράψον	γράφω	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+τί	τίς	IRREG	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+G			_	
+ὀφείλω	ὀφείλω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+καὶ	καί	CONJ	_	
+πέμψω	πέμπω	VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+σοι	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+G			_	

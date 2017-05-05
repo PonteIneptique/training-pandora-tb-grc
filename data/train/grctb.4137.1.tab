@@ -1,28 +1,34 @@
+ἐρωτῶ	ἐρωτάω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+ἄδελSU	ἀδελφ-	NN	number=SINGULAR	
+SU			_	
+SU			_	
+SU			_	
+περὶ	περί	PREP	_	
+τῆς	ὁ		number=SINGULAR|gender=FEMININE|case=GENITIVE	
+σωτηρίαSU	σωτηρία	NN	gender=FEMININE	
+SU			_	
+G			_	
+καθʼ	κατά	PREP	_	
+ἡμέραν	ἡμέρα	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+ἰς	εἰς	PREP	_	
+τὴν	ὁ		number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+ὁδὸν	ὁδόςNN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+ἐκαθήμην	κάθημαι	VB	person=PERSON_1|number=SINGULAR|tense=IMP|mood=INDICATIVE	
+προσδοκῶν	προσδοκάω	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+ὡς	ὡς	CONJ	_	
+ἔλθῃς	ἔρχομαι	VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
 G			_	
 GGG			_	
-με		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-Κελερᾶν		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+με	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+Κελερᾶν	Κελερᾶς	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
 G			_	
 θρώτερος			_	
 ησαGG			_	
-ὅτι		CONJ	_	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-οὐκ		ADV	_	
-ἔγρSU	SU	VB	_	
+ὅτι	ὅτιCONJ	_	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+οὐκ	οὐ	ADV	_	
+ἔγρSU	ἔγρSU	VB	_	
 G			_	
 κας			_	
-ἔρρωσοι		VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE	
-ἐρωτῶ		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-ἄδελSU		NN	number=SINGULAR	
-SU			_	
-SU			_	
-SU			_	
-περὶ		PREP	_	
-τῆς			number=SINGULAR|gender=FEMININE|case=GENITIVE	
-σωτηρίαSU		NN	gender=FEMININE	
-SU			_	
-G			_	
-ἤκουον		VB	person=PERSON_1|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
-ὅτι		CONJ	_	
-καταβαίνεις		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-GG			_	
+ἔρρωσοι	ῥώννυμι	VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE	

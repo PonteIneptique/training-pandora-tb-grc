@@ -1,27 +1,27 @@
-1	Ἀντωνίνῳ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-2	ἑκατοντάρχῃ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-3	Κλήμης		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-4	κουράτωρ		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-5	χαίρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-1	ἠγόρασα		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-2	δελφάκια		NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-3	τρία		NRL	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-4	δύο		NRL	_	
-5	ἀνὰ		PREP	_	
-6	δύο		NRL	_	
-7	στατῆρας		NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-8	τὸ			number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-9	δʼ		CONJ	_	
-10	ἓν		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-11	δραχμῶν		NN	number=PLURAL|gender=FEMININE|case=GENITIVE	
-12	ι		NRL	_	
-1	πέμψεις		VB	person=PERSON_2|number=SINGULAR|voice=ACTIVE	
-2	οὖν		ADV	_	
-3	ἐπʼ		PREP	_	
-4	αὐτά		PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-5	ἐὰν		CONJ	_	
-6	αὐτῶν		PRON	number=PLURAL|gender=NEUTER|case=GENITIVE	
-7	χρήσῃ		VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE	
-8	καὶ		CONJ	_	
-9	τὸν			number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-10	χαλκόν		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+1	Ἀντωνίνῳ	Ἀντωνῖνος	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+2	ἑκατοντάρχῃ	ἑκατοντάρχης	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+3	Κλήμης	Κλήμης	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+4	κουράτωρ	κουράτωρ	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+5	χαίρειν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+1	ἠγόρασα	ἀγοράζω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+2	δελφάκια	δελφάκιον	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+3	τρία	τρεῖς	NRL	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+4	δύο	δύο	NRL	_	
+5	ἀνὰ	ἀνά	PREP	_	
+6	δύο	δύο	NRL	_	
+7	στατῆρας	στατήρ	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+8	τὸ	ὁ		number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+9	δʼ	δέ	CONJ	_	
+10	ἓν	εἷς	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+11	δραχμῶν	δραχμή	NN	number=PLURAL|gender=FEMININE|case=GENITIVE	
+12	ι	10	NRL	_	
+1	πέμψεις	πέμπω	VB	person=PERSON_2|number=SINGULAR|voice=ACTIVE	
+2	οὖν	οὖν	ADV	_	
+3	ἐπʼ	ἐπί	PREP	_	
+4	αὐτά	αὐτός	PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+5	ἐὰν	ἐάν	CONJ	_	
+6	αὐτῶν	αὐτός	PRON	number=PLURAL|gender=NEUTER|case=GENITIVE	
+7	χρήσῃ	χράω2	VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE	
+8	καὶ	καί	CONJ	_	
+9	τὸν	ὁ		number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+10	χαλκόν	χαλκός	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	

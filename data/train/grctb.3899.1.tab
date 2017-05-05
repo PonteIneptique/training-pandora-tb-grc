@@ -1,41 +1,41 @@
-ἰδοὺ		ADV	_	
-παράστησον		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-αὐτῷ		PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+ἰδοὺ	ἰδού	ADV	_	
+παράστησον	παρίστημι	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+αὐτῷ	αὐτός	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
 GινGGGκα			_	
 σι			_	
-μου		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-δὸς		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-αὐτῷ		PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-ὡς		CONJ	_	
-ἔστι		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-ἤκουσα		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-ὅτι		CONJ	_	
-εἰς		PREP	_	
-Πορφυρίτην		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-ὑππάγις		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-Φίρμος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-Ἐξόχῳ		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-τῶι			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-ἀδελφῷ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-πλεῖστα		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-χαίριν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-ἀσπάζεταί		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE	
-σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-Ἀλέξανδρος		ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-καὶ		CONJ	_	
-Μεσκηνίῳ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-δὸς		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-τὸν			number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-σῖτον		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-μου		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-Μεσκηνίῳ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-καὶ		CONJ	_	
-τὸν			number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-χαλκὸν		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-παρὰ		PREP	_	
-τῆς			number=SINGULAR|gender=FEMININE|case=GENITIVE	
-γυναικὸς		NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-Τασαλεος		NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-δὸς		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-αὐτῷ		PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-πάλι		ADV	_	
+μου	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+δὸς	δίδωμι	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+αὐτῷ	αὐτός	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+ὡς	ὡς	CONJ	_	
+ἔστι	εἰμί	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+Φίρμος	Φίρμος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Ἐξόχῳ	Ἐξόχος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+τῶι	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+ἀδελφῷ	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+πλεῖστα	πλεῖστος	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+χαίριν	χαίρειν	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+δὸς	δίδωμι	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+τὸν	ὁ		number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+σῖτον	σῖτος	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+μου	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+Μεσκηνίῳ	Μεσκηνίος	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+καὶ	καί	CONJ	_	
+τὸν	ὁ		number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+χαλκὸν	χαλκός	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+παρὰ	παρά	PREP	_	
+τῆς	ὁ		number=SINGULAR|gender=FEMININE|case=GENITIVE	
+γυναικὸς	γυνή	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+Τασαλεος	Τασαλις	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+δὸς	δίδωμι	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+αὐτῷ	αὐτός	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+πάλι	πάλιν	ADV	_	
+ἤκουσα	ἀκούω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+ὅτι	ὅτιCONJ	_	
+εἰς	εἰς	PREP	_	
+Πορφυρίτην	Πορφυρίτης	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+ὑππάγις	ὑπάγω	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+ἀσπάζεταί	ἀσπάζομαι	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE	
+σοι	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+Ἀλέξανδρος	ἀλέξανδρος	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+καὶ	καί	CONJ	_	
+Μεσκηνίῳ	Μεσκηνίος	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	

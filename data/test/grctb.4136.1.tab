@@ -1,13 +1,4 @@
-G			_	
-GGG			_	
-με		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-Κελερᾶν		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-G			_	
-θρώτερος			_	
-ησαGG			_	
-ὅτι		CONJ	_	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-οὐκ		ADV	_	
-ἔγραψας		VB	person=PERSON_2|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-G			_	
-κας			_	
+ἤκουον	ἀκούω	VB	person=PERSON_1|number=SINGULAR|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
+ὅτι	ὅτιCONJ	_	
+καταβαίνεις	καταβαίνω	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+GG			_	

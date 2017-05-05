@@ -1,15 +1,17 @@
-Ἀρτειμᾶς		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-Ἡρακλείδῃ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-τῷ			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-ἀδελφῷ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-χαA		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-ἀπέσταλκές		VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-ἤδη		ADV	_	
-τρὶς		ADV	_	
-ὑπὲρ		PREP	_	
-τῶν			number=PLURAL|gender=NEUTER|case=GENITIVE	
-εἱματείων		NN	number=PLURAL|gender=NEUTER|case=GENITIVE	
-σου		PRON	person=PERSON_2|number=SINGULAR|case=GENITIVE	
-ὅτι		CONJ	_	
-φορεῖται		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE	
+Ἀρτειμᾶς	Ἀρτειμᾶς	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Ἡρακλείδῃ	Ἡρακλείδης	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+τῷ	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+ἀδελφῷ	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+χαA	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+ἔπεμψα	πέμπω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+Διδύμην	Διδύμη	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+ἵνα	ἵνα	CONJ	_	
+γνοι	γιγνώσκω	VB	person=PERSON_3|number=SINGULAR|voice=ACTIVE	
+καὶ	καί	CONJ	_	
+φάσιν	φάσιςNN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+πέμψῃ	πέμπω	VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+καὶ	καί	CONJ	_	
+ὀδέεν	οὐδείς	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+ἔπεμψε	πέμπω	VB	person=PERSON_3|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	

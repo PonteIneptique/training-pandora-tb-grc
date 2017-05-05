@@ -1,41 +1,41 @@
-1	Αἰλουρᾶς		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-2	Τρύφωνι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-3	τῶι			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-4	ἀδελφῶι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-5	χαA		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-1	πρὸ		PREP	_	
-2	παντὸς		ADJ	number=SINGULAR|gender=NEUTER|case=GENITIVE	
-3	εὔχομαί		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-4	σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
-5	ὑγιαίνειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-1	ἔπεμψάς		VB	person=PERSON_2|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-2	μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-3	Πανεκῶσιν		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-4	λεγων		VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE|degree=POSITIVE	
-5	ὅτι		CONJ	_	
-6	ἦρκας		VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
-7	μου		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-8	τSU			_	
-9	ἄρτους		NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-10	καὶ		CONJ	_	
-11	τὸν			number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-12	κιθῶνα		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-13	τέSU	SU	VB	_	
-14	ἐνέχυρον		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-1	γράψον		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-2	μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-3	τί		IRREG	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+1	Αἰλουρᾶς	Αἰλουρᾶς	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+2	Τρύφωνι	Τρύφων	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+3	τῶι	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+4	ἀδελφῶι	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+5	χαA	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+1	πρὸ	πρό	PREP	_	
+2	παντὸς	πᾶς	ADJ	number=SINGULAR|gender=NEUTER|case=GENITIVE	
+3	εὔχομαί	εὔχομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+4	σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+5	ὑγιαίνειν	ὑγιαίνω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+1	ἔπεμψάς	πέμπω	VB	person=PERSON_2|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+2	μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+3	Πανεκῶσιν	Πανεχως	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+4	λεγων	λέγω	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE|degree=POSITIVE	
+5	ὅτι	ὅτι2	CONJ	_	
+6	ἦρκας	αἴρω	VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+7	μου	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+8	τSU	ὁ		_	
+9	ἄρτους	ἄρτος	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+10	καὶ	καί	CONJ	_	
+11	τὸν	ὁ		number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+12	κιθῶνα	χιτών	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+13	τέSU	τέSU	VB	_	
+14	ἐνέχυρον	ἐνέχυρον	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+1	γράψον	γράφω	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+2	μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+3	τί	τίς	IRREG	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
 4	G			_	
-5	ὀφείλω		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-6	καὶ		CONJ	_	
-7	πέμψω		VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-8	σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+5	ὀφείλω	ὀφείλω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+6	καὶ	καί	CONJ	_	
+7	πέμψω	πέμπω	VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+8	σοι	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
 9	G			_	
-1	κόSUαι	SU	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE	
-2	παρὰ		PREP	_	
-3	ταβSU	SU	NN	_	
-4	δραχμὰς		NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
-5	τέσσαρSU		NRL	number=PLURAL|gender=FEMININE	
+1	κόSUαι	κόSUαι	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE	
+2	παρὰ	παρά	PREP	_	
+3	ταβSU	ταβSU	NN	_	
+4	δραχμὰς	δραχμή	NN	number=PLURAL|gender=FEMININE|case=ACCUSATIVE	
+5	τέσσαρSU	τέσσαρες	NRL	number=PLURAL|gender=FEMININE	
 6	G			_	
 7	GGG			_	
 8	του			_	
@@ -43,13 +43,13 @@
 10	το			_	
 11	ερG			_	
 12	γραG			_	
-13	καὶ		CONJ	_	
-14	ὕπαγε		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE|voice=ACTIVE	
-15	πρὸς		PREP	_	
-16	GGGον	GGG		_	
-1	εἰπὲ		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-2	αὐτῶι		PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-3	A		NN	gender=FEMININE	
+13	καὶ	καί	CONJ	_	
+14	ὕπαγε	ὑπάγω	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE|voice=ACTIVE	
+15	πρὸς	πρός	PREP	_	
+16	GGGον	GGGον		_	
+1	εἰπὲ	εἶπον	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+2	αὐτῶι	αὐτός	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+3	A	δραχμή	NN	gender=FEMININE	
 4	G			_	
-5	ὀφείλι		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-6	Αἰλουρᾶς		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+5	ὀφείλι	ὀφείλω	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+6	Αἰλουρᾶς	Αἰλουρᾶς	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	

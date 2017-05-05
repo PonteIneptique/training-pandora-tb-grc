@@ -1,27 +1,27 @@
 1	G			_	
 2	G			_	
-3	SUκ		ADV	_	
+3	SUκ	οὐκ	ADV	_	
 4	ἔγραSU			_	
 5	SUν			_	
-6	ὅτι		CONJ	_	
-7	αἴλαβα		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-8	αὐτὰ		PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-9	εἲ		CONJ	_	
-10	οὐκ		ADV	_	
-11	αἴλαβα		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-1	γράψον		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-2	μυ		PRON	number=SINGULAR|gender=MASCULINE	
-3	τὴν			number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-4	φάσιν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-5	ὅτι		CONJ	_	
-6	ἔλαβα		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-7	εἲ		CONJ	_	
-8	οὐκ		ADV	_	
-9	αἴλαβα		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-1	ἀσπάζομαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-2	τοὺς			number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-3	συστρατιώτας		NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-4	κατʼ		PREP	_	
+6	ὅτι	ὅτι2	CONJ	_	
+7	αἴλαβα	λαμβάνω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+8	αὐτὰ	αὐτός	PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+9	εἲ	ἤ	CONJ	_	
+10	οὐκ	οὐ	ADV	_	
+11	αἴλαβα	λαμβάνω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+1	γράψον	γράφω	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+2	μυ	ἐγώ	PRON	number=SINGULAR|gender=MASCULINE	
+3	τὴν	ὁ		number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+4	φάσιν	φάσις2	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+5	ὅτι	ὅτι2	CONJ	_	
+6	ἔλαβα	λαμβάνω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+7	εἲ	ἤ	CONJ	_	
+8	οὐκ	οὐ	ADV	_	
+9	αἴλαβα	λαμβάνω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+1	ἀσπάζομαι	ἀσπάζομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+2	τοὺς	ὁ		number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+3	συστρατιώτας	συστρατιώτης	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+4	κατʼ	κατά	PREP	_	
 5	ο			_	
-6	ὄνομα		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-1	ἔρρωσθSU		VB	person=PERSON_2|number=PLURAL|tense=PERF|mood=IMPERATIVE	
+6	ὄνομα	ὄνομα	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+1	ἔρρωσθSU	ῥώννυμι	VB	person=PERSON_2|number=PLURAL|tense=PERF|mood=IMPERATIVE	

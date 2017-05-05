@@ -1,13 +1,13 @@
-Βίθος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-Χρυσάνθῳ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-τῷ			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-ἀδελφῷ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-χαίρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-καλῶς		ADV	degree=POSITIVE	
-ποιήσεις		VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-δοὺς		VB	number=SINGULAR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-ἑπτὰ		NRL	_	
-στατῆράς		NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-τινι		PRON	number=SINGULAR|case=DATIVE	
-ἂν		ADV	_	
-θέλῃς		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
+Βίθος	Βίθος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Χρυσάνθῳ	Χρύσανθος	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+τῷ	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+ἀδελφῷ	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+χαίρειν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+περὶ	περί	PREP	_	
+τοῦ	ὁ		number=SINGULAR|gender=NEUTER|case=GENITIVE	
+χοιριδίου	χοιρίδιον	NN	number=SINGULAR|gender=NEUTER|case=GENITIVE	
+ἔλαβα	λαμβάνω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+χάριν	χάρις	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+στατῆρας	στατήρ	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+GG			_	
+G			_	

@@ -1,5 +1,8 @@
-Ἀπολλῶς		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-Μικκαλοῦτι		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-τῇ			number=SINGULAR|gender=FEMININE|case=DATIVE	
-ἀδελφῇ		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-χαίρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+πρὸς	πρός	PREP	_	
+μηδένα	μηδείς	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+συζήτει	συζητέω	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE|voice=ACTIVE	
+καὶ	καί	CONJ	_	
+ἐγὼ	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+δὲ	δέ	ADV	_	
+μεριμνῶ	μεριμνάω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+σου	σύ	PRON	person=PERSON_2|number=SINGULAR|case=GENITIVE	

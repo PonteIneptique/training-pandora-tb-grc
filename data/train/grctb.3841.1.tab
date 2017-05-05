@@ -1,10 +1,16 @@
-ΣαβSUνος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-Ζοσιμο		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-το			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-φιλτατο		ADJ	number=SINGULAR|gender=MASCULINE|case=DATIVE|degree=SUPERLATIVE	
-πλεῖστα		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-χαίρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-ἐρρῶσθαί		VB	tense=PERF|mood=INFINITIVE	
-σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
-εὔχωμαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE	
-γλυκύτατε		ADJ	number=SINGULAR|gender=MASCULINE|case=VOCATIVE|degree=SUPERLATIVE	
+ΣαβSUνος	Σαβῖνος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Ζοσιμο	Ζώσιμος	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+το	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+φιλτατο	φίλτατος	ADJ	number=SINGULAR|gender=MASCULINE|case=DATIVE|degree=SUPERLATIVE	
+πλεῖστα	πλεῖστος	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+χαίρειν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+ἐρωτηθεὶς	ἐρωτάω	VB	number=SINGULAR|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
+ἐπίσχες	ἐπέχω	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+τοῖς	ὁ		number=PLURAL|gender=NEUTER|case=DATIVE	
+παιδαρίοις	παιδάριον	NN	number=PLURAL|gender=NEUTER|case=DATIVE	
+ζμου	ἐγώ	PRON	number=SINGULAR|case=GENITIVE	
+μή	μή	CONJ	_	
+τις	τις	PRON	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+αὐτοῖς	αὐτός	PRON	number=PLURAL|gender=NEUTER|case=DATIVE	
+ὕβρις	ὕβρις	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
+γένηται	γίγνομαι	VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE	

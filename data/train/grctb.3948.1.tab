@@ -1,16 +1,18 @@
-γράψον		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-μυ		PRON	number=SINGULAR|gender=MASCULINE	
-τὴν			number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-φάσιν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-ὅτι		CONJ	_	
-ἔλαβα		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-εἲ		CONJ	_	
-οὐκ		ADV	_	
-αἴλαβα		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-ἔρρωσθSU		VB	person=PERSON_2|number=PLURAL|tense=PERF|mood=IMPERATIVE	
-ἀσπάζομαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-τοὺς			number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-συστρατιώτας		NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-κατʼ		PREP	_	
+ἀσπάζομαι	ἀσπάζομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+τοὺς	ὁ		number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+συστρατιώτας	συστρατιώτης	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+κατʼ	κατά	PREP	_	
 ο			_	
-ὄνομα		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ὄνομα	ὄνομα	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+G			_	
+G			_	
+SUκ	οὐκ	ADV	_	
+ἔγραSU			_	
+SUν			_	
+ὅτι	ὅτιCONJ	_	
+αἴλαβα	λαμβάνω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+αὐτὰ	αὐτός	PRON	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+εἲ	ἤ	CONJ	_	
+οὐκ	οὐ	ADV	_	
+αἴλαβα	λαμβάνω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+ἔρρωσθSU	ῥώννυμι	VB	person=PERSON_2|number=PLURAL|tense=PERF|mood=IMPERATIVE	

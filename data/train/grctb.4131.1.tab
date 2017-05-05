@@ -1,52 +1,42 @@
-Gλίῳ	G	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-τῷ			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-φιλτάτῳ		ADJ	number=SINGULAR|gender=MASCULINE|case=DATIVE|degree=SUPERLATIVE	
-χαίρA		VB	_	
-SU			_	
-SU			_	
-SU			_	
-μετὰ		PREP	_	
-τοῦ			number=SINGULAR|case=GENITIVE	
-ἀβασSU			_	
-SU			_	
-SUππου			_	
 G			_	
 SU			_	
-SUοι		PRON	number=SINGULAR|case=DATIVE	
-μέμφου		VB	person=PERSON_2|number=SINGULAR|tense=IMP|mood=INDICATIVE	
-μή		CONJ	_	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+SUοι	ἐγώ	PRON	number=SINGULAR|case=DATIVE	
+μέμφου	μέμφομαι	VB	person=PERSON_2|number=SINGULAR|tense=IMP|mood=INDICATIVE	
+Gλίῳ	Gλίῳ	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+τῷ	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+φιλτάτῳ	φίλτατος	ADJ	number=SINGULAR|gender=MASCULINE|case=DATIVE|degree=SUPERLATIVE	
+χαίρA	χαίρω	VB	_	
+Gρι			_	
+Gερω			_	
+πέμψω	πέμπω	VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+SU			_	
+G			_	
+αὐτῶν	αὐτός	PRON	number=PLURAL|gender=NEUTER|case=GENITIVE	
+ἕκτῃ	ἕκτη	NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
+καὶ	καί	CONJ	_	
+G	G	VB	_	
+οὐ	οὐ	ADV	_	
+μὴ	μή	CONJ	_	
+ἄλλως	ἄλλως	ADV	_	
+μή	μή	CONJ	_	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
 SU			_	
 G			_	
 SU			_	
-τῶν			number=PLURAL|gender=NEUTER|case=GENITIVE	
-κεραμίων		NN	number=PLURAL|gender=NEUTER|case=GENITIVE	
+τῶν	ὁ		number=PLURAL|gender=NEUTER|case=GENITIVE	
+κεραμίων	κεράμιον	NN	number=PLURAL|gender=NEUTER|case=GENITIVE	
 αν			_	
 G			_	
 SUντῃ			_	
-πάντως		ADV	_	
+πάντως	πάντως	ADV	_	
 αὔριSU			_	
 GG			_	
-ἔρχεται		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE	
+ἔρχεται	ἔρχομαι	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE	
 SU			_	
 SU			_	
 SU			_	
-SUχομαί		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
-ὑγιαίνειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+μετὰ	μετά	PREP	_	
+τοῦ	ὁ		number=SINGULAR|case=GENITIVE	
+ἀβασSU			_	
 SU			_	
-SU			_	
-SU			_	
-SUλφε		NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-καὶ		CONJ	_	
-κύριε		NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-πέμψω		VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-SU			_	
-G			_	
-αὐτῶν		PRON	number=PLURAL|gender=NEUTER|case=GENITIVE	
-ἕκτῃ		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-καὶ		CONJ	_	
-G	G	VB	_	
-οὐ		ADV	_	
-μὴ		CONJ	_	
-ἄλλως		ADV	_	
+SUππου			_	

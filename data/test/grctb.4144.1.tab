@@ -1,9 +1,10 @@
-τὸ			number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-δὲ		ADV	_	
-βύνι		NN	number=SINGULAR|case=ACCUSATIVE	
-πέμψω		VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-ἐὰν		CONJ	_	
-εὕρω		VB	person=PERSON_1|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-ᾧτινι		PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-ἐπιθῶ		VB	person=PERSON_1|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+ἐὰν	ἐάν	CONJ	_	
+δέ	δέ	ADV	_	
+τι	τις	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ἦσθα	εἰμί	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
+ἐξ	ἐκ	PREP	_	
+αὐτῶν	αὐτός	PRON	number=PLURAL|gender=NEUTER|case=GENITIVE	
+πεποιηκώς	ποιέω	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+δώσεις	δίδωμι	VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+τῷ	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+ταβελλαρίῳ	ταβελλάριος	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	

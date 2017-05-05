@@ -1,41 +1,37 @@
-καλῶς		ADJ	_	
-ποιήσις		VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-Ὡρίων		NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
-πέμψον		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-κολλήματα		NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-πέντε		NRL	_	
-χαρταρίων		NN	number=PLURAL|gender=NEUTER|case=GENITIVE	
-ἐπεὶ		CONJ	_	
-οὐκέτι		ADV	_	
-οὐδὲν		PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-ἔχω		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-κ-		CONJ	_	
-ἄγω		PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-SUλογήσω		VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+καλῶς	καλός	ADJ	_	
+ποιήσις	ποιέω	VB	person=PERSON_2|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+Ὡρίων	Ὡρίων	NN	number=SINGULAR|gender=MASCULINE|case=VOCATIVE	
+πέμψον	πέμπω	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE|voice=ACTIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+κολλήματα	κόλλημα	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+πέντε	πέντε	NRL	_	
+χαρταρίων	χαρτάριον	NN	number=PLURAL|gender=NEUTER|case=GENITIVE	
+ἐπεὶ	ἐπεί	CONJ	_	
+οὐκέτι	οὐκέτι	ADV	_	
+οὐδὲν	οὐδείς	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+ἔχω	ἔχω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+κ-	καί	CONJ	_	
+ἄγω	ἐγώ	PRON	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+σοι	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+SUλογήσω	-λογέω	VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
 γSUψαι			_	
-τ-			number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-αὐτοῦ		PRON	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-ἐὰν		CONJ	_	
-SUενεχθῇ		VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=PASSIVE	
-καὶ		CONJ	_	
-δώσω		VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
-σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+τ-	ὁ		number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+αὐτοῦ	αὐτός	PRON	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+ἐὰν	ἐάν	CONJ	_	
+SUενεχθῇ	φέρω	VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=PASSIVE	
+καὶ	καί	CONJ	_	
+δώσω	δίδωμι	VB	person=PERSON_1|number=SINGULAR|tense=FUTURE|mood=INDICATIVE|voice=ACTIVE	
+σοι	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
 αὐSU			_	
-γινώσκιν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-ὑμᾶς		PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
-θέλω		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-ὅτι		CONJ	_	
-προσδSUομαι		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
-ὑμᾶς		PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
-εἰς		PREP	_	
-καλάνδαOM		NN	number=PLURAL|gender=FEMININE	
-Πίσων		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-ὩρSU			_	
-SUὶ			_	
-Ζήνωνι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-τοῖς			number=PLURAL|gender=MASCULINE|case=DATIVE	
-ἀδελφοῖς		NN	number=PLURAL|gender=MASCULINE|case=DATIVE	
-πολλὰ		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-χSUν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+γινώσκιν	γιγνώσκω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+ὑμᾶς	σύ	PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
+θέλω	ἐθέλω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+ὅτι	ὅτιCONJ	_	
+προσδSUομαι	προσδέχομαι	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE	
+ὑμᾶς	σύ	PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
+εἰς	εἰς	PREP	_	
+καλάνδαOM	καλάνδαι	NN	number=PLURAL|gender=FEMININE	
+καὶ	καί	CONJ	_	
+μίκκον	μίκκος	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE|degree=POSITIVE	
+στημόνSU			_	
+GG			_	

@@ -1,12 +1,12 @@
-ἔπεμψα		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-Διδύμην		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-ἵνα		CONJ	_	
-γνῷ		VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-καὶ		CONJ	_	
-φάσιν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-πέμψῃ		VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-καὶ		CONJ	_	
-οὐδέν		PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-μοι		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
-ἔπεμψε		VB	person=PERSON_3|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+ἔπεμψα	πέμπω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+Διδύμην	Διδύμη	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+ἵνα	ἵνα	CONJ	_	
+γνῷ	γιγνώσκω	VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+καὶ	καί	CONJ	_	
+φάσιν	φάσιςNN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+πέμψῃ	πέμπω	VB	person=PERSON_3|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+καὶ	καί	CONJ	_	
+οὐδέν	οὐδείς	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+ἔπεμψε	πέμπω	VB	person=PERSON_3|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	

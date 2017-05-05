@@ -1,35 +1,35 @@
-1	Ἀπολλῶς		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-2	Μικκαλοῦτι		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-3	τῇ			number=SINGULAR|gender=FEMININE|case=DATIVE	
-4	ἀδελφῇ		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-5	χαίρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-1	ἀναγκαῖον		ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-2	ἡγησάμην		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE	
-3	εἰς		PREP	_	
-4	Ῥαειμα		NN	case=ACCUSATIVE	
-5	γενάμενος		VB	number=SINGULAR|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE|degree=POSITIVE	
-6	ἀσπάζεσθαι		VB	tense=PR|mood=INFINITIVE	
-7	σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
-1	ὥς		CONJ	_	
-2	σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-3	ἐντέταλμαι		VB	person=PERSON_1|number=SINGULAR|tense=PERF|mood=INDICATIVE	
-4	ἔπεχε		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE|voice=ACTIVE	
-1	πρὸς		PREP	_	
-2	μηδένα		PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-3	συζήτει		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE|voice=ACTIVE	
-4	καὶ		CONJ	_	
-5	ἐγὼ		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-6	δὲ		ADV	_	
-7	μεριμνῶ		VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-8	σου		PRON	person=PERSON_2|number=SINGULAR|case=GENITIVE	
-1	ὥς		CONJ	_	
-2	σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-3	ἀπεταξάμην		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE	
-4	μηδὲν		PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-5	λυποῦ		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
-1	ἀσπάζου		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
-2	Ἀπλονοῦν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-3	ἀσπάζεταί		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE	
-4	σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
-5	Φῆστος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-1	ἔρρωσο		VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE	
+1	Ἀπολλῶς	Ἀπόλλως	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+2	Μικκαλοῦτι	Μικκαλοῦς	NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
+3	τῇ	ὁ		number=SINGULAR|gender=FEMININE|case=DATIVE	
+4	ἀδελφῇ	ἀδελφή	NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
+5	χαίρειν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+1	ἀναγκαῖον	ἀναγκαῖος	ADJ	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+2	ἡγησάμην	ἡγέομαι	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE	
+3	εἰς	εἰς	PREP	_	
+4	Ῥαειμα	Ῥαειμα	NN	case=ACCUSATIVE	
+5	γενάμενος	γίγνομαι	VB	number=SINGULAR|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE|degree=POSITIVE	
+6	ἀσπάζεσθαι	ἀσπάζομαι	VB	tense=PR|mood=INFINITIVE	
+7	σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+1	ὥς	ὡς	CONJ	_	
+2	σοι	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+3	ἐντέταλμαι	ἐντέλλω	VB	person=PERSON_1|number=SINGULAR|tense=PERF|mood=INDICATIVE	
+4	ἔπεχε	ἐπέχω	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE|voice=ACTIVE	
+1	πρὸς	πρός	PREP	_	
+2	μηδένα	μηδείς	PRON	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+3	συζήτει	συζητέω	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE|voice=ACTIVE	
+4	καὶ	καί	CONJ	_	
+5	ἐγὼ	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+6	δὲ	δέ	ADV	_	
+7	μεριμνῶ	μεριμνάω	VB	person=PERSON_1|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+8	σου	σύ	PRON	person=PERSON_2|number=SINGULAR|case=GENITIVE	
+1	ὥς	ὡς	CONJ	_	
+2	σοι	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+3	ἀπεταξάμην	ἀποτάσσω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE	
+4	μηδὲν	μηδείς	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+5	λυποῦ	λυπέω	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
+1	ἀσπάζου	ἀσπάζομαι	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
+2	Ἀπλονοῦν	Ἀπολλωνοῦς	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+3	ἀσπάζεταί	ἀσπάζομαι	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE	
+4	σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+5	Φῆστος	Φῆστος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+1	ἔρρωσο	ῥώννυμι	VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE	

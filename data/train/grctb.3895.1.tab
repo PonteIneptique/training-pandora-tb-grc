@@ -1,24 +1,24 @@
-Σιλβανὸς		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-Σιλβανῶι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-τῶι			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-ἀδελφῶι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-πλεῖστα		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-χαίρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-παραγενάμην		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE	
-εἰς		PREP	_	
-Ῥαειμα		NN	_	
-ὑγιαίνων		VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
-καὶ		CONJ	_	
-παρέλαβον		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-πάντα		ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-τὰ			number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-ἱμάτια		NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
-πλήρης		ADV	degree=POSITIVE	
-καὶ		CONJ	_	
-ἔδωκα		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+Σιλβανὸς	Σιλβανὀς	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Σιλβανῶι	Σιλβανός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+τῶι	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+ἀδελφῶι	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+πλεῖστα	πλεῖστος	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+χαίρειν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+παραγενάμην	παραγίγνομαι	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE	
+εἰς	εἰς	PREP	_	
+Ῥαειμα	Ῥαιμα	NN	_	
+ὑγιαίνων	ὑγιαίνω	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+καὶ	καί	CONJ	_	
+παρέλαβον	παραλαμβάνω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+πάντα	πᾶς	ADJ	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+τὰ	ὁ		number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+ἱμάτια	ἱμάτιον	NN	number=PLURAL|gender=NEUTER|case=ACCUSATIVE	
+πλήρης	πλήρης	ADV	degree=POSITIVE	
+καὶ	καί	CONJ	_	
+ἔδωκα	δίδωμι	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
 ιγρανιG			_	
-τὸ			number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-κιθώνιν		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-καὶ		CONJ	_	
-τὸ			number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-σάβανον		NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+τὸ	ὁ		number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+κιθώνιν	χιτώνιον	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+καὶ	καί	CONJ	_	
+τὸ	ὁ		number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+σάβανον	σάβανον	NN	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	

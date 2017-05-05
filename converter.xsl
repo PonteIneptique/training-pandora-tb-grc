@@ -99,7 +99,7 @@
                 <xsl:text>	</xsl:text>
                 <xsl:value-of select="./@form"/>
                 <xsl:text>	</xsl:text>
-                <xsl:value-of select="./replace(replace(@lemma, '[^a-zA-Z]', ''), '^1', '')"/>
+                <xsl:value-of select="./@lemma"/>
                 <xsl:text>	</xsl:text>
                 <xsl:call-template name="POS">
                     <xsl:with-param name="pos" select="@postag"></xsl:with-param>

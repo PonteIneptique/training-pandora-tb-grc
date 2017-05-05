@@ -1,26 +1,80 @@
-Βασιλεῖ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-Πτολεμαίωι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-καὶ		CONJ	_	
-Βασιλίσσηι		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-Κλεοπάτραι		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-τSUι			number=SINGULAR|gender=FEMININE|case=DATIVE	
-ἀδελφῆι		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-θεοῖς		NN	number=PLURAL|gender=MASCULINE|case=DATIVE	
-Φιλομήτορσι		NN	number=PLURAL|gender=MASCULINE|case=DATIVE	
-χαίρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-Πτολεμαῖος		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-Γλαυκίου		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-Μακεδὼν		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-τῶν			number=PLURAL|gender=MASCULINE|case=GENITIVE	
-ἐν		PREP	_	
-κατοχῆι		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-ὄντων		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=GENITIVE	
-ἔτος		NN	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
-τοῦτο		PRON	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
-τρεισκαιδέκατον		ADJ	number=SINGULAR|gender=NEUTER|case=NOMINATIVE	
-ἐν		PREP	_	
-τῶι			number=SINGULAR|gender=NEUTER|case=DATIVE	
-πρὸς		PREP	_	
-Μέμφει		NN	number=SINGULAR|gender=FEMININE|case=DATIVE	
-μεγάλωι		ADJ	number=SINGULAR|gender=NEUTER|case=DATIVE	
-Σαραπιείωι		NN	number=SINGULAR|gender=NEUTER|case=DATIVE	
+ὑπαρχούσης	ὑπάρχω	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=FEMININE|case=GENITIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+πατρικῆς	πατρικός	ADJ	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+οἰκίας	οἰκία	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+περὶ	περί	PREP	_	
+κώμην	κώμη	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+Ψῖχιν	Ψιχις	NN	number=SINGULAR|case=ACCUSATIVE	
+τοῦ	ὁ		number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+Ἡρακλεοπολίτου	Ἡρακλεοπολίτης	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+καὶ	καί	CONJ	_	
+ταύτης	οὗτος	PRON	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+κατεσπασμένης	κατασπάω	VB	number=SINGULAR|tense=PERF|mood=PARTICIPLE|gender=FEMININE|case=GENITIVE	
+καὶ	καί	CONJ	_	
+τῶν	ὁ		number=PLURAL|gender=NEUTER|case=GENITIVE	
+ἀπʼ	ἀπό	PREP	_	
+αὐτῆς	αὐτός	PRON	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+φορτίων	φορτίον	NN	number=PLURAL|gender=NEUTER|case=GENITIVE	
+διενηνεγμένων	διαφέρω	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|gender=NEUTER|case=GENITIVE	
+ὄντων	εἰμί	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=NEUTER|case=GENITIVE	
+ἀξίων	ἄξιος	ADJ	number=PLURAL|gender=NEUTER|case=GENITIVE	
+χαλκοῦ	χάλκεος	ADJ	number=SINGULAR|gender=NEUTER|case=GENITIVE	
+A			_	
+κ	NRL	_	
+ὑπὸ	ὑπό	PREP	_	
+τῶν	ὁ		number=PLURAL|gender=MASCULINE|case=GENITIVE	
+γειτνιώντων	γειτνιάω	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=GENITIVE	
+μοι	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=DATIVE	
+Ἑσπέρου	Ἕσπερος	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+καὶ	καί	CONJ	_	
+Ἀταίου	Ἄταις	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+τοῦ	ὁ		number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+υἱοῦ	υἱός	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+αὐτοῦ	αὐτός	PRON	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+καὶ	καί	CONJ	_	
+τοῦ	ὁ		number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+ἀδελφοῦ	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+αὐτοῦ	αὐτός	PRON	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+Πολέμωνος	Πολέμων	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+οἱ	ὁ		number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+δηλούμενοι	δηλέομαι	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
+οὐκ	οὐ	ADV	_	
+ἀρκεσθέντες	ἀρκέω	VB	number=PLURAL|mood=PARTICIPLE|voice=PASSIVE|gender=MASCULINE|case=NOMINATIVE	
+ἐφʼ	ἐπί	PREP	_	
+οἷς	ὅς	PRON	number=PLURAL|gender=MASCULINE|case=DATIVE	
+ἦσαν	εἰμί	VB	person=PERSON_3|number=PLURAL|tense=IMP|mood=INDICATIVE|voice=ACTIVE	
+διαπεπραγμένοι	διαπράσσω	VB	number=PLURAL|tense=PERF|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
+ἔτι	ἔτι	ADV	_	
+καὶ	καί	CONJ	_	
+τὴν	ὁ		number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+προσοῦσαν	πρόσειμιVB	number=SINGULAR|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=FEMININE|case=ACCUSATIVE	
+αὐλὴν	αὐλή	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+καὶ	καί	CONJ	_	
+τὸν	ὁ		number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+τῆς	ὁ		number=SINGULAR|gender=FEMININE|case=GENITIVE	
+οἰκίας	οἰκία	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+τόπον	τόπος	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+ψιλὸν	ψιλός	ADJ	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+περιοικοδομήσαντες	περιοικοδομέω	VB	number=PLURAL|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+χρῶνθʼ	χράωVB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+ὡς	ὡς	CONJ	_	
+ἰδίοις	ἴδιος	ADJ	number=PLURAL|gender=MASCULINE|case=DATIVE	
+καταφρονοῦντες	καταφρονέω	VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=NOMINATIVE	
+ἐπὶ	ἐπί	PREP	_	
+τῶι	ὁ		number=SINGULAR|gender=NEUTER|case=DATIVE	
+μὴ	μή	CONJ	_	
+δύνασθαί	δύναμαι	VB	tense=PR|mood=INFINITIVE	
+με	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+ἐξελθόντα	ἐξέρχομαι	VB	number=SINGULAR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
+ἐκ	ἐκ	PREP	_	
+τοῦ	ὁ		number=SINGULAR|gender=NEUTER|case=GENITIVE	
+ἱεροῦ	ἱερόν	NN	number=SINGULAR|gender=NEUTER|case=GENITIVE	
+καὶ	καί	CONJ	_	
+παραγενόμενον	παραγίγνομαι	VB	number=SINGULAR|mood=PARTICIPLE|gender=MASCULINE|case=ACCUSATIVE	
+ἐπὶ	ἐπί	PREP	_	
+τοὺς	ὁ		number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+τόπους	τόπος	NN	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+ποήσασθαι	ποιέω	VB	mood=INFINITIVE	
+πρὸς	πρός	PREP	_	
+αὐτοὺς	αὐτός	PRON	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+λόγον	λόγος	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	

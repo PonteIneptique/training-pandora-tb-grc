@@ -1,13 +1,15 @@
-ἄσπασαί		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE	
-σου		PRON	person=PERSON_2|number=SINGULAR|case=GENITIVE	
-τὴν			number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-θυγατέρα		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-ἔρρωσA		VB	_	
-ἀσπάζεται		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE	
-ὑμᾶς		PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
-Ἀρτέμεις		NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	
-ἀσπάζου		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=IMPERATIVE	
-πάντας		ADJ	number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-τοὺς			number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-φιλοῦντας		VB	number=PLURAL|tense=PR|mood=PARTICIPLE|voice=ACTIVE|gender=MASCULINE|case=ACCUSATIVE	
-ἡμᾶς		PRON	person=PERSON_1|number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+ἔρρωσA	ῥώννυμι	VB	_	
+ἄσπασαί	ἀσπάζομαι	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE	
+σου	σύ	PRON	person=PERSON_2|number=SINGULAR|case=GENITIVE	
+τὴν	ὁ		number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+θυγατέρα	θυγάτηρ	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+Μάξιμος	Μάξιμος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+Κασσιανῷ	Κασσιανός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+τῷ	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+γαμβρῷ	γαμβρός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+καὶ	καί	CONJ	_	
+ἀδελφῷ	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+χαίρειν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+ἀσπάζεται	ἀσπάζομαι	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE	
+ὑμᾶς	σύ	PRON	person=PERSON_2|number=PLURAL|case=ACCUSATIVE	
+Ἀρτέμεις	Ἄρτεμις	NN	number=SINGULAR|gender=FEMININE|case=NOMINATIVE	

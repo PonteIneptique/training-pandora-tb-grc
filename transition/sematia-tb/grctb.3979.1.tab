@@ -1,46 +1,46 @@
-1	Δομίτις		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-2	Καπίτων		NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-3	Βαλλίωνι		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-4	τῷ			number=SINGULAR|gender=MASCULINE|case=DATIVE	
-5	ἀδελφῷ		NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-6	χαίρειν		VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
-1	Οὐαλεντεῖνον		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-2	τὸν			number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+1	Δομίτις	Δομίτιος	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+2	Καπίτων	Καπίτων	NN	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+3	Βαλλίωνι	Βαλλίων	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+4	τῷ	ὁ		number=SINGULAR|gender=MASCULINE|case=DATIVE	
+5	ἀδελφῷ	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+6	χαίρειν	χαίρω	VB	tense=PR|mood=INFINITIVE|voice=ACTIVE	
+1	Οὐαλεντεῖνον	Οὐαλεντῖνος	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+2	τὸν	ὁ		number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
 3	αδ			_	
-4	κύριόν		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-5	μου		PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-6	καὶ		CONJ	_	
-7	ἀδελφὸν		NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
-8	παρακέκληκα		VB	person=PERSON_1|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
-9	ἵνα		CONJ	_	
-10	σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
-11	διὰ		PREP	_	
-12	χερὸς		NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
-13	ἔχῃ		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
-14	εἰς		PREP	_	
-15	ὃ		PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-16	θελεις		VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-17	καὶ		CONJ	_	
-18	σὺ		PRON	person=PERSON_2|number=SINGULAR|case=NOMINATIVE	
-19	αὐτῷ		PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
-20	εὔχρηστος		ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
-21	γενοῦ		VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE	
-22	ἰς		PREP	_	
-23	ὃ		PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
-24	θέλει		VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
-1	ἔγραψά		VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
-2	σοι		PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
-3	διὰ		PREP	_	
-4	Ὀκταουίου		NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
-5	ἄλλην		PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-6	ἐπιστολὴν		NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
-7	ἀσπαζόμενός		VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
-8	σε		PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
-9	καὶ		CONJ	_	
-10	πέμψεις		VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
-11	τοὺς			number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
-12	πέντε		NRL	_	
-13	στατῆρες		NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
-14	τη			number=SINGULAR|gender=FEMININE|case=DATIVE	
-15	ἐρανάρχι		NN	number=SINGULAR|case=DATIVE	
-1	ἔρρωσο		VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE	
+4	κύριόν	κύριος	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+5	μου	ἐγώ	PRON	person=PERSON_1|number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+6	καὶ	καί	CONJ	_	
+7	ἀδελφὸν	ἀδελφός	NN	number=SINGULAR|gender=MASCULINE|case=ACCUSATIVE	
+8	παρακέκληκα	παρακαλέω	VB	person=PERSON_1|number=SINGULAR|tense=PERF|mood=INDICATIVE|voice=ACTIVE	
+9	ἵνα	ἵνα	CONJ	_	
+10	σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+11	διὰ	διά	PREP	_	
+12	χερὸς	χείρ	NN	number=SINGULAR|gender=FEMININE|case=GENITIVE	
+13	ἔχῃ	ἔχω	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=SUBJUNCTIVE|voice=ACTIVE	
+14	εἰς	εἰς	PREP	_	
+15	ὃ	ὅς	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+16	θελεις	ἐθέλω	VB	person=PERSON_2|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+17	καὶ	καί	CONJ	_	
+18	σὺ	σύ	PRON	person=PERSON_2|number=SINGULAR|case=NOMINATIVE	
+19	αὐτῷ	αὐτός	PRON	number=SINGULAR|gender=MASCULINE|case=DATIVE	
+20	εὔχρηστος	εὔχρηστος	ADJ	number=SINGULAR|gender=MASCULINE|case=NOMINATIVE	
+21	γενοῦ	γίγνομαι	VB	person=PERSON_2|number=SINGULAR|mood=IMPERATIVE	
+22	ἰς	εἰς	PREP	_	
+23	ὃ	ὅς	PRON	number=SINGULAR|gender=NEUTER|case=ACCUSATIVE	
+24	θέλει	ἐθέλω	VB	person=PERSON_3|number=SINGULAR|tense=PR|mood=INDICATIVE|voice=ACTIVE	
+1	ἔγραψά	γράφω	VB	person=PERSON_1|number=SINGULAR|mood=INDICATIVE|voice=ACTIVE	
+2	σοι	σύ	PRON	person=PERSON_2|number=SINGULAR|case=DATIVE	
+3	διὰ	διά	PREP	_	
+4	Ὀκταουίου	Ὀκτάουιος	NN	number=SINGULAR|gender=MASCULINE|case=GENITIVE	
+5	ἄλλην	ἄλλος	PRON	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+6	ἐπιστολὴν	ἐπιστολή	NN	number=SINGULAR|gender=FEMININE|case=ACCUSATIVE	
+7	ἀσπαζόμενός	ἀσπάζομαι	VB	number=SINGULAR|tense=PR|mood=PARTICIPLE|gender=MASCULINE|case=NOMINATIVE	
+8	σε	σύ	PRON	person=PERSON_2|number=SINGULAR|case=ACCUSATIVE	
+9	καὶ	καί	CONJ	_	
+10	πέμψεις	πέμπω	VB	person=PERSON_2|number=SINGULAR|mood=SUBJUNCTIVE|voice=ACTIVE	
+11	τοὺς	ὁ		number=PLURAL|gender=MASCULINE|case=ACCUSATIVE	
+12	πέντε	πέντε	NRL	_	
+13	στατῆρες	στατήρ	NN	number=PLURAL|gender=MASCULINE|case=NOMINATIVE	
+14	τη	ἡ		number=SINGULAR|gender=FEMININE|case=DATIVE	
+15	ἐρανάρχι	ἐρανάρχης	NN	number=SINGULAR|case=DATIVE	
+1	ἔρρωσο	ῥώννυμι	VB	person=PERSON_2|number=SINGULAR|tense=PERF|mood=IMPERATIVE	
